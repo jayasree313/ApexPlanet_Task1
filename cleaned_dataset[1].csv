@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,CustomerName,DateOfBirth,Gender,Country,ProductCategory,PurchaseDate,Quantity,UnitPrice,TotalAmount,PaymentMethod,CustomerFeedback,FeedbackSentiment,CustomerAge,AgeGroup
+TXN10950,CUST1950,Carlos Smith,1998-10-24,Male,United States,Home & Kitchen,2025-04-27,4,367.38,1469.52,PayPal,average product,Neutral,26,25-34
+TXN10703,CUST1703,Ken Kumar,1996-05-22,Male,United Kingdom,Books,2024-05-04,2,238.04,476.08,Debit Card,value for money,Positive,28,25-34
+TXN10959,CUST1959,Liam Wilson,1974-04-19,Male,United Kingdom,Toys,2024-06-14,3,208.56,625.68,Cash on Delivery,worst purchase ever,Negative,50,45-59
+TXN10556,CUST1556,Mia Ali,1993-01-17,Male,United States,Beauty,2024-02-27,1,272.09000000000003,272.09,PayPal,No feedback provided,No Feedback,31,25-34
+TXN10176,CUST1176,David Das,1959-12-29,Female,United Kingdom,Beauty,2024-08-21,1,281.6,281.6,UPI,"Great product, fast delivery!!",Positive,65,60+
+TXN10337,CUST1337,Carlos Johnson,1984-09-13,Male,United States,Toys,2024-11-12,4,498.33,1993.32,Credit Card,Delivery was late,Negative,40,35-44
+TXN10737,CUST1737,Yusuf Wilson,1957-11-06,Female,Germany,Electronics,2024-06-03,4,88.19,352.76,Credit Card,5 stars,Positive,67,60+
+TXN10105,CUST1105,Amit Garcia,1957-10-01,Female,United Kingdom,Clothing,2024-07-11,4,173.74,694.96,Cash on Delivery,"Excellent service, will buy again",Positive,67,60+
+TXN10129,CUST1129,Ananya Kim,1982-01-07,Male,United States,Beauty,2024-11-23,4,36.09,144.36,PayPal,ok,Neutral,42,35-44
+TXN10190,CUST1190,Noah Brown,1988-04-04,Female,United States,Sports,2025-03-18,2,13.03,26.06,Cash on Delivery,average product,Neutral,36,35-44
+TXN10793,CUST1793,Wei Silva,1959-08-16,Unknown,United States,Sports,2024-02-29,3,318.18,954.54,Cash on Delivery,"Excellent service, will buy again",Positive,65,60+
+TXN10270,CUST1270,Olivia Singh,1987-01-05,Female,United Kingdom,Toys,2024-03-30,3,368.33,1104.99,Debit Card,"Great product, fast delivery!!",Positive,37,35-44
+TXN10646,CUST1646,Sara Chen,1971-02-15,Male,Germany,Clothing,2024-05-05,4,46.9,187.6,Cash on Delivery,worst purchase ever,Negative,53,45-59
+TXN10088,CUST1088,Olivia Nguyen,1963-02-07,Male,India,Sports,2024-03-04,3,338.05,1014.15,Cash on Delivery,No feedback provided,No Feedback,61,60+
+TXN10148,CUST1148,Grace Singh,1985-04-16,Male,Germany,Toys,2024-01-15,1,474.53,474.53,UPI,Good,Positive,39,35-44
+TXN10379,CUST1379,Carlos Kim,1973-03-11,Unknown,United Kingdom,Home & Kitchen,2024-03-20,1,460.49,460.49,PayPal,"Great product, fast delivery!!",Positive,51,45-59
+TXN10120,CUST1120,Grace Khan,1982-10-10,Female,Canada,Toys,2024-06-17,5,51.26,256.3,PayPal,No feedback provided,No Feedback,42,35-44
+TXN10348,CUST1348,Mia Garcia,1976-01-16,Male,United Kingdom,Electronics,2025-04-05,3,245.5,736.5,UPI,Item damaged on arrival :(,Negative,48,45-59
+TXN10538,CUST1538,Mia Ali,,Male,India,Home & Kitchen,2024-01-07,3,178.92,536.76,PayPal,"Excellent service, will buy again",Positive,43,35-44
+TXN10722,CUST1722,Rahul Fernandes,1990-05-28,Female,United Kingdom,Home & Kitchen,2024-11-24,1,207.35,207.35,Credit Card,worst purchase ever,Negative,34,25-34
+TXN10624,CUST1624,Grace Lee,1959-07-11,Unknown,United Kingdom,Toys,2025-01-21,1,391.92,391.92,Credit Card,ok,Neutral,65,60+
+TXN10449,CUST1449,Ken Fernandes,1994-08-23,Male,United Kingdom,Electronics,2024-05-05,3,311.78,935.34,UPI,not happy with quality,Negative,30,25-34
+TXN10393,CUST1393,Priya Nguyen,,Female,Germany,Sports,2025-04-23,5,225.2,1126.0,PayPal,value for money,Positive,43,35-44
+TXN10550,CUST1550,Grace Wilson,1985-09-08,Unknown,India,Electronics,2025-01-16,2,68.71,137.42,UPI,average product,Neutral,39,35-44
+TXN10632,CUST1632,Ananya Khan,1958-04-26,Male,India,Books,2025-01-03,5,496.0,2480.0,Credit Card,No feedback provided,No Feedback,66,60+
+TXN10122,CUST1122,David Chen,2002-03-28,Female,India,Toys,2024-11-12,5,191.48,957.4,Debit Card,packaging could be better,Neutral,22,18-24
+TXN10637,CUST1637,Wei Fernandes,1991-12-20,Unknown,United States,Beauty,2025-03-30,4,111.32,445.28,PayPal,worst purchase ever,Negative,33,25-34
+TXN10058,CUST1058,Carlos Kumar,1979-10-22,Unknown,United Kingdom,Sports,2024-05-24,2,151.64,303.28,UPI,"Great product, fast delivery!!",Positive,45,45-59
+TXN10718,CUST1718,Fatima Brown,1976-12-21,Female,United Kingdom,Clothing,2024-06-04,5,226.89,1134.45,UPI,5 stars,Positive,48,45-59
+TXN10084,CUST1084,Rahul Silva,1955-09-23,Unknown,Canada,Toys,2025-01-16,5,373.86,1869.3,UPI,Bad experience,Negative,69,60+
+TXN10840,CUST1840,Sara Kumar,2003-11-14,Female,United Kingdom,Sports,2024-10-24,3,426.59,1279.77,PayPal,ok,Neutral,21,18-24
+TXN10059,CUST1059,Olivia Garcia,1979-08-11,Male,United Kingdom,Home & Kitchen,2024-12-23,4,55.78,223.12,UPI,5 stars,Positive,45,45-59
+TXN10940,CUST1940,Yusuf Garcia,2003-03-26,Unknown,India,Books,2024-10-26,5,133.84,669.2,Cash on Delivery,Delivery was late,Negative,21,18-24
+TXN10783,CUST1783,Sofia Kumar,1960-07-03,Female,Canada,Electronics,2024-06-04,3,184.97,554.91,Cash on Delivery,Bad experience,Negative,64,60+
+TXN10558,CUST1558,Olivia Fernandes,1981-01-26,Female,Germany,Electronics,2025-04-03,3,93.75,281.25,PayPal,Delivery was late,Negative,43,35-44
+TXN10629,CUST1629,Amit Johnson,1983-03-30,Unknown,United States,Beauty,2024-02-01,1,331.79,331.79,Credit Card,No feedback provided,No Feedback,41,35-44
+TXN10571,CUST1571,David Johnson,1969-12-13,Male,India,Beauty,2024-04-13,1,420.99,420.99,UPI,Loved it!,Positive,55,45-59
+TXN10779,CUST1779,Noah Fernandes,1955-09-21,Female,India,Home & Kitchen,2024-09-05,4,127.63,510.52,PayPal,value for money,Positive,69,60+
+TXN10555,CUST1555,Olivia Smith,1963-11-08,Male,Germany,Books,2024-08-31,5,96.64,483.2,Credit Card,value for money,Positive,61,60+
+TXN10614,CUST1614,John Brown,1957-05-28,Female,Canada,Clothing,2024-11-28,4,421.83,1687.32,PayPal,Good,Positive,67,60+
+TXN10191,CUST1191,Wei Brown,1984-08-05,Female,United Kingdom,Toys,2024-05-05,5,329.03,1645.15,UPI,5 stars,Positive,40,35-44
+TXN10100,CUST1100,Ken Ali,1992-04-27,Male,India,Home & Kitchen,2024-12-06,3,477.03,1431.09,PayPal,"Excellent service, will buy again",Positive,32,25-34
+TXN10826,CUST1826,Mia Wilson,1983-02-20,Male,Canada,Beauty,2024-09-16,3,439.32,1317.96,Credit Card,not happy with quality,Negative,41,35-44
+TXN10228,CUST1228,Wei Garcia,1977-05-26,Female,India,Toys,2024-05-06,4,75.37,301.48,Cash on Delivery,worst purchase ever,Negative,47,45-59
+TXN10239,CUST1239,Rahul Lee,1976-08-17,Female,United Kingdom,Electronics,2024-09-27,3,467.29,1401.87,Cash on Delivery,No feedback provided,No Feedback,48,45-59
+TXN10943,CUST1943,David Ali,1992-11-21,Female,India,Books,2024-10-12,3,63.92,191.76,Cash on Delivery,Delivery was late,Negative,32,25-34
+TXN10776,CUST1776,Fatima Garcia,1986-09-26,Male,India,Toys,2024-12-29,1,98.84,98.84,Cash on Delivery,Highly recommend to everyone,Positive,38,35-44
+TXN10459,CUST1459,Ken Fernandes,1960-01-10,Male,United Kingdom,Books,2024-12-13,5,270.26,1351.3,Cash on Delivery,No feedback provided,No Feedback,64,60+
+TXN10264,CUST1264,Grace Kim,1957-08-18,Male,Germany,Beauty,2024-09-28,5,499.8,2499.0,Credit Card,Bad experience,Negative,67,60+
+TXN10181,CUST1181,Sofia Singh,1956-05-27,Female,United States,Electronics,2024-10-31,4,300.9,1203.6,Credit Card,Bad experience,Negative,68,60+
+TXN10572,CUST1572,Priya Rao,1991-01-25,Male,Canada,Electronics,2025-01-02,1,297.97,297.97,PayPal,5 stars,Positive,33,25-34
+TXN10811,CUST1811,Wei Ali,1957-05-13,Male,United States,Books,2024-02-24,1,241.03,241.03,Debit Card,"Great product, fast delivery!!",Positive,67,60+
+TXN10788,CUST1788,Wei Sharma,1966-06-20,Female,United Kingdom,Books,2024-05-09,3,447.98,1343.94,Credit Card,Highly recommend to everyone,Positive,58,45-59
+TXN10684,CUST1684,Emma Brown,1995-07-23,Female,United States,Home & Kitchen,2024-08-05,5,82.82,414.1,UPI,ok,Neutral,29,25-34
+TXN10447,CUST1447,Wei Patel,1959-08-09,Male,India,Books,2025-01-28,3,315.09,945.27,Debit Card,Good,Positive,65,60+
+TXN10444,CUST1444,Wei Das,1995-07-11,Female,United Kingdom,Electronics,2024-04-02,5,71.98,359.9,PayPal,"Great product, fast delivery!!",Positive,29,25-34
+TXN10478,CUST1478,Yusuf Ali,1983-07-17,Female,India,Beauty,2024-10-06,2,240.06,480.12,Cash on Delivery,No feedback provided,No Feedback,41,35-44
+TXN10764,CUST1764,Liam Singh,1963-11-21,Female,India,Toys,2024-07-18,3,404.01,1212.03,PayPal,ok,Neutral,61,60+
+TXN10446,CUST1446,David Ali,2000-11-26,Female,India,Sports,2024-07-13,2,456.57,913.14,Debit Card,value for money,Positive,24,18-24
+TXN10066,CUST1066,Sara Das,1982-04-13,Male,United Kingdom,Sports,2024-09-09,1,301.03,301.03,Cash on Delivery,Loved it!,Positive,42,35-44
+TXN10455,CUST1455,David Kumar,1999-03-09,Male,United States,Books,2024-05-28,1,63.51,63.51,Credit Card,Good,Positive,25,25-34
+TXN10217,CUST1217,Fatima Fernandes,1990-06-28,Female,United Kingdom,Clothing,2024-08-18,4,197.47,789.88,UPI,Loved it!,Positive,34,25-34
+TXN10634,CUST1634,David Lee,1960-05-18,Male,Unknown,Sports,2024-06-30,1,379.5,379.5,PayPal,average product,Neutral,64,60+
+TXN10862,CUST1862,Ananya Garcia,1991-02-20,Male,Unknown,Electronics,2024-06-21,1,237.6,237.6,Cash on Delivery,average product,Neutral,33,25-34
+TXN10792,CUST1792,Ananya Kim,1981-08-03,Male,United States,Clothing,2024-04-24,5,122.92,614.6,Debit Card,Loved it!,Positive,43,35-44
+TXN10809,CUST1809,Amit Kim,1987-06-14,Female,Germany,Electronics,2024-07-04,4,479.02,1916.08,Credit Card,No feedback provided,No Feedback,37,35-44
+TXN10847,CUST1847,John Garcia,1995-09-15,Female,United States,Books,2025-04-04,3,100.95,302.85,Cash on Delivery,Loved it!,Positive,29,25-34
+TXN10791,CUST1791,Carlos Patel,1955-04-28,Male,United States,Sports,2024-12-22,5,230.44,1152.2,PayPal,Loved it!,Positive,69,60+
+TXN10675,CUST1675,Fatima Lee,1995-10-04,Female,United States,Electronics,2024-11-23,2,235.94,471.88,PayPal,No feedback provided,No Feedback,29,25-34
+TXN10267,CUST1267,Olivia Rao,1970-10-01,Male,United States,Electronics,2024-04-29,2,14.86,29.72,Cash on Delivery,Good,Positive,54,45-59
+TXN10899,CUST1899,Zara Rao,1980-12-19,Male,United Kingdom,Home & Kitchen,2024-12-07,4,195.98,783.92,PayPal,Highly recommend to everyone,Positive,44,35-44
+TXN10331,CUST1331,Ananya Brown,2003-07-21,Male,Germany,Beauty,2024-02-22,5,433.1,2165.5,PayPal,worst purchase ever,Negative,21,18-24
+TXN10074,CUST1074,Amit Silva,1992-03-23,Unknown,United Kingdom,Home & Kitchen,2025-02-24,3,364.4,1093.2,PayPal,Item damaged on arrival :(,Negative,32,25-34
+TXN10158,CUST1158,Grace Rao,1985-03-06,Unknown,United Kingdom,Sports,2024-09-07,3,240.07,720.21,Cash on Delivery,Delivery was late,Negative,39,35-44
+TXN10288,CUST1288,Zara Lee,1975-06-14,Male,Canada,Beauty,2025-01-31,3,365.76,1097.28,Credit Card,Good,Positive,49,45-59
+TXN10457,CUST1457,Ananya Rao,2000-06-16,Male,Unknown,Electronics,2024-02-28,3,201.04,603.12,Credit Card,value for money,Positive,24,18-24
+TXN10990,CUST1990,Noah Johnson,1970-03-07,Female,India,Sports,2024-01-08,4,419.67,1678.68,Credit Card,Good,Positive,54,45-59
+TXN10926,CUST1926,Yusuf Brown,1957-06-15,Female,Germany,Sports,2024-08-10,1,404.66,404.66,UPI,ok,Neutral,67,60+
+TXN10240,CUST1240,Olivia Patel,1997-04-04,Male,United Kingdom,Electronics,2024-01-08,2,24.71,49.42,Cash on Delivery,No feedback provided,No Feedback,27,25-34
+TXN10754,CUST1754,Olivia Wilson,1998-10-31,Male,Germany,Sports,2024-10-02,2,483.01,966.02,Debit Card,value for money,Positive,26,25-34
+TXN10392,CUST1392,Grace Garcia,1962-07-25,Male,United States,Clothing,2025-01-12,4,315.11,1260.44,Debit Card,"Great product, fast delivery!!",Positive,62,60+
+TXN10361,CUST1361,Carlos Das,1997-04-17,Female,United States,Toys,2024-07-29,2,398.33,796.66,Debit Card,No feedback provided,No Feedback,27,25-34
+TXN10082,CUST1082,Liam Das,1977-11-27,Unknown,United Kingdom,Home & Kitchen,2024-12-12,2,41.56,83.12,UPI,Highly recommend to everyone,Positive,47,45-59
+TXN10200,CUST1200,Noah Ali,1967-07-22,Male,Canada,Home & Kitchen,2024-01-28,4,119.91,479.64,Cash on Delivery,No feedback provided,No Feedback,57,45-59
+TXN10198,CUST1198,David Sharma,1975-08-12,Unknown,Canada,Sports,2024-08-31,1,462.46,462.46,UPI,ok,Neutral,49,45-59
+TXN10885,CUST1885,Ken Reddy,1986-02-17,Male,United States,Beauty,2025-04-19,4,342.06,1368.24,UPI,ok,Neutral,38,35-44
+TXN10086,CUST1086,Priya Reddy,1987-09-25,Male,India,Home & Kitchen,2025-01-17,2,104.39,208.78,Cash on Delivery,No feedback provided,No Feedback,37,35-44
+TXN10692,CUST1692,Zara Nguyen,,Female,India,Books,2025-01-20,5,153.32,766.6,Credit Card,Item damaged on arrival :(,Negative,43,35-44
+TXN10302,CUST1302,Noah Patel,1962-04-02,Male,Canada,Clothing,2024-06-09,1,228.77,228.77,Debit Card,value for money,Positive,62,60+
+TXN10600,CUST1600,Mia Khan,1973-04-11,Female,Germany,Clothing,2025-01-18,3,283.81,851.43,UPI,"Great product, fast delivery!!",Positive,51,45-59
+TXN10936,CUST1936,David Reddy,1985-11-12,Female,Germany,Sports,2024-01-17,4,382.49,1529.96,Credit Card,Bad experience,Negative,39,35-44
+TXN10416,CUST1416,Noah Patel,2002-11-24,Female,India,Home & Kitchen,2024-10-08,3,209.11,627.33,Cash on Delivery,Bad experience,Negative,22,18-24
+TXN10570,CUST1570,Yusuf Smith,1983-05-25,Male,India,Home & Kitchen,2024-10-20,4,54.53,218.12,Cash on Delivery,5 stars,Positive,41,35-44
+TXN10856,CUST1856,Mia Khan,1995-04-27,Male,Unknown,Home & Kitchen,2024-10-27,3,303.92,911.76,PayPal,No feedback provided,No Feedback,29,25-34
+TXN10466,CUST1466,David Lee,1973-07-14,Male,United Kingdom,Home & Kitchen,2024-05-18,3,289.17,867.51,UPI,No feedback provided,No Feedback,51,45-59
+TXN10146,CUST1146,Priya Lee,2001-06-25,Male,United States,Clothing,2024-06-14,3,474.0,1422.0,UPI,"Excellent service, will buy again",Positive,23,18-24
+TXN10928,CUST1928,Emma Chen,1981-07-16,Male,India,Electronics,2024-11-11,3,138.03,414.09,Credit Card,Delivery was late,Negative,43,35-44
+TXN10244,CUST1244,Zara Nguyen,,Unknown,Germany,Books,2024-05-12,3,67.83,203.49,UPI,Delivery was late,Negative,43,35-44
+TXN10853,CUST1853,Amit Garcia,1979-01-03,Female,United States,Electronics,2024-06-27,3,236.19,708.57,Cash on Delivery,No feedback provided,No Feedback,45,45-59
+TXN10029,CUST1029,Sofia Garcia,1958-10-02,Male,Germany,Toys,2024-01-21,2,342.62,685.24,Cash on Delivery,ok,Neutral,66,60+
+TXN10479,CUST1479,Sofia Garcia,1980-11-17,Female,United States,Electronics,2024-11-27,2,362.06,724.12,Cash on Delivery,Item damaged on arrival :(,Negative,44,35-44
+TXN10028,CUST1028,Fatima Das,2004-06-29,Male,United States,Electronics,2024-02-08,5,22.83,114.15,PayPal,Item damaged on arrival :(,Negative,20,18-24
+TXN10049,CUST1049,Emma Garcia,1997-06-26,Male,United States,Beauty,2024-12-24,3,88.06,264.18,Credit Card,value for money,Positive,27,25-34
+TXN10834,CUST1834,Olivia Singh,1972-10-24,Female,Canada,Sports,2024-11-11,3,263.27,789.81,Cash on Delivery,"Great product, fast delivery!!",Positive,52,45-59
+TXN10400,CUST1400,Ken Smith,1975-11-20,Female,United States,Beauty,2024-04-21,4,159.23,636.92,Cash on Delivery,packaging could be better,Neutral,49,45-59
+TXN10156,CUST1156,Sara Ali,1988-06-24,Male,India,Toys,2024-03-14,5,257.02,1285.1,Credit Card,not happy with quality,Negative,36,35-44
+TXN10124,CUST1124,Mia Reddy,1994-07-12,Unknown,India,Toys,2024-07-14,5,212.24,1061.2,UPI,Item damaged on arrival :(,Negative,30,25-34
+TXN10031,CUST1031,Emma Silva,1969-04-13,Female,Germany,Electronics,2025-03-15,2,103.79,207.58,Cash on Delivery,average product,Neutral,55,45-59
+TXN10654,CUST1654,Liam Singh,1977-07-05,Male,Germany,Books,2024-04-18,5,144.25,721.25,PayPal,"Excellent service, will buy again",Positive,47,45-59
+TXN10707,CUST1707,Amit Smith,1992-10-30,Male,India,Toys,2024-04-08,2,479.58,959.16,Debit Card,value for money,Positive,32,25-34
+TXN10607,CUST1607,Mia Singh,1971-09-20,Female,India,Electronics,2024-01-21,3,486.77,1460.31,Debit Card,5 stars,Positive,53,45-59
+TXN10681,CUST1681,Grace Reddy,1971-12-19,Male,Germany,Clothing,2024-06-16,1,316.58,316.58,Debit Card,No feedback provided,No Feedback,53,45-59
+TXN10256,CUST1256,Ananya Das,1978-10-10,Male,United States,Toys,2024-12-17,5,24.96,124.8,Cash on Delivery,Item damaged on arrival :(,Negative,46,45-59
+TXN10620,CUST1620,Wei Rao,1990-01-08,Unknown,Canada,Books,2025-01-11,4,400.88,1603.52,UPI,average product,Neutral,34,25-34
+TXN10062,CUST1062,Ken Das,1981-09-04,Female,India,Sports,2024-11-13,5,480.25,2401.25,UPI,Good,Positive,43,35-44
+TXN10877,CUST1877,Sara Patel,2000-02-24,Female,Canada,Home & Kitchen,2025-03-12,2,160.98,321.96,Debit Card,No feedback provided,No Feedback,24,18-24
+TXN10830,CUST1830,Zara Garcia,1974-02-24,Male,United States,Sports,2025-01-31,1,468.55,468.55,Cash on Delivery,5 stars,Positive,50,45-59
+TXN10194,CUST1194,Grace Singh,1998-05-08,Male,United States,Sports,2024-10-09,1,13.28,13.28,PayPal,average product,Neutral,26,25-34
+TXN10508,CUST1508,Sofia Patel,1988-03-09,Female,United Kingdom,Clothing,2025-04-18,1,71.02,71.02,Cash on Delivery,value for money,Positive,36,35-44
+TXN10851,CUST1851,Sara Johnson,1986-02-10,Male,United Kingdom,Sports,2024-01-03,5,372.14,1860.7,UPI,"Great product, fast delivery!!",Positive,38,35-44
+TXN10657,CUST1657,Grace Kumar,1955-05-21,Female,United States,Beauty,2024-10-11,4,271.38,1085.52,Credit Card,ok,Neutral,69,60+
+TXN10052,CUST1052,Zara Lee,1993-11-22,Female,Germany,Beauty,2024-12-28,4,92.19,368.76,UPI,ok,Neutral,31,25-34
+TXN10653,CUST1653,Sofia Chen,1995-07-12,Male,Germany,Beauty,2025-05-07,3,328.26,984.78,Credit Card,5 stars,Positive,29,25-34
+TXN10329,CUST1329,Olivia Johnson,1965-05-09,Male,United Kingdom,Sports,2024-10-19,5,146.53,732.65,Credit Card,No feedback provided,No Feedback,59,45-59
+TXN10890,CUST1890,Liam Garcia,1992-05-07,Female,India,Home & Kitchen,2024-02-13,5,463.92,2319.6,Debit Card,worst purchase ever,Negative,32,25-34
+TXN10236,CUST1236,Mia Brown,1968-07-31,Unknown,Canada,Beauty,2025-03-16,1,448.81,448.81,Credit Card,worst purchase ever,Negative,56,45-59
+TXN10738,CUST1738,Olivia Kim,1976-10-31,Unknown,Germany,Books,2024-12-24,1,220.27,220.27,Debit Card,No feedback provided,No Feedback,48,45-59
+TXN10011,CUST1011,David Patel,2000-07-18,Unknown,Canada,Home & Kitchen,2025-03-06,5,103.46,517.3,Debit Card,ok,Neutral,24,18-24
+TXN10962,CUST1962,Amit Sharma,2001-07-13,Male,United Kingdom,Clothing,2024-03-21,4,430.56,1722.24,Debit Card,No feedback provided,No Feedback,23,18-24
+TXN10510,CUST1510,Carlos Garcia,1979-04-23,Female,India,Clothing,2025-04-25,5,347.38,1736.9,PayPal,"Excellent service, will buy again",Positive,45,45-59
+TXN10693,CUST1693,Wei Johnson,1990-01-25,Female,Unknown,Electronics,2024-09-30,2,240.01,480.02,PayPal,average product,Neutral,34,25-34
+TXN10248,CUST1248,Noah Kim,1992-05-05,Male,Germany,Electronics,2024-10-19,1,253.51,253.51,Debit Card,Bad experience,Negative,32,25-34
+TXN10860,CUST1860,Sofia Johnson,1983-09-20,Unknown,United States,Toys,2024-09-09,1,495.18,495.18,Credit Card,packaging could be better,Neutral,41,35-44
+TXN10093,CUST1093,Amit Brown,1956-11-30,Unknown,India,Clothing,2024-03-05,2,38.96,77.92,UPI,Good,Positive,68,60+
+TXN10730,CUST1730,Sofia Das,,Male,Unknown,Electronics,2024-07-12,3,36.81,110.43,UPI,5 stars,Positive,43,35-44
+TXN10104,CUST1104,John Singh,1978-12-29,Female,India,Books,2025-01-25,3,178.76,536.28,Debit Card,worst purchase ever,Negative,46,45-59
+TXN10410,CUST1410,Noah Khan,2003-05-09,Female,United Kingdom,Books,2024-09-11,2,308.45,616.9,Cash on Delivery,No feedback provided,No Feedback,21,18-24
+TXN10322,CUST1322,Olivia Brown,1995-12-06,Male,Germany,Electronics,2025-02-22,4,238.89,955.56,PayPal,No feedback provided,No Feedback,29,25-34
+TXN10710,CUST1710,Grace Nguyen,1958-12-10,Female,India,Home & Kitchen,2025-01-27,4,491.64,1966.56,PayPal,value for money,Positive,66,60+
+TXN10714,CUST1714,Wei Ali,1973-05-03,Female,Canada,Sports,2025-04-29,3,71.46,214.38,Credit Card,No feedback provided,No Feedback,51,45-59
+TXN10557,CUST1557,Ananya Chen,1958-08-23,Male,United Kingdom,Electronics,2024-07-16,4,302.19,1208.76,PayPal,Bad experience,Negative,66,60+
+TXN10827,CUST1827,Emma Chen,1955-09-18,Unknown,United States,Home & Kitchen,2024-07-11,5,202.64,1013.2,Cash on Delivery,packaging could be better,Neutral,69,60+
+TXN10325,CUST1325,Sara Fernandes,1959-03-04,Male,Germany,Beauty,2024-08-22,5,71.64,358.2,PayPal,not happy with quality,Negative,65,60+
+TXN10588,CUST1588,Noah Das,1997-12-01,Male,United States,Books,2024-10-30,3,103.34,310.02,Debit Card,worst purchase ever,Negative,27,25-34
+TXN10533,CUST1533,Ken Silva,1988-03-01,Female,United Kingdom,Books,2024-01-18,3,78.23,234.69,Debit Card,No feedback provided,No Feedback,36,35-44
+TXN10889,CUST1889,Rahul Fernandes,1990-10-22,Male,India,Sports,2024-06-08,5,220.73,1103.65,Debit Card,Good,Positive,34,25-34
+TXN10438,CUST1438,Grace Singh,1978-12-10,Male,United Kingdom,Clothing,2024-11-01,2,345.25,690.5,PayPal,Item damaged on arrival :(,Negative,46,45-59
+TXN10901,CUST1901,Mia Garcia,1996-12-23,Male,United States,Clothing,2024-07-02,5,109.34,546.7,PayPal,worst purchase ever,Negative,28,25-34
+TXN10768,CUST1768,Amit Rao,2004-09-18,Unknown,Germany,Electronics,2025-05-07,5,466.56,2332.8,PayPal,No feedback provided,No Feedback,20,18-24
+TXN10265,CUST1265,Emma Silva,2002-11-17,Unknown,Unknown,Sports,2025-03-09,3,467.93,1403.79,Debit Card,value for money,Positive,22,18-24
+TXN10794,CUST1794,Olivia Silva,1966-12-27,Male,India,Home & Kitchen,2024-01-30,3,113.54,340.62,Debit Card,Loved it!,Positive,58,45-59
+TXN10708,CUST1708,Priya Fernandes,2000-12-23,Unknown,India,Home & Kitchen,2024-10-14,5,107.52,537.6,Cash on Delivery,Delivery was late,Negative,24,18-24
+TXN10092,CUST1092,Ken Das,1976-03-07,Male,Canada,Home & Kitchen,2024-10-05,1,202.08,202.08,Credit Card,packaging could be better,Neutral,48,45-59
+TXN10630,CUST1630,Ananya Fernandes,1991-01-24,Unknown,India,Books,2025-01-15,3,8.91,26.73,PayPal,Item damaged on arrival :(,Negative,33,25-34
+TXN10145,CUST1145,Noah Khan,1995-05-15,Female,United Kingdom,Home & Kitchen,2024-03-06,5,95.07,475.35,Cash on Delivery,No feedback provided,No Feedback,29,25-34
+TXN10212,CUST1212,Sara Kim,1986-11-06,Female,United Kingdom,Electronics,2024-10-15,3,238.89,716.67,Credit Card,No feedback provided,No Feedback,38,35-44
+TXN10782,CUST1782,Sofia Smith,1972-11-28,Unknown,United States,Beauty,2024-07-27,3,351.58,1054.74,UPI,No feedback provided,No Feedback,52,45-59
+TXN10717,CUST1717,Wei Khan,1970-08-01,Male,Germany,Toys,2025-04-22,2,256.18,512.36,PayPal,average product,Neutral,54,45-59
+TXN10921,CUST1921,Ken Rao,1987-12-02,Male,Germany,Books,2024-05-05,3,162.84,488.52,Credit Card,not happy with quality,Negative,37,35-44
+TXN10580,CUST1580,Emma Lee,1999-11-18,Male,Canada,Toys,2024-10-24,3,250.74,752.22,Credit Card,No feedback provided,No Feedback,25,25-34
+TXN10526,CUST1526,Liam Wilson,1992-12-10,Male,United States,Home & Kitchen,2024-06-25,4,253.22,1012.88,PayPal,ok,Neutral,32,25-34
+TXN10313,CUST1313,Priya Lee,1970-09-03,Unknown,India,Home & Kitchen,2025-02-14,4,370.58,1482.32,Credit Card,"Great product, fast delivery!!",Positive,54,45-59
+TXN10430,CUST1430,Ken Smith,1960-12-22,Female,India,Books,2025-03-12,1,14.44,14.44,Cash on Delivery,Bad experience,Negative,64,60+
+TXN10473,CUST1473,Yusuf Johnson,2003-11-08,Female,Canada,Books,2024-02-09,4,236.70499999999998,946.82,Cash on Delivery,ok,Neutral,21,18-24
+TXN10547,CUST1547,Olivia Reddy,1986-07-19,Male,United States,Sports,2024-05-24,4,208.94,835.76,Debit Card,Delivery was late,Negative,38,35-44
+TXN10233,CUST1233,Fatima Sharma,1990-07-23,Female,Canada,Toys,2024-04-29,1,693.3787500000001,693.38,Debit Card,Bad experience,Negative,34,25-34
+TXN10247,CUST1247,Emma Sharma,1997-04-28,Female,United States,Clothing,2025-04-21,5,402.54,2012.7,Cash on Delivery,Bad experience,Negative,27,25-34
+TXN10087,CUST1087,David Silva,1969-10-05,Unknown,United Kingdom,Toys,2024-05-31,1,236.82,236.82,UPI,worst purchase ever,Negative,55,45-59
+TXN10360,CUST1360,David Sharma,1968-03-05,Female,India,Clothing,2024-09-21,5,484.78,2423.9,UPI,"Excellent service, will buy again",Positive,56,45-59
+TXN10359,CUST1359,Zara Kumar,1973-11-26,Female,Canada,Toys,2024-07-29,2,26.36,52.72,Debit Card,Item damaged on arrival :(,Negative,51,45-59
+TXN10102,CUST1102,Sara Fernandes,1986-09-21,Unknown,Canada,Electronics,2025-05-10,5,159.66,798.3,PayPal,Good,Positive,38,35-44
+TXN10195,CUST1195,John Wilson,1993-08-18,Male,United States,Sports,2024-03-17,2,311.79,623.58,Cash on Delivery,Loved it!,Positive,31,25-34
+TXN10040,CUST1040,Sofia Kim,1970-10-12,Female,United States,Sports,2024-05-07,4,71.0,284.0,PayPal,No feedback provided,No Feedback,54,45-59
+TXN10668,CUST1668,Grace Fernandes,1960-11-25,Female,United States,Sports,2024-01-27,4,203.83,815.32,Cash on Delivery,Bad experience,Negative,64,60+
+TXN10017,CUST1017,Sara Lee,1993-09-02,Female,India,Beauty,2025-03-18,1,35.0,35.0,Credit Card,Bad experience,Negative,31,25-34
+TXN10695,CUST1695,Carlos Kim,1981-02-11,Male,United Kingdom,Electronics,2024-07-07,1,90.05,90.05,Cash on Delivery,No feedback provided,No Feedback,43,35-44
+TXN10816,CUST1816,Olivia Singh,1961-12-04,Female,India,Books,2024-11-24,4,86.59,346.36,Cash on Delivery,Good,Positive,63,60+
+TXN10905,CUST1905,Zara Kumar,,Unknown,Germany,Books,2025-02-11,1,450.4,450.4,Cash on Delivery,Highly recommend to everyone,Positive,43,35-44
+TXN10841,CUST1841,Rahul Lee,1972-07-18,Male,India,Toys,2025-04-12,4,454.46,1817.84,Cash on Delivery,"Great product, fast delivery!!",Positive,52,45-59
+TXN10453,CUST1453,Noah Wilson,1992-02-14,Female,Canada,Clothing,2024-11-09,1,287.83,287.83,PayPal,"Excellent service, will buy again",Positive,32,25-34
+TXN10178,CUST1178,Priya Rao,1991-09-06,Unknown,United States,Toys,2024-11-24,3,496.46,1489.38,Cash on Delivery,worst purchase ever,Negative,33,25-34
+TXN10137,CUST1137,Noah Lee,1962-03-08,Unknown,India,Home & Kitchen,2024-08-16,4,87.49,349.96,PayPal,not happy with quality,Negative,62,60+
+TXN10081,CUST1081,Yusuf Patel,1970-04-02,Male,United Kingdom,Toys,2024-07-14,2,251.35,502.7,UPI,packaging could be better,Neutral,54,45-59
+TXN10127,CUST1127,Rahul Khan,1988-08-20,Male,India,Electronics,2025-03-05,2,73.11,146.22,PayPal,Item damaged on arrival :(,Negative,36,35-44
+TXN10119,CUST1119,Liam Singh,1968-06-28,Male,United Kingdom,Books,2024-03-13,3,484.01,1452.03,Cash on Delivery,Item damaged on arrival :(,Negative,56,45-59
+TXN10670,CUST1670,David Johnson,1972-04-08,Male,United States,Sports,2024-12-31,5,395.76,1978.8,Debit Card,No feedback provided,No Feedback,52,45-59
+TXN10506,CUST1506,Grace Patel,1960-09-26,Male,United Kingdom,Sports,2025-02-13,2,36.24,72.48,Cash on Delivery,No feedback provided,No Feedback,64,60+
+TXN10902,CUST1902,David Khan,1970-08-27,Unknown,Canada,Books,2024-10-15,4,359.02,1436.08,UPI,average product,Neutral,54,45-59
+TXN10823,CUST1823,Carlos Singh,1961-09-23,Male,Canada,Beauty,2024-02-19,2,384.33,768.66,Credit Card,No feedback provided,No Feedback,63,60+
+TXN10358,CUST1358,Carlos Garcia,1971-10-08,Male,United Kingdom,Books,2025-02-22,2,210.23,420.46,Credit Card,5 stars,Positive,53,45-59
+TXN10096,CUST1096,Ken Nguyen,2001-01-16,Male,United Kingdom,Sports,2024-04-23,1,364.99,364.99,PayPal,average product,Neutral,23,18-24
+TXN10304,CUST1304,John Johnson,2002-08-22,Male,Canada,Electronics,2024-11-16,2,348.29,696.58,Debit Card,Delivery was late,Negative,22,18-24
+TXN10193,CUST1193,Priya Khan,1959-05-09,Female,United States,Toys,2024-11-18,1,693.3787500000001,693.38,Cash on Delivery,not happy with quality,Negative,65,60+
+TXN10597,CUST1597,Liam Nguyen,1993-08-02,Male,United Kingdom,Toys,2025-01-24,5,159.94,799.7,Cash on Delivery,5 stars,Positive,31,25-34
+TXN10864,CUST1864,Sara Nguyen,1964-03-20,Female,United States,Toys,2024-01-06,1,496.8,496.8,Cash on Delivery,Bad experience,Negative,60,60+
+TXN10109,CUST1109,Rahul Chen,1975-08-24,Male,Germany,Books,2025-02-16,1,201.55,201.55,Cash on Delivery,"Great product, fast delivery!!",Positive,49,45-59
+TXN10305,CUST1305,Rahul Wilson,1982-06-18,Male,Germany,Electronics,2024-06-01,4,365.28,1461.12,Cash on Delivery,Highly recommend to everyone,Positive,42,35-44
+TXN10868,CUST1868,Amit Silva,1981-07-30,Male,United Kingdom,Toys,2025-03-22,2,349.01,698.02,PayPal,not happy with quality,Negative,43,35-44
+TXN10489,CUST1489,Carlos Reddy,1985-12-16,Female,India,Toys,2025-02-23,1,87.96,87.96,UPI,5 stars,Positive,39,35-44
+TXN10749,CUST1749,Yusuf Lee,1968-03-29,Female,Canada,Toys,2024-03-27,1,181.01,181.01,Credit Card,Delivery was late,Negative,56,45-59
+TXN10125,CUST1125,Liam Sharma,1998-02-11,Male,United States,Books,2025-03-09,1,146.11,146.11,UPI,packaging could be better,Neutral,26,25-34
+TXN10382,CUST1382,Sara Wilson,1996-04-10,Female,United States,Electronics,2024-12-11,4,292.6,1170.4,UPI,value for money,Positive,28,25-34
+TXN10469,CUST1469,Amit Das,1963-09-23,Male,Canada,Books,2024-12-29,4,119.69,478.76,UPI,No feedback provided,No Feedback,61,60+
+TXN10042,CUST1042,Liam Kim,,Female,Canada,Clothing,2024-05-20,1,358.2,358.2,Cash on Delivery,No feedback provided,No Feedback,43,35-44
+TXN10271,CUST1271,Yusuf Ali,1957-11-27,Male,India,Toys,2025-05-10,2,321.63,643.26,PayPal,Item damaged on arrival :(,Negative,67,60+
+TXN10006,CUST1006,Grace Patel,2002-12-02,Female,United Kingdom,Beauty,2024-05-18,2,343.88,687.76,Credit Card,Bad experience,Negative,22,18-24
+TXN10065,CUST1065,Olivia Kim,1968-05-14,Unknown,United States,Electronics,2024-01-31,3,299.55,898.65,UPI,packaging could be better,Neutral,56,45-59
+TXN10914,CUST1914,Noah Sharma,1976-02-20,Male,Germany,Sports,2025-04-08,1,176.19,176.19,Cash on Delivery,"Excellent service, will buy again",Positive,48,45-59
+TXN10046,CUST1046,Ken Garcia,2002-12-02,Female,United Kingdom,Sports,2024-12-05,1,323.16,323.16,PayPal,value for money,Positive,22,18-24
+TXN10954,CUST1954,Liam Kumar,1968-08-02,Unknown,United States,Books,2024-09-11,2,103.29,206.58,PayPal,Good,Positive,56,45-59
+TXN10315,CUST1315,Ken Silva,1989-08-09,Unknown,Unknown,Books,2025-03-29,1,70.59,70.59,Debit Card,Delivery was late,Negative,35,35-44
+TXN10525,CUST1525,Carlos Garcia,1985-01-17,Male,United States,Books,2024-09-01,2,236.70499999999998,473.41,Cash on Delivery,No feedback provided,No Feedback,39,35-44
+TXN10004,CUST1004,Ken Chen,1966-03-14,Male,United Kingdom,Home & Kitchen,2025-02-28,3,290.79,872.37,Credit Card,Bad experience,Negative,58,45-59
+TXN10351,CUST1351,Wei Chen,1972-08-15,Female,Canada,Electronics,2025-01-07,1,425.55,425.55,Cash on Delivery,Good,Positive,52,45-59
+TXN10507,CUST1507,Noah Lee,2003-12-22,Male,Germany,Toys,2024-04-19,5,90.86,454.3,UPI,Item damaged on arrival :(,Negative,21,18-24
+TXN10515,CUST1515,Sara Johnson,1975-06-08,Female,Canada,Beauty,2025-03-21,4,446.23,1784.92,PayPal,not happy with quality,Negative,49,45-59
+TXN10967,CUST1967,Sara Silva,1997-04-16,Male,India,Electronics,2024-04-23,5,142.89,714.45,PayPal,No feedback provided,No Feedback,27,25-34
+TXN10886,CUST1886,Fatima Rao,1998-09-04,Male,Germany,Home & Kitchen,2024-01-08,1,112.58,112.58,Credit Card,not happy with quality,Negative,26,25-34
+TXN10294,CUST1294,Liam Singh,1982-05-28,Female,India,Toys,2024-06-27,3,113.01,339.03,PayPal,worst purchase ever,Negative,42,35-44
+TXN10196,CUST1196,Rahul Khan,1988-06-20,Female,United Kingdom,Clothing,2024-12-22,3,343.6,1030.8,Credit Card,"Excellent service, will buy again",Positive,36,35-44
+TXN10640,CUST1640,Fatima Chen,1988-02-19,Male,Germany,Beauty,2024-02-26,3,288.02,864.06,Debit Card,Delivery was late,Negative,36,35-44
+TXN10529,CUST1529,Sofia Chen,1966-11-05,Male,India,Beauty,2025-01-12,3,98.59,295.77,UPI,No feedback provided,No Feedback,58,45-59
+TXN10797,CUST1797,Ken Patel,1970-10-19,Male,United Kingdom,Books,2024-04-02,1,158.53,158.53,Cash on Delivery,Good,Positive,54,45-59
+TXN10601,CUST1601,David Reddy,1971-03-14,Male,United States,Toys,2024-09-12,3,17.85,53.55,Credit Card,worst purchase ever,Negative,53,45-59
+TXN10340,CUST1340,David Khan,1963-08-11,Unknown,United Kingdom,Sports,2024-01-04,2,336.82,673.64,Cash on Delivery,Delivery was late,Negative,61,60+
+TXN10878,CUST1878,Ken Garcia,1956-02-22,Female,India,Electronics,2024-03-31,1,89.51,89.51,Credit Card,No feedback provided,No Feedback,68,60+
+TXN10334,CUST1334,Fatima Wilson,1965-09-15,Male,India,Home & Kitchen,2024-10-11,2,84.66,169.32,Credit Card,No feedback provided,No Feedback,59,45-59
+TXN10955,CUST1955,John Fernandes,1961-01-13,Male,United Kingdom,Clothing,2024-12-29,1,211.99,211.99,Cash on Delivery,Bad experience,Negative,63,60+
+TXN10350,CUST1350,Wei Johnson,1998-01-22,Female,India,Toys,2024-06-05,5,58.87,294.35,Credit Card,Loved it!,Positive,26,25-34
+TXN10761,CUST1761,Wei Johnson,1993-11-26,Male,United Kingdom,Clothing,2024-02-09,1,268.08,268.08,Cash on Delivery,"Excellent service, will buy again",Positive,31,25-34
+TXN10250,CUST1250,Ananya Reddy,1982-04-07,Female,United Kingdom,Home & Kitchen,2024-10-29,2,367.57,735.14,UPI,Item damaged on arrival :(,Negative,42,35-44
+TXN10731,CUST1731,Zara Lee,,Male,Germany,Electronics,2024-12-06,1,52.94,52.94,Credit Card,worst purchase ever,Negative,43,35-44
+TXN10772,CUST1772,Zara Rao,1978-10-02,Male,Canada,Books,2024-10-18,2,461.91,923.82,PayPal,not happy with quality,Negative,46,45-59
+TXN10165,CUST1165,Ken Silva,1997-12-24,Female,Germany,Sports,2024-05-18,3,72.95,218.85,UPI,Bad experience,Negative,27,25-34
+TXN10812,CUST1812,Wei Nguyen,1967-09-04,Unknown,United States,Electronics,2024-10-18,2,383.88,767.76,Debit Card,No feedback provided,No Feedback,57,45-59
+TXN10372,CUST1372,Carlos Sharma,2000-10-20,Unknown,United States,Sports,2024-03-27,3,693.3787500000001,2080.14,UPI,worst purchase ever,Negative,24,18-24
+TXN10575,CUST1575,Liam Chen,1993-11-29,Female,Canada,Electronics,2024-09-24,3,233.93,701.79,UPI,Highly recommend to everyone,Positive,31,25-34
+TXN10870,CUST1870,Noah Rao,1995-09-25,Unknown,United Kingdom,Electronics,2025-04-13,2,458.77,917.54,PayPal,No feedback provided,No Feedback,29,25-34
+TXN10079,CUST1079,Zara Chen,1958-03-22,Male,United States,Books,2024-12-16,2,374.65,749.3,Credit Card,Delivery was late,Negative,66,60+
+TXN10110,CUST1110,Ken Khan,1983-02-01,Female,United Kingdom,Beauty,2024-12-29,3,62.01,186.03,Cash on Delivery,value for money,Positive,41,35-44
+TXN10202,CUST1202,Grace Rao,1977-02-09,Male,India,Clothing,2024-07-13,4,161.76,647.04,Credit Card,average product,Neutral,47,45-59
+TXN10451,CUST1451,Sofia Patel,1969-06-22,Male,Canada,Books,2024-12-24,5,394.72,1973.6,PayPal,No feedback provided,No Feedback,55,45-59
+TXN10112,CUST1112,Emma Johnson,1970-01-31,Male,Canada,Electronics,2024-09-28,2,453.43,906.86,Debit Card,Bad experience,Negative,54,45-59
+TXN10144,CUST1144,Ken Chen,1966-08-23,Male,United States,Home & Kitchen,2024-07-22,5,208.34,1041.7,Credit Card,Item damaged on arrival :(,Negative,58,45-59
+TXN10802,CUST1802,Sara Wilson,1992-04-04,Male,United States,Electronics,2024-04-26,4,77.95,311.8,UPI,worst purchase ever,Negative,32,25-34
+TXN10207,CUST1207,Ananya Smith,1990-07-02,Unknown,United Kingdom,Beauty,2025-02-15,4,170.69,682.76,Debit Card,No feedback provided,No Feedback,34,25-34
+TXN10289,CUST1289,Ken Brown,1991-07-13,Unknown,United Kingdom,Toys,2024-07-10,5,396.79,1983.95,PayPal,worst purchase ever,Negative,33,25-34
+TXN10808,CUST1808,Sofia Chen,1999-08-07,Male,United Kingdom,Sports,2024-10-01,4,46.39,185.56,PayPal,Bad experience,Negative,25,25-34
+TXN10363,CUST1363,Sofia Garcia,1963-08-22,Female,United Kingdom,Sports,2024-01-20,5,377.43,1887.15,Debit Card,ok,Neutral,61,60+
+TXN10647,CUST1647,Yusuf Sharma,1999-02-03,Male,India,Clothing,2024-07-31,5,162.1,810.5,Credit Card,Delivery was late,Negative,25,25-34
+TXN10103,CUST1103,Wei Kumar,1975-02-13,Male,Germany,Sports,2024-07-07,3,289.18,867.54,PayPal,ok,Neutral,49,45-59
+TXN10801,CUST1801,Noah Kumar,1968-11-11,Male,United Kingdom,Books,2024-05-16,1,15.5,15.5,PayPal,average product,Neutral,56,45-59
+TXN10047,CUST1047,Priya Silva,1989-01-04,Female,United Kingdom,Home & Kitchen,2024-06-21,3,377.24,1131.72,UPI,"Excellent service, will buy again",Positive,35,35-44
+TXN10005,CUST1005,Ananya Khan,1975-11-20,Female,India,Beauty,2024-11-21,2,188.24,376.48,UPI,"Excellent service, will buy again",Positive,49,45-59
+TXN10553,CUST1553,Grace Brown,1972-12-11,Female,India,Electronics,2024-02-16,3,474.65,1423.95,Debit Card,No feedback provided,No Feedback,52,45-59
+TXN10401,CUST1401,Priya Johnson,1962-03-13,Male,India,Toys,2024-07-19,5,237.72,1188.6,UPI,worst purchase ever,Negative,62,60+
+TXN10784,CUST1784,Noah Sharma,1971-04-22,Male,United States,Books,2025-01-16,2,146.23,292.46,Credit Card,Highly recommend to everyone,Positive,53,45-59
+TXN10467,CUST1467,Olivia Das,1959-07-21,Male,United Kingdom,Books,2024-01-26,4,31.63,126.52,Debit Card,packaging could be better,Neutral,65,60+
+TXN10702,CUST1702,Amit Das,1989-03-12,Female,India,Toys,2024-04-09,1,10.31,10.31,Debit Card,No feedback provided,No Feedback,35,35-44
+TXN10785,CUST1785,Fatima Silva,1999-01-28,Male,India,Electronics,2024-02-19,5,386.38,1931.9,Cash on Delivery,No feedback provided,No Feedback,25,25-34
+TXN10839,CUST1839,Sofia Ali,1980-07-27,Female,India,Books,2024-11-13,1,403.94,403.94,Credit Card,Highly recommend to everyone,Positive,44,35-44
+TXN10587,CUST1587,Ken Garcia,1955-04-11,Female,Canada,Home & Kitchen,2024-06-09,1,241.04500000000002,241.04,Debit Card,No feedback provided,No Feedback,69,60+
+TXN10952,CUST1952,Emma Khan,1984-05-06,Male,India,Home & Kitchen,2024-08-20,1,354.87,354.87,Credit Card,Highly recommend to everyone,Positive,40,35-44
+TXN10758,CUST1758,Emma Sharma,1971-11-15,Male,Germany,Toys,2024-04-20,5,278.27,1391.35,UPI,Item damaged on arrival :(,Negative,53,45-59
+TXN10725,CUST1725,Emma Singh,1969-06-25,Male,Germany,Electronics,2024-11-25,4,354.5,1418.0,Credit Card,No feedback provided,No Feedback,55,45-59
+TXN10900,CUST1900,Sofia Garcia,1957-07-05,Unknown,United States,Sports,2024-07-18,5,154.87,774.35,PayPal,not happy with quality,Negative,67,60+
+TXN10215,CUST1215,Zara Nguyen,1997-09-19,Female,Canada,Books,2024-08-19,1,153.63,153.63,Credit Card,"Great product, fast delivery!!",Positive,27,25-34
+TXN10138,CUST1138,Mia Singh,1994-01-08,Female,Germany,Electronics,2024-02-08,3,258.98,776.94,Debit Card,"Great product, fast delivery!!",Positive,30,25-34
+TXN10874,CUST1874,Sofia Brown,1981-05-17,Female,United States,Sports,2024-05-21,5,249.34,1246.7,Credit Card,Bad experience,Negative,43,35-44
+TXN10387,CUST1387,Sara Das,1985-01-09,Male,India,Sports,2024-10-12,3,14.82,44.46,UPI,ok,Neutral,39,35-44
+TXN10480,CUST1480,Amit Garcia,1992-04-22,Unknown,Canada,Sports,2025-04-21,5,94.0,470.0,PayPal,packaging could be better,Neutral,32,25-34
+TXN10135,CUST1135,Mia Sharma,1984-10-11,Male,Germany,Home & Kitchen,2024-08-11,4,447.85,1791.4,Debit Card,5 stars,Positive,40,35-44
+TXN10611,CUST1611,Priya Khan,1992-05-05,Male,United Kingdom,Books,2024-08-20,5,404.88,2024.4,Debit Card,No feedback provided,No Feedback,32,25-34
+TXN10528,CUST1528,Fatima Rao,1961-11-26,Unknown,India,Electronics,2024-12-22,4,238.89,955.56,Credit Card,average product,Neutral,63,60+
+TXN10819,CUST1819,Priya Sharma,,Male,United States,Home & Kitchen,2025-01-19,4,252.61,1010.44,Cash on Delivery,No feedback provided,No Feedback,43,35-44
+TXN10147,CUST1147,Liam Brown,2004-06-01,Female,Canada,Home & Kitchen,2024-11-10,1,253.77,253.77,Debit Card,value for money,Positive,20,18-24
+TXN10291,CUST1291,Liam Nguyen,1996-08-24,Female,Canada,Electronics,2024-12-14,2,189.37,378.74,Debit Card,5 stars,Positive,28,25-34
+TXN10527,CUST1527,Olivia Rao,1995-07-20,Male,Germany,Books,2025-04-29,2,446.49,892.98,Credit Card,worst purchase ever,Negative,29,25-34
+TXN10238,CUST1238,Ananya Brown,2001-06-13,Male,United States,Books,2024-07-19,1,392.98,392.98,UPI,5 stars,Positive,23,18-24
+TXN10534,CUST1534,Ananya Lee,1957-03-27,Female,Germany,Clothing,2025-04-30,3,82.25,246.75,PayPal,No feedback provided,No Feedback,67,60+
+TXN10720,CUST1720,Rahul Fernandes,1962-06-20,Male,United Kingdom,Clothing,2024-10-10,3,193.32,579.96,UPI,worst purchase ever,Negative,62,60+
+TXN10386,CUST1386,Noah Kumar,,Male,Germany,Sports,2024-01-25,1,346.82,346.82,UPI,5 stars,Positive,43,35-44
+TXN10408,CUST1408,Carlos Reddy,1971-09-29,Male,India,Books,2024-08-27,5,457.66,2288.3,Credit Card,No feedback provided,No Feedback,53,45-59
+TXN10666,CUST1666,Emma Lee,1997-06-27,Male,Germany,Electronics,2025-02-24,5,398.09,1990.45,PayPal,Delivery was late,Negative,27,25-34
+TXN10800,CUST1800,John Lee,2003-08-29,Unknown,Canada,Electronics,2024-04-13,4,381.04,1524.16,Debit Card,average product,Neutral,21,18-24
+TXN10106,CUST1106,Priya Garcia,1969-02-14,Male,Canada,Electronics,2024-05-19,4,238.89,955.56,UPI,Good,Positive,55,45-59
+TXN10164,CUST1164,Sara Reddy,2003-09-25,Female,Germany,Home & Kitchen,2025-05-03,3,25.82,77.46,Credit Card,No feedback provided,No Feedback,21,18-24
+TXN10543,CUST1543,Ananya Fernandes,1971-02-03,Female,Canada,Clothing,2024-01-15,3,249.06,747.18,Cash on Delivery,5 stars,Positive,53,45-59
+TXN10869,CUST1869,Carlos Smith,1974-05-23,Unknown,India,Clothing,2024-09-06,3,108.29,324.87,PayPal,No feedback provided,No Feedback,50,45-59
+TXN10128,CUST1128,Zara Das,1955-06-22,Male,India,Clothing,2025-03-03,5,470.41,2352.05,Cash on Delivery,Delivery was late,Negative,69,60+
+TXN10884,CUST1884,Mia Johnson,1990-01-30,Unknown,India,Home & Kitchen,2024-04-07,5,262.44,1312.2,Credit Card,Highly recommend to everyone,Positive,34,25-34
+TXN10972,CUST1972,Carlos Chen,1998-11-05,Female,India,Books,2024-04-30,4,236.70499999999998,946.82,Credit Card,Delivery was late,Negative,26,25-34
+TXN10513,CUST1513,Mia Rao,1973-10-20,Male,India,Sports,2025-02-16,1,56.69,56.69,PayPal,value for money,Positive,51,45-59
+TXN10355,CUST1355,David Nguyen,,Female,United States,Electronics,2024-11-28,1,353.35,353.35,UPI,Loved it!,Positive,43,35-44
+TXN10369,CUST1369,Sara Kim,1995-01-25,Male,United States,Sports,2024-07-24,5,308.94,1544.7,Credit Card,No feedback provided,No Feedback,29,25-34
+TXN10915,CUST1915,Olivia Kumar,1966-08-13,Female,United States,Electronics,2024-01-19,5,116.5,582.5,PayPal,average product,Neutral,58,45-59
+TXN10641,CUST1641,Mia Rao,1988-08-05,Male,United Kingdom,Electronics,2025-02-09,2,392.98,785.96,UPI,average product,Neutral,36,35-44
+TXN10032,CUST1032,Emma Kim,1957-02-14,Female,India,Home & Kitchen,2025-03-18,3,178.82,536.46,PayPal,No feedback provided,No Feedback,67,60+
+TXN10549,CUST1549,Sara Fernandes,,Male,Germany,Clothing,2025-04-17,4,177.36,709.44,Debit Card,packaging could be better,Neutral,43,35-44
+TXN10544,CUST1544,Yusuf Fernandes,1978-02-20,Female,Germany,Electronics,2024-07-10,5,13.68,68.4,Credit Card,Item damaged on arrival :(,Negative,46,45-59
+TXN10636,CUST1636,Yusuf Garcia,1988-11-18,Female,United States,Electronics,2024-06-16,5,100.31,501.55,PayPal,Delivery was late,Negative,36,35-44
+TXN10113,CUST1113,Sara Garcia,1977-12-18,Female,United Kingdom,Clothing,2025-01-24,2,475.89,951.78,PayPal,packaging could be better,Neutral,47,45-59
+TXN10778,CUST1778,Rahul Wilson,1989-11-19,Male,United States,Toys,2024-01-11,2,175.34,350.68,UPI,not happy with quality,Negative,35,35-44
+TXN10133,CUST1133,Olivia Johnson,1970-09-16,Female,United Kingdom,Books,2024-04-03,1,359.44,359.44,Credit Card,average product,Neutral,54,45-59
+TXN10992,CUST1992,Liam Chen,1986-06-18,Male,United Kingdom,Sports,2025-03-04,5,465.49,2327.45,Credit Card,value for money,Positive,38,35-44
+TXN10371,CUST1371,Rahul Singh,2001-09-28,Unknown,United Kingdom,Electronics,2025-04-29,4,222.29,889.16,PayPal,average product,Neutral,23,18-24
+TXN10734,CUST1734,Grace Lee,2002-08-09,Female,Germany,Toys,2024-05-07,4,311.08,1244.32,PayPal,No feedback provided,No Feedback,22,18-24
+TXN10551,CUST1551,Wei Brown,1966-09-06,Female,Canada,Toys,2025-02-05,1,14.31,14.31,Cash on Delivery,not happy with quality,Negative,58,45-59
+TXN10975,CUST1975,Liam Wilson,1983-12-03,Male,United Kingdom,Books,2024-03-25,3,264.01,792.03,Cash on Delivery,No feedback provided,No Feedback,41,35-44
+TXN10774,CUST1774,Mia Smith,1964-02-03,Female,United States,Electronics,2024-09-27,2,208.31,416.62,Credit Card,Item damaged on arrival :(,Negative,60,60+
+TXN10262,CUST1262,Sofia Chen,1997-12-22,Male,India,Beauty,2024-03-11,2,323.11,646.22,UPI,ok,Neutral,27,25-34
+TXN10295,CUST1295,Yusuf Lee,1955-08-29,Female,Germany,Toys,2024-07-10,5,306.48,1532.4,Credit Card,5 stars,Positive,69,60+
+TXN10210,CUST1210,Ken Rao,1961-03-16,Female,United Kingdom,Clothing,2024-11-20,2,130.08,260.16,Cash on Delivery,No feedback provided,No Feedback,63,60+
+TXN10448,CUST1448,John Singh,1977-09-15,Female,United Kingdom,Toys,2024-09-12,1,305.95,305.95,UPI,5 stars,Positive,47,45-59
+TXN10667,CUST1667,Ken Reddy,1966-03-14,Male,United States,Beauty,2024-06-09,2,272.09000000000003,544.18,Credit Card,average product,Neutral,58,45-59
+TXN10743,CUST1743,Grace Reddy,1974-12-06,Female,United States,Sports,2025-03-12,3,76.63,229.89,UPI,5 stars,Positive,50,45-59
+TXN10627,CUST1627,Zara Johnson,1980-09-22,Unknown,United States,Home & Kitchen,2024-07-09,3,316.57,949.71,PayPal,Highly recommend to everyone,Positive,44,35-44
+TXN10160,CUST1160,David Singh,1989-02-09,Unknown,Canada,Clothing,2024-01-17,1,99.44,99.44,Cash on Delivery,Item damaged on arrival :(,Negative,35,35-44
+TXN10441,CUST1441,Sofia Ali,1958-10-02,Female,Germany,Beauty,2025-01-03,4,307.69,1230.76,PayPal,No feedback provided,No Feedback,66,60+
+TXN10814,CUST1814,David Patel,1955-12-23,Unknown,India,Books,2025-04-30,5,357.15,1785.75,PayPal,average product,Neutral,69,60+
+TXN10098,CUST1098,Grace Garcia,1960-11-22,Male,United Kingdom,Books,2024-10-26,3,236.70499999999998,710.12,UPI,No feedback provided,No Feedback,64,60+
+TXN10991,CUST1991,David Garcia,,Female,United Kingdom,Electronics,2024-05-21,2,345.91,691.82,Credit Card,average product,Neutral,43,35-44
+TXN10411,CUST1411,Sara Wilson,1960-12-24,Unknown,United States,Clothing,2025-03-23,2,57.99,115.98,Credit Card,worst purchase ever,Negative,64,60+
+TXN10280,CUST1280,Fatima Das,1959-01-02,Female,United Kingdom,Home & Kitchen,2024-04-25,5,35.51,177.55,Credit Card,"Excellent service, will buy again",Positive,65,60+
+TXN10677,CUST1677,Carlos Reddy,1987-04-16,Male,United States,Clothing,2024-05-25,2,443.26,886.52,Cash on Delivery,ok,Neutral,37,35-44
+TXN10187,CUST1187,Liam Ali,1958-07-19,Female,Germany,Toys,2024-10-27,2,242.3,484.6,Cash on Delivery,average product,Neutral,66,60+
+TXN10957,CUST1957,Zara Rao,1963-08-30,Male,Germany,Toys,2024-05-27,4,166.07,664.28,Credit Card,value for money,Positive,61,60+
+TXN10407,CUST1407,Carlos Smith,1988-11-21,Female,United States,Home & Kitchen,2025-04-05,4,354.78,1419.12,PayPal,5 stars,Positive,36,35-44
+TXN10644,CUST1644,Rahul Kim,1990-06-22,Male,United States,Books,2025-03-31,3,324.73,974.19,Credit Card,average product,Neutral,34,25-34
+TXN10225,CUST1225,Sara Kim,1981-09-16,Female,India,Home & Kitchen,2025-03-17,4,433.32,1733.28,UPI,Good,Positive,43,35-44
+TXN10015,CUST1015,Yusuf Chen,1975-08-24,Female,United States,Electronics,2024-12-28,2,38.36,76.72,Cash on Delivery,"Excellent service, will buy again",Positive,49,45-59
+TXN10171,CUST1171,David Johnson,1962-10-13,Female,United States,Clothing,2024-03-12,3,693.3787500000001,2080.14,PayPal,Loved it!,Positive,62,60+
+TXN10795,CUST1795,John Chen,1964-07-19,Female,India,Toys,2024-11-16,5,107.05,535.25,Cash on Delivery,Loved it!,Positive,60,60+
+TXN10391,CUST1391,Fatima Ali,1964-03-29,Male,United Kingdom,Sports,2024-01-28,4,264.37,1057.48,Credit Card,Loved it!,Positive,60,60+
+TXN10116,CUST1116,Rahul Das,2004-09-23,Female,Germany,Sports,2024-11-29,3,304.48,913.44,Credit Card,packaging could be better,Neutral,20,18-24
+TXN10462,CUST1462,Priya Brown,1963-04-23,Male,United States,Toys,2024-09-04,2,99.15,198.3,PayPal,average product,Neutral,61,60+
+TXN10645,CUST1645,Olivia Lee,1962-08-22,Male,United Kingdom,Sports,2025-01-22,5,263.27,1316.35,PayPal,"Great product, fast delivery!!",Positive,62,60+
+TXN10450,CUST1450,Fatima Garcia,1959-12-10,Male,United States,Toys,2024-01-17,5,152.73,763.65,Credit Card,Delivery was late,Negative,65,60+
+TXN10020,CUST1020,Rahul Smith,1990-01-10,Unknown,Germany,Beauty,2024-05-26,5,332.63,1663.15,UPI,average product,Neutral,34,25-34
+TXN10108,CUST1108,Grace Sharma,1955-09-09,Male,United States,Toys,2024-03-11,3,693.3787500000001,2080.14,Debit Card,Item damaged on arrival :(,Negative,69,60+
+TXN10649,CUST1649,Fatima Smith,1960-03-31,Female,United States,Home & Kitchen,2024-03-13,3,132.68,398.04,Credit Card,not happy with quality,Negative,64,60+
+TXN10585,CUST1585,Noah Fernandes,1958-01-15,Unknown,United States,Toys,2025-02-03,4,369.79,1479.16,Cash on Delivery,Highly recommend to everyone,Positive,66,60+
+TXN10237,CUST1237,Mia Fernandes,1983-03-20,Female,India,Books,2024-02-13,5,302.49,1512.45,UPI,"Great product, fast delivery!!",Positive,41,35-44
+TXN10432,CUST1432,Priya Kim,2002-06-30,Male,United Kingdom,Beauty,2025-01-16,1,176.66,176.66,UPI,Bad experience,Negative,22,18-24
+TXN10470,CUST1470,Rahul Patel,1984-08-20,Female,Unknown,Electronics,2024-02-03,1,178.96,178.96,Debit Card,average product,Neutral,40,35-44
+TXN10688,CUST1688,Carlos Johnson,1972-08-22,Unknown,India,Books,2025-02-21,2,354.29,708.58,PayPal,Loved it!,Positive,52,45-59
+TXN10234,CUST1234,David Das,1955-11-01,Female,Unknown,Toys,2024-03-02,2,241.46,482.92,Credit Card,Delivery was late,Negative,69,60+
+TXN10230,CUST1230,Ken Nguyen,1960-09-06,Female,United States,Beauty,2025-02-26,4,137.93,551.72,Cash on Delivery,ok,Neutral,64,60+
+TXN10388,CUST1388,Fatima Rao,1986-11-10,Female,United Kingdom,Beauty,2025-01-31,1,193.63,193.63,Debit Card,value for money,Positive,38,35-44
+TXN10476,CUST1476,Ananya Reddy,1982-04-28,Female,India,Electronics,2024-10-25,5,493.28,2466.4,Debit Card,average product,Neutral,42,35-44
+TXN10615,CUST1615,Amit Rao,1996-07-29,Female,India,Electronics,2024-02-29,2,370.7,741.4,PayPal,5 stars,Positive,28,25-34
+TXN10320,CUST1320,Emma Chen,1988-12-20,Unknown,United States,Electronics,2024-08-23,5,226.81,1134.05,PayPal,No feedback provided,No Feedback,36,35-44
+TXN10621,CUST1621,Amit Kumar,1966-08-01,Female,United States,Sports,2024-09-08,4,471.81,1887.24,UPI,Good,Positive,58,45-59
+TXN10594,CUST1594,Amit Lee,2004-12-20,Male,India,Clothing,2024-08-29,5,469.96,2349.8,Credit Card,"Great product, fast delivery!!",Positive,20,18-24
+TXN10559,CUST1559,Rahul Das,2001-11-21,Male,United States,Beauty,2024-07-24,1,372.01,372.01,Debit Card,"Excellent service, will buy again",Positive,23,18-24
+TXN10500,CUST1500,Emma Smith,1989-06-27,Unknown,United Kingdom,Sports,2025-04-23,3,342.51,1027.53,Credit Card,No feedback provided,No Feedback,35,35-44
+TXN10971,CUST1971,Zara Silva,1991-12-13,Female,India,Toys,2024-03-18,3,346.05,1038.15,Credit Card,Loved it!,Positive,33,25-34
+TXN10669,CUST1669,Grace Singh,1955-12-14,Female,United Kingdom,Toys,2024-08-07,5,55.13,275.65,Credit Card,packaging could be better,Neutral,69,60+
+TXN10060,CUST1060,Zara Das,1985-07-26,Unknown,India,Toys,2024-09-01,1,203.35,203.35,Credit Card,Item damaged on arrival :(,Negative,39,35-44
+TXN10377,CUST1377,Noah Fernandes,1986-09-05,Male,United States,Books,2025-03-02,2,147.21,294.42,Cash on Delivery,"Excellent service, will buy again",Positive,38,35-44
+TXN10880,CUST1880,David Patel,1968-02-25,Male,India,Toys,2025-01-11,4,247.88,991.52,PayPal,Loved it!,Positive,56,45-59
+TXN10117,CUST1117,Sara Johnson,1962-07-26,Female,United States,Electronics,2024-05-06,4,264.41,1057.64,Cash on Delivery,No feedback provided,No Feedback,62,60+
+TXN10069,CUST1069,Noah Fernandes,1999-06-14,Female,India,Toys,2025-01-24,1,230.14,230.14,Cash on Delivery,Delivery was late,Negative,25,25-34
+TXN10412,CUST1412,Zara Wilson,1977-12-17,Unknown,Unknown,Sports,2025-01-02,1,465.45,465.45,PayPal,"Excellent service, will buy again",Positive,47,45-59
+TXN10390,CUST1390,Ken Nguyen,2001-09-26,Female,United States,Clothing,2025-03-13,2,248.11,496.22,Credit Card,Good,Positive,23,18-24
+TXN10724,CUST1724,Rahul Fernandes,1977-02-20,Female,United States,Toys,2024-07-04,2,134.36,268.72,Debit Card,Loved it!,Positive,47,45-59
+TXN10652,CUST1652,Yusuf Fernandes,1995-01-04,Unknown,Canada,Sports,2024-04-14,3,272.52,817.56,UPI,No feedback provided,No Feedback,29,25-34
+TXN10402,CUST1402,John Lee,1977-05-02,Unknown,United Kingdom,Clothing,2025-01-12,2,233.11,466.22,PayPal,Good,Positive,47,45-59
+TXN10524,CUST1524,Mia Sharma,1964-12-15,Male,United Kingdom,Sports,2024-01-21,3,91.76,275.28,Credit Card,ok,Neutral,60,60+
+TXN10038,CUST1038,Ananya Wilson,1985-01-26,Unknown,Germany,Clothing,2024-12-10,2,404.25,808.5,Credit Card,Bad experience,Negative,39,35-44
+TXN10760,CUST1760,Olivia Brown,1961-05-01,Female,Canada,Books,2024-04-08,5,330.37,1651.85,Debit Card,Highly recommend to everyone,Positive,63,60+
+TXN10978,CUST1978,Priya Singh,1997-01-18,Female,United States,Home & Kitchen,2024-11-21,2,175.75,351.5,UPI,Loved it!,Positive,27,25-34
+TXN10107,CUST1107,David Lee,1985-12-19,Male,India,Books,2024-12-13,4,265.83,1063.32,UPI,worst purchase ever,Negative,39,35-44
+TXN10143,CUST1143,Fatima Patel,1987-06-07,Female,United States,Clothing,2025-02-09,2,396.23,792.46,PayPal,No feedback provided,No Feedback,37,35-44
+TXN10352,CUST1352,Priya Chen,1978-05-19,Male,United Kingdom,Books,2025-01-31,3,199.29,597.87,UPI,Item damaged on arrival :(,Negative,46,45-59
+TXN10357,CUST1357,Rahul Nguyen,1985-12-15,Unknown,United Kingdom,Sports,2024-01-04,2,222.75,445.5,PayPal,Loved it!,Positive,39,35-44
+TXN10324,CUST1324,Zara Garcia,1991-09-18,Male,United Kingdom,Clothing,2024-04-06,4,111.72,446.88,UPI,No feedback provided,No Feedback,33,25-34
+TXN10757,CUST1757,Olivia Das,1967-07-19,Female,Canada,Home & Kitchen,2024-09-24,5,271.41,1357.05,Credit Card,not happy with quality,Negative,57,45-59
+TXN10252,CUST1252,Carlos Wilson,1976-05-14,Female,United States,Clothing,2024-12-30,1,26.73,26.73,PayPal,Highly recommend to everyone,Positive,48,45-59
+TXN10770,CUST1770,Grace Sharma,1995-04-02,Female,Germany,Sports,2025-04-07,2,263.27,526.54,PayPal,No feedback provided,No Feedback,29,25-34
+TXN10945,CUST1945,Amit Garcia,1955-09-13,Male,India,Books,2024-11-28,4,163.62,654.48,UPI,Delivery was late,Negative,69,60+
+TXN10690,CUST1690,Emma Kim,1973-10-30,Female,United Kingdom,Sports,2025-02-06,4,362.64,1450.56,Credit Card,No feedback provided,No Feedback,51,45-59
+TXN10056,CUST1056,John Khan,1981-05-25,Female,Canada,Clothing,2024-06-05,3,239.26,717.78,Cash on Delivery,ok,Neutral,43,35-44
+TXN10216,CUST1216,Noah Lee,1969-09-29,Male,United States,Sports,2024-03-22,5,216.05,1080.25,Cash on Delivery,value for money,Positive,55,45-59
+TXN10339,CUST1339,Olivia Rao,1957-03-20,Unknown,Germany,Home & Kitchen,2024-09-20,4,241.04500000000002,964.18,UPI,No feedback provided,No Feedback,67,60+
+TXN10771,CUST1771,Priya Fernandes,1999-06-15,Female,India,Electronics,2024-06-22,5,426.13,2130.65,UPI,average product,Neutral,25,25-34
+TXN10057,CUST1057,Noah Nguyen,1995-09-16,Male,Unknown,Clothing,2024-03-02,3,64.18,192.54,Debit Card,Good,Positive,29,25-34
+TXN10980,CUST1980,Sara Brown,1980-02-13,Male,United Kingdom,Electronics,2024-03-05,5,324.19,1620.95,UPI,5 stars,Positive,44,35-44
+TXN10920,CUST1920,Wei Singh,1990-09-09,Female,United States,Books,2024-02-09,3,469.49,1408.47,Cash on Delivery,Bad experience,Negative,34,25-34
+TXN10170,CUST1170,Liam Patel,1956-04-06,Unknown,India,Sports,2024-12-11,2,307.42,614.84,Cash on Delivery,Highly recommend to everyone,Positive,68,60+
+TXN10292,CUST1292,Yusuf Chen,,Female,Germany,Home & Kitchen,2025-01-18,3,18.59,55.77,UPI,Bad experience,Negative,43,35-44
+TXN10182,CUST1182,Priya Ali,1994-05-19,Male,United States,Toys,2025-03-18,2,254.43,508.86,Cash on Delivery,No feedback provided,No Feedback,30,25-34
+TXN10054,CUST1054,Noah Smith,1999-05-07,Female,United Kingdom,Clothing,2024-06-30,3,143.43,430.29,UPI,ok,Neutral,25,25-34
+TXN10564,CUST1564,John Sharma,1993-08-12,Female,United Kingdom,Home & Kitchen,2025-03-12,4,232.53,930.12,PayPal,average product,Neutral,31,25-34
+TXN10895,CUST1895,David Garcia,1999-06-09,Female,Canada,Books,2025-03-12,3,315.98,947.94,Credit Card,5 stars,Positive,25,25-34
+TXN10347,CUST1347,Sara Patel,1959-11-18,Unknown,Canada,Sports,2024-02-07,1,129.09,129.09,PayPal,No feedback provided,No Feedback,65,60+
+TXN10818,CUST1818,Carlos Singh,1955-12-26,Female,United Kingdom,Clothing,2024-11-22,2,138.24,276.48,Credit Card,5 stars,Positive,69,60+
+TXN10152,CUST1152,Ananya Ali,1992-07-06,Unknown,United States,Toys,2024-06-16,3,98.97,296.91,PayPal,packaging could be better,Neutral,32,25-34
+TXN10465,CUST1465,Carlos Brown,1980-09-16,Male,India,Toys,2024-08-13,3,78.91,236.73,Credit Card,ok,Neutral,44,35-44
+TXN10231,CUST1231,Yusuf Garcia,1998-07-17,Female,Germany,Electronics,2024-01-24,4,13.06,52.24,Debit Card,packaging could be better,Neutral,26,25-34
+TXN10798,CUST1798,Amit Garcia,1961-06-18,Female,United Kingdom,Books,2025-05-11,1,363.53,363.53,Credit Card,Delivery was late,Negative,63,60+
+TXN10579,CUST1579,Priya Khan,1983-03-01,Male,Germany,Electronics,2025-04-06,3,337.48,1012.44,Cash on Delivery,Item damaged on arrival :(,Negative,41,35-44
+TXN10711,CUST1711,Liam Lee,1984-02-06,Female,Germany,Books,2024-03-09,2,319.5,639.0,Cash on Delivery,5 stars,Positive,40,35-44
+TXN10503,CUST1503,Rahul Khan,,Female,United Kingdom,Toys,2025-02-19,1,23.34,23.34,Credit Card,worst purchase ever,Negative,43,35-44
+TXN10887,CUST1887,Zara Rao,1955-06-16,Male,Canada,Toys,2024-01-01,3,73.17,219.51,PayPal,ok,Neutral,69,60+
+TXN10189,CUST1189,Noah Rao,1989-02-24,Male,Canada,Home & Kitchen,2024-06-06,3,258.84,776.52,Credit Card,5 stars,Positive,35,35-44
+TXN10389,CUST1389,Noah Fernandes,,Male,United States,Home & Kitchen,2024-04-26,3,328.24,984.72,Cash on Delivery,Loved it!,Positive,43,35-44
+TXN10924,CUST1924,Ananya Khan,1960-05-10,Unknown,United Kingdom,Beauty,2024-09-10,4,195.41,781.64,UPI,worst purchase ever,Negative,64,60+
+TXN10810,CUST1810,Mia Garcia,1981-06-09,Female,Germany,Toys,2024-10-09,2,109.31,218.62,Debit Card,Delivery was late,Negative,43,35-44
+TXN10186,CUST1186,David Garcia,1989-11-05,Male,United States,Home & Kitchen,2024-11-27,4,424.33,1697.32,UPI,not happy with quality,Negative,35,35-44
+TXN10044,CUST1044,Priya Brown,1992-09-10,Unknown,United Kingdom,Books,2024-01-11,4,241.1,964.4,UPI,worst purchase ever,Negative,32,25-34
+TXN10417,CUST1417,Yusuf Chen,1974-03-11,Unknown,United Kingdom,Books,2024-05-10,4,226.51,906.04,Credit Card,average product,Neutral,50,45-59
+TXN10618,CUST1618,Priya Wilson,1956-09-15,Male,India,Sports,2024-02-02,4,445.12,1780.48,Cash on Delivery,packaging could be better,Neutral,68,60+
+TXN10723,CUST1723,Yusuf Patel,1972-06-04,Male,Germany,Toys,2025-01-04,5,356.02,1780.1,Cash on Delivery,not happy with quality,Negative,52,45-59
+TXN10966,CUST1966,Yusuf Ali,1972-06-06,Unknown,India,Toys,2024-06-14,5,373.02,1865.1,PayPal,Good,Positive,52,45-59
+TXN10586,CUST1586,Sara Patel,1978-05-31,Male,India,Beauty,2024-11-04,3,229.36,688.08,Credit Card,value for money,Positive,46,45-59
+TXN10817,CUST1817,Liam Lee,1964-05-13,Male,United Kingdom,Toys,2025-03-09,1,123.57,123.57,Credit Card,"Excellent service, will buy again",Positive,60,60+
+TXN10353,CUST1353,Ken Wilson,2000-10-16,Female,India,Sports,2024-01-06,5,343.66,1718.3,Debit Card,packaging could be better,Neutral,24,18-24
+TXN10318,CUST1318,David Wilson,1963-07-18,Female,Canada,Clothing,2024-09-03,4,78.58,314.32,Credit Card,"Great product, fast delivery!!",Positive,61,60+
+TXN10323,CUST1323,Ken Lee,1963-09-28,Male,India,Home & Kitchen,2025-02-28,5,263.38,1316.9,Credit Card,value for money,Positive,61,60+
+TXN10807,CUST1807,Rahul Nguyen,1983-08-25,Female,United Kingdom,Books,2025-05-13,5,397.78,1988.9,UPI,worst purchase ever,Negative,41,35-44
+TXN10977,CUST1977,Sofia Patel,1968-06-27,Male,United States,Home & Kitchen,2024-12-25,2,348.55,697.1,Cash on Delivery,Delivery was late,Negative,56,45-59
+TXN10799,CUST1799,Rahul Ali,1956-11-09,Unknown,United States,Toys,2025-03-01,2,127.93,255.86,Debit Card,"Great product, fast delivery!!",Positive,68,60+
+TXN10709,CUST1709,Emma Brown,1964-07-01,Male,United States,Electronics,2024-07-24,1,197.65,197.65,Credit Card,Loved it!,Positive,60,60+
+TXN10330,CUST1330,Sara Smith,1989-03-03,Male,Canada,Electronics,2024-04-12,2,491.85,983.7,Debit Card,not happy with quality,Negative,35,35-44
+TXN10151,CUST1151,Rahul Garcia,1988-03-29,Male,United States,Home & Kitchen,2024-05-03,1,137.4,137.4,Credit Card,not happy with quality,Negative,36,35-44
+TXN10958,CUST1958,Ken Johnson,1965-03-09,Female,India,Books,2024-03-06,4,302.52,1210.08,Credit Card,average product,Neutral,59,45-59
+TXN10068,CUST1068,Ken Silva,1971-04-14,Female,Canada,Toys,2024-09-08,4,177.24,708.96,Credit Card,value for money,Positive,53,45-59
+TXN10741,CUST1741,Liam Lee,1981-02-07,Unknown,United States,Home & Kitchen,2025-01-14,2,373.59,747.18,Cash on Delivery,Item damaged on arrival :(,Negative,43,35-44
+TXN10458,CUST1458,Carlos Johnson,1985-04-26,Female,Germany,Electronics,2024-11-26,4,81.92,327.68,PayPal,No feedback provided,No Feedback,39,35-44
+TXN10563,CUST1563,Amit Wilson,1999-02-27,Female,Unknown,Books,2024-09-11,5,134.52,672.6,PayPal,ok,Neutral,25,25-34
+TXN10440,CUST1440,Liam Fernandes,1974-12-19,Unknown,United States,Electronics,2024-03-31,5,247.52,1237.6,PayPal,Bad experience,Negative,50,45-59
+TXN10909,CUST1909,Sofia Reddy,2004-01-14,Male,United States,Books,2025-01-08,4,99.12,396.48,PayPal,No feedback provided,No Feedback,20,18-24
+TXN10328,CUST1328,Olivia Johnson,2004-08-30,Female,United States,Sports,2024-12-31,3,460.99,1382.97,Debit Card,No feedback provided,No Feedback,20,18-24
+TXN10523,CUST1523,Priya Rao,,Female,United Kingdom,Sports,2024-10-21,1,312.13,312.13,Credit Card,No feedback provided,No Feedback,43,35-44
+TXN10786,CUST1786,Yusuf Wilson,1988-05-03,Female,India,Clothing,2024-10-26,1,444.16,444.16,Credit Card,not happy with quality,Negative,36,35-44
+TXN10713,CUST1713,Grace Lee,1982-09-16,Female,India,Toys,2024-05-04,1,34.66,34.66,UPI,Good,Positive,42,35-44
+TXN10973,CUST1973,Sofia Khan,1988-09-14,Unknown,United States,Clothing,2024-09-23,2,102.7,205.4,Credit Card,not happy with quality,Negative,36,35-44
+TXN10499,CUST1499,Rahul Silva,1968-08-07,Female,United Kingdom,Electronics,2024-09-20,4,220.85,883.4,Credit Card,ok,Neutral,56,45-59
+TXN10747,CUST1747,Rahul Ali,1961-06-11,Female,India,Home & Kitchen,2024-12-22,5,199.92,999.6,Credit Card,average product,Neutral,63,60+
+TXN10983,CUST1983,Rahul Kumar,1986-11-06,Unknown,United Kingdom,Home & Kitchen,2024-09-28,5,421.88,2109.4,UPI,Item damaged on arrival :(,Negative,38,35-44
+TXN10488,CUST1488,David Sharma,1985-10-04,Female,United Kingdom,Toys,2024-03-19,4,386.33,1545.32,PayPal,value for money,Positive,39,35-44
+TXN10916,CUST1916,Emma Smith,1959-12-19,Unknown,Germany,Toys,2024-04-10,5,430.85,2154.25,Credit Card,ok,Neutral,65,60+
+TXN10836,CUST1836,Yusuf Lee,1958-04-10,Female,United States,Beauty,2024-12-22,2,302.47,604.94,UPI,Good,Positive,66,60+
+TXN10132,CUST1132,Liam Smith,1987-01-14,Male,United States,Books,2024-12-02,5,368.92,1844.6,Credit Card,No feedback provided,No Feedback,37,35-44
+TXN10804,CUST1804,Grace Garcia,1970-12-22,Male,India,Sports,2024-04-02,2,263.27,526.54,UPI,No feedback provided,No Feedback,54,45-59
+TXN10297,CUST1297,Noah Garcia,,Male,India,Beauty,2024-07-26,1,293.6,293.6,UPI,No feedback provided,No Feedback,43,35-44
+TXN10284,CUST1284,Noah Khan,1962-10-22,Male,India,Sports,2024-06-15,5,231.79,1158.95,PayPal,Highly recommend to everyone,Positive,62,60+
+TXN10858,CUST1858,Wei Johnson,1965-12-21,Male,Unknown,Electronics,2025-01-02,2,235.36,470.72,UPI,ok,Neutral,59,45-59
+TXN10418,CUST1418,Grace Smith,2001-06-09,Male,United States,Home & Kitchen,2024-04-23,3,15.74,47.22,UPI,ok,Neutral,23,18-24
+TXN10744,CUST1744,Ken Garcia,1980-06-04,Female,Canada,Toys,2025-02-14,5,163.47,817.35,Credit Card,Loved it!,Positive,44,35-44
+TXN10131,CUST1131,Mia Khan,2002-03-12,Male,Germany,Sports,2024-10-10,4,437.3,1749.2,Cash on Delivery,No feedback provided,No Feedback,22,18-24
+TXN10566,CUST1566,Zara Chen,1969-01-08,Male,India,Home & Kitchen,2024-09-10,4,310.39,1241.56,UPI,No feedback provided,No Feedback,55,45-59
+TXN10616,CUST1616,John Das,1976-10-07,Male,United Kingdom,Toys,2025-03-02,1,170.26,170.26,Cash on Delivery,Highly recommend to everyone,Positive,48,45-59
+TXN10115,CUST1115,Amit Rao,1996-06-04,Male,United States,Home & Kitchen,2025-03-01,1,324.11,324.11,Credit Card,No feedback provided,No Feedback,28,25-34
+TXN10530,CUST1530,Noah Fernandes,1985-10-02,Female,United Kingdom,Books,2024-12-22,5,225.4,1127.0,Debit Card,average product,Neutral,39,35-44
+TXN10937,CUST1937,Yusuf Wilson,2004-03-08,Male,Canada,Electronics,2025-03-09,1,305.52,305.52,PayPal,packaging could be better,Neutral,20,18-24
+TXN10753,CUST1753,Yusuf Garcia,1963-12-03,Male,Canada,Toys,2025-02-11,2,205.64,411.28,Cash on Delivery,ok,Neutral,61,60+
+TXN10845,CUST1845,Emma Lee,1966-05-02,Male,Canada,Sports,2025-02-05,3,419.48,1258.44,Cash on Delivery,Good,Positive,58,45-59
+TXN10428,CUST1428,John Johnson,1964-12-25,Female,United Kingdom,Electronics,2024-06-18,5,109.88,549.4,UPI,ok,Neutral,60,60+
+TXN10272,CUST1272,Noah Khan,1976-05-08,Male,United States,Books,2025-03-29,3,226.08,678.24,UPI,"Excellent service, will buy again",Positive,48,45-59
+TXN10314,CUST1314,Wei Patel,1984-06-26,Female,United Kingdom,Home & Kitchen,2025-03-25,3,408.41,1225.23,Cash on Delivery,worst purchase ever,Negative,40,35-44
+TXN10378,CUST1378,Olivia Patel,1997-10-02,Male,United States,Sports,2024-05-17,2,252.0,504.0,UPI,Loved it!,Positive,27,25-34
+TXN10922,CUST1922,Mia Fernandes,1998-08-15,Male,Unknown,Clothing,2025-03-06,2,155.94,311.88,Credit Card,No feedback provided,No Feedback,26,25-34
+TXN10998,CUST1998,Fatima Kumar,1967-07-18,Male,India,Home & Kitchen,2024-10-15,5,451.13,2255.65,Credit Card,No feedback provided,No Feedback,57,45-59
+TXN10429,CUST1429,Zara Singh,,Female,United Kingdom,Books,2024-09-26,3,89.31,267.93,UPI,not happy with quality,Negative,43,35-44
+TXN10285,CUST1285,Sara Fernandes,1968-06-04,Male,United Kingdom,Sports,2025-01-23,1,283.53,283.53,UPI,ok,Neutral,56,45-59
+TXN10130,CUST1130,John Wilson,1976-09-14,Male,India,Electronics,2024-11-10,2,287.48,574.96,Credit Card,No feedback provided,No Feedback,48,45-59
+TXN10396,CUST1396,Zara Chen,1955-09-30,Unknown,United Kingdom,Home & Kitchen,2024-01-05,3,241.04500000000002,723.14,PayPal,No feedback provided,No Feedback,69,60+
+TXN10892,CUST1892,John Chen,1957-05-15,Male,Germany,Clothing,2024-11-10,2,292.26,584.52,PayPal,average product,Neutral,67,60+
+TXN10394,CUST1394,Yusuf Singh,1995-12-17,Female,Unknown,Books,2024-11-23,3,454.92,1364.76,UPI,"Excellent service, will buy again",Positive,29,25-34
+TXN10327,CUST1327,Rahul Fernandes,1977-04-09,Female,India,Home & Kitchen,2024-08-19,2,209.31,418.62,PayPal,average product,Neutral,47,45-59
+TXN10672,CUST1672,David Nguyen,1982-12-02,Male,Germany,Clothing,2024-03-16,3,303.65,910.95,Credit Card,No feedback provided,No Feedback,42,35-44
+TXN10211,CUST1211,Amit Das,1997-12-29,Unknown,United Kingdom,Sports,2025-04-17,5,23.2,116.0,PayPal,"Excellent service, will buy again",Positive,27,25-34
+TXN10650,CUST1650,Carlos Kim,1976-03-20,Male,Germany,Sports,2024-07-16,3,35.01,105.03,Cash on Delivery,"Excellent service, will buy again",Positive,48,45-59
+TXN10633,CUST1633,Olivia Rao,2001-10-09,Unknown,Canada,Clothing,2024-01-12,5,298.29,1491.45,UPI,Highly recommend to everyone,Positive,23,18-24
+TXN10180,CUST1180,Ananya Das,2003-11-05,Male,India,Toys,2024-04-27,4,176.35,705.4,Credit Card,not happy with quality,Negative,21,18-24
+TXN10938,CUST1938,Noah Silva,1972-06-30,Male,United States,Home & Kitchen,2024-05-04,2,230.63,461.26,Credit Card,Bad experience,Negative,52,45-59
+TXN10041,CUST1041,Grace Johnson,1994-09-15,Unknown,Canada,Sports,2024-08-06,4,449.12,1796.48,PayPal,packaging could be better,Neutral,30,25-34
+TXN10307,CUST1307,John Reddy,2000-04-09,Male,India,Books,2024-11-29,4,438.89,1755.56,PayPal,No feedback provided,No Feedback,24,18-24
+TXN10674,CUST1674,Noah Brown,1997-09-05,Male,Canada,Home & Kitchen,2025-03-12,5,481.72,2408.6,Cash on Delivery,No feedback provided,No Feedback,27,25-34
+TXN10374,CUST1374,Mia Silva,1975-04-21,Female,United Kingdom,Beauty,2024-10-21,3,91.64,274.92,PayPal,"Excellent service, will buy again",Positive,49,45-59
+TXN10522,CUST1522,Ken Das,1967-06-09,Unknown,Germany,Toys,2024-07-08,1,430.89,430.89,Cash on Delivery,No feedback provided,No Feedback,57,45-59
+TXN10205,CUST1205,Emma Reddy,2001-10-01,Female,India,Clothing,2024-03-12,3,137.86,413.58,Debit Card,Highly recommend to everyone,Positive,23,18-24
+TXN10842,CUST1842,Mia Kim,2000-07-14,Male,Canada,Home & Kitchen,2024-06-06,2,7.06,14.12,Credit Card,"Great product, fast delivery!!",Positive,24,18-24
+TXN10833,CUST1833,Carlos Nguyen,1992-08-07,Female,United Kingdom,Books,2025-02-05,4,180.57,722.28,Cash on Delivery,"Great product, fast delivery!!",Positive,32,25-34
+TXN10273,CUST1273,Mia Silva,1964-09-10,Male,India,Beauty,2025-01-10,2,442.85,885.7,Cash on Delivery,No feedback provided,No Feedback,60,60+
+TXN10009,CUST1009,Zara Khan,1959-03-24,Female,Canada,Clothing,2025-02-09,5,36.45,182.25,PayPal,No feedback provided,No Feedback,65,60+
+TXN10356,CUST1356,Yusuf Chen,1970-08-06,Female,India,Home & Kitchen,2024-10-27,5,129.54,647.7,UPI,No feedback provided,No Feedback,54,45-59
+TXN10995,CUST1995,Carlos Patel,1981-06-17,Female,United Kingdom,Home & Kitchen,2024-02-17,3,291.45,874.35,PayPal,No feedback provided,No Feedback,43,35-44
+TXN10655,CUST1655,Ananya Khan,1990-06-19,Unknown,United States,Books,2024-10-11,4,109.37,437.48,Cash on Delivery,No feedback provided,No Feedback,34,25-34
+TXN10071,CUST1071,Carlos Silva,2004-04-09,Male,Unknown,Books,2024-09-05,1,236.70499999999998,236.7,UPI,value for money,Positive,20,18-24
+TXN10398,CUST1398,Grace Silva,1980-07-16,Unknown,India,Beauty,2024-04-06,2,72.63,145.26,PayPal,packaging could be better,Neutral,44,35-44
+TXN10939,CUST1939,Ken Fernandes,1987-06-20,Unknown,United Kingdom,Sports,2024-02-09,4,304.58,1218.32,Cash on Delivery,No feedback provided,No Feedback,37,35-44
+TXN10742,CUST1742,Noah Ali,1955-02-25,Male,United Kingdom,Sports,2024-04-07,4,163.22,652.88,Debit Card,No feedback provided,No Feedback,69,60+
+TXN10537,CUST1537,Emma Silva,1972-07-23,Male,United Kingdom,Toys,2024-08-16,5,200.24,1001.2,PayPal,not happy with quality,Negative,52,45-59
+TXN10140,CUST1140,Mia Nguyen,1994-10-30,Unknown,United States,Sports,2024-07-06,3,326.53,979.59,Credit Card,"Great product, fast delivery!!",Positive,30,25-34
+TXN10169,CUST1169,Ananya Das,2003-09-28,Female,United States,Toys,2024-09-15,3,100.44,301.32,Debit Card,packaging could be better,Neutral,21,18-24
+TXN10008,CUST1008,Liam Garcia,1977-02-15,Male,India,Books,2024-10-26,5,202.7,1013.5,Debit Card,No feedback provided,No Feedback,47,45-59
+TXN10857,CUST1857,Rahul Smith,1965-04-14,Unknown,India,Beauty,2025-02-08,3,126.43,379.29,Cash on Delivery,No feedback provided,No Feedback,59,45-59
+TXN10519,CUST1519,Liam Smith,1993-05-29,Female,India,Beauty,2024-10-23,5,473.39,2366.95,Credit Card,Highly recommend to everyone,Positive,31,25-34
+TXN10683,CUST1683,Zara Wilson,1996-08-26,Male,Canada,Home & Kitchen,2024-09-26,4,239.51,958.04,Credit Card,Good,Positive,28,25-34
+TXN10094,CUST1094,Emma Johnson,1968-03-28,Male,Unknown,Toys,2024-03-15,5,129.07,645.35,Credit Card,Item damaged on arrival :(,Negative,56,45-59
+TXN10535,CUST1535,Noah Rao,1997-07-08,Unknown,United Kingdom,Books,2024-03-16,4,172.65,690.6,PayPal,not happy with quality,Negative,27,25-34
+TXN10805,CUST1805,Sara Silva,1999-10-16,Male,Germany,Books,2025-02-12,1,431.55,431.55,Debit Card,No feedback provided,No Feedback,25,25-34
+TXN10699,CUST1699,Ananya Ali,1970-09-17,Female,United States,Sports,2025-01-10,4,195.41,781.64,Credit Card,worst purchase ever,Negative,54,45-59
+TXN10492,CUST1492,Yusuf Ali,1996-05-14,Female,Canada,Sports,2025-01-29,5,172.02,860.1,Debit Card,No feedback provided,No Feedback,28,25-34
+TXN10080,CUST1080,Ken Patel,1981-11-12,Male,India,Toys,2024-01-29,3,190.55,571.65,PayPal,Highly recommend to everyone,Positive,43,35-44
+TXN10576,CUST1576,Sofia Johnson,1960-10-12,Unknown,India,Home & Kitchen,2025-02-25,2,131.94,263.88,Cash on Delivery,Bad experience,Negative,64,60+
+TXN10343,CUST1343,John Singh,1960-09-03,Male,Canada,Toys,2024-02-07,5,57.54,287.7,UPI,"Excellent service, will buy again",Positive,64,60+
+TXN10994,CUST1994,Carlos Garcia,1982-11-09,Female,Canada,Home & Kitchen,2024-04-01,2,284.69,569.38,UPI,No feedback provided,No Feedback,42,35-44
+TXN10050,CUST1050,Ananya Lee,1957-04-21,Male,Canada,Beauty,2024-07-22,1,298.09,298.09,UPI,Delivery was late,Negative,67,60+
+TXN10251,CUST1251,John Fernandes,1957-02-22,Male,India,Books,2025-03-05,3,5.72,17.16,UPI,Delivery was late,Negative,67,60+
+TXN10982,CUST1982,Priya Garcia,2000-11-27,Female,Canada,Beauty,2024-06-16,5,381.2,1906.0,Cash on Delivery,worst purchase ever,Negative,24,18-24
+TXN10593,CUST1593,Mia Reddy,1996-02-08,Male,United Kingdom,Clothing,2025-03-22,4,344.99,1379.96,Cash on Delivery,Loved it!,Positive,28,25-34
+TXN10136,CUST1136,Zara Nguyen,2001-08-02,Unknown,United States,Books,2024-08-05,4,303.21,1212.84,PayPal,average product,Neutral,23,18-24
+TXN10599,CUST1599,Sara Kumar,1958-08-29,Male,Canada,Sports,2024-09-05,4,60.68,242.72,Debit Card,Delivery was late,Negative,66,60+
+TXN10910,CUST1910,Mia Nguyen,1967-05-15,Female,India,Books,2024-07-11,5,43.68,218.4,UPI,Delivery was late,Negative,57,45-59
+TXN10659,CUST1659,Ken Nguyen,1972-04-24,Male,United States,Books,2024-01-11,3,99.8,299.4,UPI,Bad experience,Negative,52,45-59
+TXN10383,CUST1383,Olivia Silva,1976-04-10,Female,United Kingdom,Home & Kitchen,2024-07-06,4,214.85,859.4,Cash on Delivery,No feedback provided,No Feedback,48,45-59
+TXN10026,CUST1026,Olivia Rao,,Male,United States,Electronics,2025-01-15,2,139.81,279.62,Cash on Delivery,Good,Positive,43,35-44
+TXN10048,CUST1048,Zara Smith,2003-05-24,Male,Unknown,Books,2024-02-05,1,475.06,475.06,Credit Card,Item damaged on arrival :(,Negative,21,18-24
+TXN10746,CUST1746,Fatima Kumar,1990-02-24,Unknown,Unknown,Toys,2024-03-22,5,199.18,995.9,PayPal,No feedback provided,No Feedback,34,25-34
+TXN10175,CUST1175,Priya Chen,2000-05-07,Unknown,United Kingdom,Clothing,2024-03-25,5,223.71,1118.55,PayPal,"Excellent service, will buy again",Positive,24,18-24
+TXN10030,CUST1030,Sofia Singh,1968-11-12,Unknown,United States,Toys,2025-02-19,4,17.27,69.08,Cash on Delivery,Highly recommend to everyone,Positive,56,45-59
+TXN10154,CUST1154,Grace Kumar,1980-08-20,Male,Germany,Electronics,2024-08-08,3,365.12,1095.36,Cash on Delivery,not happy with quality,Negative,44,35-44
+TXN10540,CUST1540,Carlos Rao,,Male,United States,Sports,2025-01-22,1,8.28,8.28,UPI,Highly recommend to everyone,Positive,43,35-44
+TXN10568,CUST1568,Sofia Nguyen,,Male,United States,Books,2024-05-05,2,325.8,651.6,Credit Card,average product,Neutral,43,35-44
+TXN10820,CUST1820,Wei Lee,1984-09-21,Female,United Kingdom,Electronics,2024-09-14,1,295.65,295.65,Credit Card,average product,Neutral,40,35-44
+TXN10162,CUST1162,Rahul Johnson,1970-07-15,Male,India,Sports,2024-06-30,5,244.67,1223.35,UPI,ok,Neutral,54,45-59
+TXN10245,CUST1245,John Johnson,1993-07-08,Male,United States,Home & Kitchen,2024-12-30,1,250.59,250.59,Credit Card,5 stars,Positive,31,25-34
+TXN10949,CUST1949,Liam Garcia,1963-08-11,Male,Germany,Sports,2025-01-21,1,301.2,301.2,PayPal,ok,Neutral,61,60+
+TXN10159,CUST1159,Sofia Reddy,1982-08-08,Male,United Kingdom,Home & Kitchen,2025-05-10,5,117.63,588.15,PayPal,value for money,Positive,42,35-44
+TXN10531,CUST1531,Fatima Silva,1975-05-07,Male,India,Toys,2025-03-08,2,179.79,359.58,Debit Card,value for money,Positive,49,45-59
+TXN10502,CUST1502,Rahul Lee,1987-03-26,Male,Canada,Beauty,2025-01-11,2,22.67,45.34,UPI,5 stars,Positive,37,35-44
+TXN10433,CUST1433,David Silva,1960-07-24,Female,Germany,Electronics,2025-04-28,3,116.66,349.98,Cash on Delivery,Item damaged on arrival :(,Negative,64,60+
+TXN10698,CUST1698,Rahul Singh,1977-02-22,Male,United Kingdom,Beauty,2024-08-23,5,24.35,121.75,PayPal,No feedback provided,No Feedback,47,45-59
+TXN10848,CUST1848,Priya Silva,1962-06-11,Female,United States,Books,2024-10-23,1,232.27,232.27,Credit Card,Item damaged on arrival :(,Negative,62,60+
+TXN10781,CUST1781,Grace Patel,1971-12-05,Female,Canada,Clothing,2024-04-27,2,203.64,407.28,UPI,Item damaged on arrival :(,Negative,53,45-59
+TXN10367,CUST1367,Wei Fernandes,1977-10-03,Unknown,United Kingdom,Beauty,2024-10-16,5,141.4,707.0,UPI,Highly recommend to everyone,Positive,47,45-59
+TXN10956,CUST1956,Mia Kumar,2002-08-04,Male,Germany,Clothing,2025-03-24,4,248.11,992.44,Cash on Delivery,ok,Neutral,22,18-24
+TXN10055,CUST1055,John Wilson,1972-02-21,Female,Canada,Beauty,2024-09-07,2,346.85,693.7,PayPal,packaging could be better,Neutral,52,45-59
+TXN10497,CUST1497,Amit Kumar,1973-01-01,Female,United States,Books,2024-09-08,2,272.61,545.22,Credit Card,packaging could be better,Neutral,52,45-59
+TXN10025,CUST1025,Liam Garcia,1986-04-24,Female,India,Home & Kitchen,2024-03-21,5,353.25,1766.25,PayPal,"Great product, fast delivery!!",Positive,38,35-44
+TXN10299,CUST1299,Fatima Johnson,1963-01-05,Male,United States,Books,2025-03-22,4,395.1,1580.4,UPI,No feedback provided,No Feedback,61,60+
+TXN10019,CUST1019,Priya Chen,1956-04-28,Unknown,Germany,Clothing,2024-03-26,4,243.27,973.08,Credit Card,value for money,Positive,68,60+
+TXN10255,CUST1255,Yusuf Lee,1968-12-10,Female,Unknown,Beauty,2024-06-09,1,270.28,270.28,UPI,packaging could be better,Neutral,56,45-59
+TXN10226,CUST1226,Yusuf Nguyen,1993-05-31,Male,United States,Toys,2024-04-15,1,287.19,287.19,PayPal,value for money,Positive,31,25-34
+TXN10420,CUST1420,Ananya Khan,1990-11-13,Female,Canada,Electronics,2025-01-05,4,90.59,362.36,Credit Card,average product,Neutral,34,25-34
+TXN10613,CUST1613,Grace Kumar,1982-03-02,Unknown,United Kingdom,Home & Kitchen,2024-12-19,3,48.38,145.14,UPI,No feedback provided,No Feedback,42,35-44
+TXN10756,CUST1756,Sara Wilson,1981-10-14,Male,United States,Beauty,2025-05-15,2,153.8,307.6,PayPal,average product,Neutral,43,35-44
+TXN10223,CUST1223,Fatima Khan,1957-10-08,Male,United States,Home & Kitchen,2024-04-25,3,88.26,264.78,PayPal,ok,Neutral,67,60+
+TXN10679,CUST1679,Carlos Rao,1995-12-05,Unknown,Germany,Home & Kitchen,2024-12-04,5,488.67,2443.35,Cash on Delivery,"Excellent service, will buy again",Positive,29,25-34
+TXN10425,CUST1425,Olivia Singh,2002-01-12,Female,United States,Home & Kitchen,2025-02-01,3,343.95,1031.85,Credit Card,Highly recommend to everyone,Positive,22,18-24
+TXN10219,CUST1219,Grace Ali,1990-03-20,Male,India,Home & Kitchen,2025-03-08,5,90.4,452.0,UPI,"Excellent service, will buy again",Positive,34,25-34
+TXN10917,CUST1917,Zara Sharma,1989-09-24,Female,United States,Beauty,2024-12-25,5,73.2,366.0,Cash on Delivery,No feedback provided,No Feedback,35,35-44
+TXN10574,CUST1574,Liam Singh,2001-03-27,Female,Germany,Sports,2024-04-02,5,432.04,2160.2,UPI,packaging could be better,Neutral,23,18-24
+TXN10988,CUST1988,Zara Patel,1997-06-22,Unknown,United States,Electronics,2024-07-08,5,447.66,2238.3,Debit Card,Item damaged on arrival :(,Negative,27,25-34
+TXN10443,CUST1443,Rahul Wilson,1959-06-04,Male,United Kingdom,Beauty,2025-03-28,3,233.37,700.11,Credit Card,No feedback provided,No Feedback,65,60+
+TXN10639,CUST1639,Wei Wilson,,Female,United Kingdom,Clothing,2025-05-10,5,63.44,317.2,PayPal,not happy with quality,Negative,43,35-44
+TXN10287,CUST1287,Rahul Johnson,1976-04-24,Female,United Kingdom,Home & Kitchen,2025-04-04,1,172.24,172.24,UPI,Loved it!,Positive,48,45-59
+TXN10067,CUST1067,John Khan,1975-07-16,Male,Unknown,Toys,2024-12-10,5,24.91,124.55,PayPal,No feedback provided,No Feedback,49,45-59
+TXN10454,CUST1454,Zara Singh,1980-10-06,Male,Germany,Home & Kitchen,2024-05-12,5,497.54,2487.7,Debit Card,5 stars,Positive,44,35-44
+TXN10968,CUST1968,Emma Ali,1956-07-18,Female,Unknown,Home & Kitchen,2025-01-25,1,228.87,228.87,Credit Card,worst purchase ever,Negative,68,60+
+TXN10072,CUST1072,Ananya Chen,1956-03-24,Female,United States,Clothing,2025-03-06,4,473.8,1895.2,Debit Card,5 stars,Positive,68,60+
+TXN10638,CUST1638,Yusuf Chen,2001-07-22,Unknown,India,Sports,2024-09-12,4,346.06,1384.24,Cash on Delivery,value for money,Positive,23,18-24
+TXN10413,CUST1413,Ken Sharma,1987-05-19,Female,India,Toys,2024-07-07,5,136.58,682.9,Credit Card,average product,Neutral,37,35-44
+TXN10083,CUST1083,Liam Das,1982-02-07,Female,Germany,Beauty,2024-02-24,4,288.1,1152.4,UPI,"Great product, fast delivery!!",Positive,42,35-44
+TXN10931,CUST1931,Liam Silva,1999-05-27,Female,Canada,Clothing,2024-03-16,1,120.17,120.17,Debit Card,No feedback provided,No Feedback,25,25-34
+TXN10850,CUST1850,Zara Khan,1973-11-12,Female,India,Books,2025-04-10,2,94.0,188.0,Debit Card,not happy with quality,Negative,51,45-59
+TXN10016,CUST1016,David Kim,1979-12-26,Female,United Kingdom,Clothing,2025-01-05,5,238.97,1194.85,Cash on Delivery,Good,Positive,45,45-59
+TXN10752,CUST1752,John Reddy,,Female,Canada,Electronics,2025-02-10,2,195.06,390.12,Cash on Delivery,average product,Neutral,43,35-44
+TXN10536,CUST1536,Wei Chen,1965-06-26,Male,India,Sports,2025-03-06,4,181.91,727.64,UPI,No feedback provided,No Feedback,59,45-59
+TXN10592,CUST1592,Grace Brown,1980-05-21,Female,United States,Beauty,2025-02-09,1,148.65,148.65,PayPal,Bad experience,Negative,44,35-44
+TXN10452,CUST1452,Priya Khan,1981-11-07,Male,India,Toys,2024-02-04,5,37.14,185.7,Credit Card,Loved it!,Positive,43,35-44
+TXN10590,CUST1590,Rahul Singh,1993-06-24,Male,United States,Electronics,2025-05-05,2,473.89,947.78,PayPal,Highly recommend to everyone,Positive,31,25-34
+TXN10405,CUST1405,John Sharma,1997-08-21,Female,India,Toys,2024-02-15,2,252.46,504.92,Cash on Delivery,not happy with quality,Negative,27,25-34
+TXN10491,CUST1491,David Sharma,1963-09-26,Female,India,Toys,2024-08-09,3,170.81,512.43,Credit Card,Loved it!,Positive,61,60+
+TXN10925,CUST1925,Fatima Fernandes,2002-10-09,Female,Unknown,Electronics,2024-10-04,1,455.48,455.48,Cash on Delivery,Loved it!,Positive,22,18-24
+TXN10773,CUST1773,Ken Singh,1998-10-21,Male,United States,Sports,2024-08-23,3,693.3787500000001,2080.14,Debit Card,worst purchase ever,Negative,26,25-34
+TXN10365,CUST1365,Yusuf Reddy,1963-10-07,Female,India,Beauty,2025-01-27,1,145.22,145.22,Cash on Delivery,Loved it!,Positive,61,60+
+TXN10460,CUST1460,Amit Garcia,1980-02-29,Male,India,Books,2024-09-30,5,304.82,1524.1,Credit Card,average product,Neutral,44,35-44
+TXN10269,CUST1269,Rahul Reddy,1964-01-24,Male,India,Clothing,2025-05-14,4,396.96,1587.84,Cash on Delivery,value for money,Positive,60,60+
+TXN10883,CUST1883,Carlos Khan,1972-05-22,Female,United States,Home & Kitchen,2025-03-25,4,493.73,1974.92,Debit Card,Loved it!,Positive,52,45-59
+TXN10803,CUST1803,Sara Kumar,1970-03-19,Female,United States,Home & Kitchen,2024-07-01,5,170.19,850.95,Credit Card,not happy with quality,Negative,54,45-59
+TXN10242,CUST1242,David Brown,1968-12-09,Male,India,Sports,2024-11-20,3,350.84,1052.52,UPI,not happy with quality,Negative,56,45-59
+TXN10431,CUST1431,Rahul Wilson,1963-12-08,Female,Germany,Sports,2024-09-29,2,103.44,206.88,PayPal,"Great product, fast delivery!!",Positive,61,60+
+TXN10701,CUST1701,Mia Khan,1964-06-09,Unknown,Germany,Home & Kitchen,2024-07-28,2,130.12,260.24,PayPal,"Great product, fast delivery!!",Positive,60,60+
+TXN10204,CUST1204,Mia Chen,1963-05-08,Male,Germany,Home & Kitchen,2025-03-18,1,149.46,149.46,Credit Card,ok,Neutral,61,60+
+TXN10961,CUST1961,Carlos Lee,1984-07-30,Male,United Kingdom,Electronics,2025-05-01,4,49.68,198.72,Cash on Delivery,ok,Neutral,40,35-44
+TXN10596,CUST1596,Noah Das,1966-11-01,Male,Canada,Sports,2024-08-09,3,62.84,188.52,Debit Card,5 stars,Positive,58,45-59
+TXN10097,CUST1097,Ken Smith,1960-06-16,Unknown,India,Beauty,2024-12-17,4,357.64,1430.56,Credit Card,No feedback provided,No Feedback,64,60+
+TXN10468,CUST1468,Grace Nguyen,1983-01-12,Unknown,United States,Books,2025-01-23,1,486.97,486.97,PayPal,Item damaged on arrival :(,Negative,41,35-44
+TXN10631,CUST1631,Rahul Das,1973-05-27,Male,Germany,Sports,2024-11-29,3,263.27,789.81,Cash on Delivery,Good,Positive,51,45-59
+TXN10493,CUST1493,Olivia Smith,1955-10-05,Male,India,Electronics,2024-09-25,4,179.0,716.0,UPI,Good,Positive,69,60+
+TXN10167,CUST1167,Sofia Kumar,1997-11-01,Unknown,India,Home & Kitchen,2024-05-26,1,327.89,327.89,Credit Card,value for money,Positive,27,25-34
+TXN10727,CUST1727,Yusuf Nguyen,1967-10-21,Female,United States,Books,2024-07-22,1,493.58,493.58,Credit Card,Delivery was late,Negative,57,45-59
+TXN10852,CUST1852,Olivia Smith,2001-06-21,Unknown,Unknown,Clothing,2025-03-19,1,449.79,449.79,Debit Card,Bad experience,Negative,23,18-24
+TXN10997,CUST1997,Noah Wilson,2004-06-27,Male,United Kingdom,Toys,2024-04-17,2,236.51,473.02,Credit Card,No feedback provided,No Feedback,20,18-24
+TXN10316,CUST1316,Sofia Reddy,1998-04-21,Female,United Kingdom,Clothing,2024-11-08,3,307.62,922.86,Debit Card,5 stars,Positive,26,25-34
+TXN10362,CUST1362,Liam Patel,1985-09-28,Male,Unknown,Electronics,2024-04-27,4,70.45,281.8,PayPal,No feedback provided,No Feedback,39,35-44
+TXN10139,CUST1139,Wei Singh,1994-04-24,Female,United States,Clothing,2025-02-02,3,194.51,583.53,Debit Card,packaging could be better,Neutral,30,25-34
+TXN10277,CUST1277,Olivia Chen,1978-10-19,Male,United States,Electronics,2024-01-26,5,277.08,1385.4,Credit Card,No feedback provided,No Feedback,46,45-59
+TXN10385,CUST1385,Rahul Brown,1968-02-01,Female,Germany,Electronics,2024-03-31,4,71.56,286.24,PayPal,ok,Neutral,56,45-59
+TXN10569,CUST1569,Sara Johnson,1970-03-26,Male,India,Electronics,2024-08-23,5,259.81,1299.05,Credit Card,5 stars,Positive,54,45-59
+TXN10822,CUST1822,Grace Wilson,,Unknown,United States,Home & Kitchen,2024-05-28,5,428.7,2143.5,Cash on Delivery,Bad experience,Negative,43,35-44
+TXN10089,CUST1089,Sara Kim,1997-04-19,Male,United Kingdom,Home & Kitchen,2025-04-13,2,325.59,651.18,PayPal,average product,Neutral,27,25-34
+TXN10824,CUST1824,Sara Das,1983-02-22,Male,United States,Electronics,2024-05-23,3,179.92,539.76,PayPal,Loved it!,Positive,41,35-44
+TXN10281,CUST1281,Mia Chen,,Unknown,United Kingdom,Electronics,2025-03-06,5,212.22,1061.1,PayPal,Bad experience,Negative,43,35-44
+TXN10461,CUST1461,Noah Sharma,1979-05-11,Male,United Kingdom,Clothing,2024-07-09,3,111.99,335.97,Credit Card,No feedback provided,No Feedback,45,45-59
+TXN10643,CUST1643,Rahul Kumar,1966-11-30,Male,Canada,Beauty,2025-01-24,4,78.75,315.0,Credit Card,Highly recommend to everyone,Positive,58,45-59
+TXN10898,CUST1898,Sofia Garcia,1956-12-10,Female,Germany,Books,2024-12-02,2,258.2,516.4,UPI,5 stars,Positive,68,60+
+TXN10625,CUST1625,Priya Wilson,1964-06-16,Female,United States,Toys,2024-04-15,2,365.53,731.06,PayPal,5 stars,Positive,60,60+
+TXN10203,CUST1203,Ken Nguyen,1979-03-15,Female,United States,Clothing,2024-08-08,5,279.6,1398.0,Credit Card,"Excellent service, will buy again",Positive,45,45-59
+TXN10403,CUST1403,Zara Ali,1983-01-01,Female,Canada,Books,2024-01-22,5,65.46,327.3,UPI,Good,Positive,42,35-44
+TXN10341,CUST1341,Carlos Chen,1994-01-17,Female,Canada,Clothing,2024-01-13,3,23.75,71.25,Debit Card,Loved it!,Positive,30,25-34
+TXN10366,CUST1366,Carlos Smith,1955-08-22,Male,United States,Sports,2024-01-04,2,345.44,690.88,Cash on Delivery,Delivery was late,Negative,69,60+
+TXN10024,CUST1024,Wei Rao,1996-01-08,Unknown,United States,Electronics,2024-08-22,5,498.07,2490.35,UPI,No feedback provided,No Feedback,28,25-34
+TXN10346,CUST1346,Amit Rao,,Female,India,Books,2025-03-11,2,84.67,169.34,UPI,Good,Positive,43,35-44
+TXN10964,CUST1964,Fatima Rao,1982-01-17,Female,Canada,Toys,2024-12-18,1,139.87,139.87,Cash on Delivery,worst purchase ever,Negative,42,35-44
+TXN10335,CUST1335,Ken Garcia,1958-08-01,Male,United Kingdom,Electronics,2025-01-31,3,247.82,743.46,Cash on Delivery,"Excellent service, will buy again",Positive,66,60+
+TXN10311,CUST1311,Fatima Sharma,2004-03-05,Female,Canada,Beauty,2024-06-18,1,11.31,11.31,Credit Card,5 stars,Positive,20,18-24
+TXN10930,CUST1930,Olivia Brown,1991-08-29,Male,United States,Home & Kitchen,2025-04-04,5,160.44,802.2,Debit Card,Loved it!,Positive,33,25-34
+TXN10354,CUST1354,Fatima Patel,1968-02-12,Male,United States,Clothing,2025-01-24,2,36.12,72.24,Credit Card,Good,Positive,56,45-59
+TXN10986,CUST1986,Ken Nguyen,2002-03-11,Male,United Kingdom,Home & Kitchen,2024-06-17,3,458.32,1374.96,Credit Card,Loved it!,Positive,22,18-24
+TXN10241,CUST1241,Ananya Wilson,1992-04-08,Female,India,Electronics,2024-11-23,5,309.94,1549.7,UPI,"Excellent service, will buy again",Positive,32,25-34
+TXN10319,CUST1319,Fatima Wilson,1997-02-06,Unknown,United States,Electronics,2025-01-19,3,124.24,372.72,Credit Card,No feedback provided,No Feedback,27,25-34
+TXN10762,CUST1762,Noah Khan,1987-07-20,Unknown,India,Clothing,2025-03-20,3,9.88,29.64,UPI,worst purchase ever,Negative,37,35-44
+TXN10263,CUST1263,John Ali,1987-03-21,Male,Germany,Beauty,2024-06-25,5,164.19,820.95,Credit Card,No feedback provided,No Feedback,37,35-44
+TXN10099,CUST1099,David Singh,1993-08-05,Unknown,Canada,Electronics,2025-03-12,2,217.88,435.76,Cash on Delivery,No feedback provided,No Feedback,31,25-34
+TXN10767,CUST1767,Ananya Khan,,Unknown,India,Toys,2024-02-16,1,203.35,203.35,Debit Card,not happy with quality,Negative,43,35-44
+TXN10923,CUST1923,Wei Sharma,,Female,Germany,Beauty,2025-05-02,1,251.96,251.96,UPI,worst purchase ever,Negative,43,35-44
+TXN10896,CUST1896,Grace Brown,1965-04-16,Male,United States,Sports,2025-03-26,5,52.95,264.75,PayPal,"Great product, fast delivery!!",Positive,59,45-59
+TXN10090,CUST1090,Sofia Lee,1967-07-17,Male,India,Beauty,2024-02-29,2,444.19,888.38,PayPal,No feedback provided,No Feedback,57,45-59
+TXN10516,CUST1516,Sofia Garcia,1974-05-24,Female,United States,Beauty,2024-07-10,4,361.31,1445.24,UPI,Good,Positive,50,45-59
+TXN10332,CUST1332,Emma Wilson,1980-10-21,Female,India,Beauty,2025-05-04,5,31.63,158.15,UPI,packaging could be better,Neutral,44,35-44
+TXN10704,CUST1704,John Singh,1964-01-07,Male,United States,Sports,2025-01-14,2,43.4,86.8,UPI,Item damaged on arrival :(,Negative,60,60+
+TXN10434,CUST1434,Amit Ali,2001-09-18,Unknown,Canada,Books,2024-04-26,2,288.58,577.16,UPI,No feedback provided,No Feedback,23,18-24
+TXN10944,CUST1944,Priya Khan,1986-11-05,Female,Canada,Beauty,2025-01-14,3,380.04,1140.12,Debit Card,No feedback provided,No Feedback,38,35-44
+TXN10750,CUST1750,David Johnson,1993-12-02,Female,Canada,Beauty,2024-05-05,1,124.22,124.22,Debit Card,worst purchase ever,Negative,31,25-34
+TXN10487,CUST1487,Sara Singh,1970-08-31,Female,United States,Books,2024-08-16,2,134.32,268.64,PayPal,value for money,Positive,54,45-59
+TXN10662,CUST1662,Wei Silva,1975-06-14,Female,Germany,Home & Kitchen,2024-04-08,5,309.16,1545.8,PayPal,"Great product, fast delivery!!",Positive,49,45-59
+TXN10981,CUST1981,Carlos Patel,1955-03-29,Female,United States,Toys,2024-11-10,2,86.59,173.18,Cash on Delivery,"Excellent service, will buy again",Positive,69,60+
+TXN10866,CUST1866,Amit Silva,1984-07-18,Unknown,Germany,Beauty,2024-05-18,2,293.81,587.62,Cash on Delivery,Item damaged on arrival :(,Negative,40,35-44
+TXN10261,CUST1261,Sofia Patel,1986-10-03,Female,India,Home & Kitchen,2024-08-16,1,308.98,308.98,UPI,5 stars,Positive,38,35-44
+TXN10306,CUST1306,Wei Johnson,1998-12-23,Unknown,United States,Clothing,2025-04-30,1,118.07,118.07,Debit Card,Good,Positive,26,25-34
+TXN10197,CUST1197,Rahul Ali,1988-11-02,Female,United States,Books,2024-01-05,1,236.70499999999998,236.7,Cash on Delivery,Delivery was late,Negative,36,35-44
+TXN10141,CUST1141,Fatima Kumar,2001-06-13,Male,United States,Home & Kitchen,2025-01-31,4,111.21,444.84,PayPal,Good,Positive,23,18-24
+TXN10595,CUST1595,Liam Wilson,1989-03-05,Female,Canada,Home & Kitchen,2024-03-08,1,241.04500000000002,241.04,PayPal,5 stars,Positive,35,35-44
+TXN10123,CUST1123,Priya Fernandes,1987-09-07,Female,United Kingdom,Home & Kitchen,2025-01-20,2,269.34,538.68,PayPal,No feedback provided,No Feedback,37,35-44
+TXN10495,CUST1495,Yusuf Patel,1964-12-11,Male,India,Beauty,2024-12-04,4,461.73,1846.92,Cash on Delivery,No feedback provided,No Feedback,60,60+
+TXN10111,CUST1111,Grace Das,1987-06-19,Female,Germany,Electronics,2024-05-04,5,203.22,1016.1,UPI,No feedback provided,No Feedback,37,35-44
+TXN10085,CUST1085,Grace Nguyen,1974-08-25,Male,India,Books,2025-01-21,1,452.18,452.18,UPI,packaging could be better,Neutral,50,45-59
+TXN10912,CUST1912,Fatima Rao,1961-09-16,Male,United States,Toys,2024-09-22,5,159.56,797.8,PayPal,Delivery was late,Negative,63,60+
+TXN10514,CUST1514,Fatima Smith,1998-07-08,Unknown,United States,Clothing,2025-01-04,5,291.98,1459.9,Cash on Delivery,Bad experience,Negative,26,25-34
+TXN10483,CUST1483,David Khan,2001-12-14,Male,United States,Beauty,2024-11-18,5,400.06,2000.3,Credit Card,No feedback provided,No Feedback,23,18-24
+TXN10706,CUST1706,Rahul Rao,1994-10-31,Male,United States,Electronics,2025-01-30,2,464.77,929.54,UPI,Good,Positive,30,25-34
+TXN10965,CUST1965,Wei Silva,1962-08-14,Male,United Kingdom,Books,2024-12-26,1,12.3,12.3,Debit Card,No feedback provided,No Feedback,62,60+
+TXN10075,CUST1075,Ken Chen,1998-06-14,Male,United Kingdom,Toys,2024-10-05,4,466.76,1867.04,UPI,worst purchase ever,Negative,26,25-34
+TXN10989,CUST1989,Amit Fernandes,1965-09-18,Female,Canada,Books,2024-02-01,1,429.66,429.66,UPI,"Great product, fast delivery!!",Positive,59,45-59
+TXN10933,CUST1933,Priya Singh,1976-01-21,Male,United States,Sports,2024-08-15,5,43.34,216.7,Cash on Delivery,Highly recommend to everyone,Positive,48,45-59
+TXN10274,CUST1274,Olivia Ali,1964-02-06,Unknown,Germany,Sports,2024-11-29,2,228.39,456.78,Credit Card,average product,Neutral,60,60+
+TXN10397,CUST1397,Carlos Fernandes,1994-03-20,Female,United States,Books,2025-01-12,4,114.19,456.76,UPI,No feedback provided,No Feedback,30,25-34
+TXN10155,CUST1155,Rahul Sharma,1972-06-18,Male,India,Electronics,2024-07-16,4,383.38,1533.52,Credit Card,Item damaged on arrival :(,Negative,52,45-59
+TXN10192,CUST1192,Zara Das,1970-02-03,Female,United States,Books,2024-10-06,2,458.87,917.74,Credit Card,No feedback provided,No Feedback,54,45-59
+TXN10946,CUST1946,Emma Rao,1999-04-04,Male,United Kingdom,Sports,2025-04-04,5,256.57,1282.85,UPI,No feedback provided,No Feedback,25,25-34
+TXN10188,CUST1188,John Brown,1972-01-18,Female,Germany,Beauty,2025-04-13,5,353.37,1766.85,UPI,ok,Neutral,52,45-59
+TXN10051,CUST1051,Ananya Singh,,Unknown,United States,Home & Kitchen,2024-09-29,3,39.13,117.39,Credit Card,Highly recommend to everyone,Positive,43,35-44
+TXN10039,CUST1039,Zara Singh,1961-07-14,Female,Canada,Sports,2024-04-09,4,263.27,1053.08,Credit Card,Delivery was late,Negative,63,60+
+TXN10419,CUST1419,David Chen,1968-11-17,Male,United Kingdom,Home & Kitchen,2024-03-20,3,186.71,560.13,UPI,Loved it!,Positive,56,45-59
+TXN10907,CUST1907,Sara Das,1988-11-17,Female,United Kingdom,Sports,2024-04-12,3,248.1,744.3,UPI,Good,Positive,36,35-44
+TXN10209,CUST1209,Rahul Silva,1990-04-02,Male,United Kingdom,Clothing,2024-10-30,2,342.45,684.9,PayPal,Good,Positive,34,25-34
+TXN10376,CUST1376,Emma Johnson,1996-03-01,Male,Germany,Electronics,2024-09-03,3,38.44,115.32,UPI,Bad experience,Negative,28,25-34
+TXN10464,CUST1464,Ananya Sharma,1962-10-24,Female,United States,Electronics,2024-09-23,1,290.89,290.89,UPI,No feedback provided,No Feedback,62,60+
+TXN10471,CUST1471,Mia Singh,1966-06-06,Male,India,Toys,2024-12-31,3,280.29,840.87,UPI,ok,Neutral,58,45-59
+TXN10518,CUST1518,Grace Patel,1970-03-31,Male,Germany,Clothing,2024-02-14,5,247.16,1235.8,PayPal,packaging could be better,Neutral,54,45-59
+TXN10076,CUST1076,Emma Fernandes,1958-12-01,Female,United Kingdom,Books,2025-04-12,4,494.26,1977.04,Debit Card,5 stars,Positive,66,60+
+TXN10249,CUST1249,David Sharma,1990-12-20,Female,Germany,Home & Kitchen,2025-01-31,3,47.76,143.28,Cash on Delivery,Good,Positive,34,25-34
+TXN10560,CUST1560,Mia Brown,1985-05-19,Male,Germany,Beauty,2024-03-03,4,363.97,1455.88,UPI,worst purchase ever,Negative,39,35-44
+TXN10303,CUST1303,Zara Khan,1966-08-11,Female,Canada,Beauty,2024-07-25,4,194.74,778.96,UPI,No feedback provided,No Feedback,58,45-59
+TXN10583,CUST1583,Mia Rao,1956-11-21,Male,Germany,Books,2024-12-05,2,130.23,260.46,Cash on Delivery,Delivery was late,Negative,68,60+
+TXN10963,CUST1963,Noah Fernandes,1974-05-06,Female,United States,Electronics,2024-01-19,5,55.75,278.75,PayPal,not happy with quality,Negative,50,45-59
+TXN10985,CUST1985,Mia Das,,Female,United Kingdom,Sports,2025-03-24,4,190.23,760.92,Credit Card,Good,Positive,43,35-44
+TXN10012,CUST1012,David Smith,1984-01-30,Male,United States,Home & Kitchen,2025-03-25,2,33.67,67.34,Credit Card,"Excellent service, will buy again",Positive,40,35-44
+TXN10486,CUST1486,Ananya Kumar,1962-05-27,Male,Unknown,Toys,2025-02-05,3,70.61,211.83,UPI,"Great product, fast delivery!!",Positive,62,60+
+TXN10463,CUST1463,Noah Garcia,1963-10-25,Female,United States,Clothing,2025-01-05,4,196.86,787.44,Credit Card,"Great product, fast delivery!!",Positive,61,60+
+TXN10628,CUST1628,Emma Garcia,1993-06-21,Female,United Kingdom,Toys,2024-09-21,1,224.08,224.08,PayPal,"Excellent service, will buy again",Positive,31,25-34
+TXN10282,CUST1282,Zara Rao,1962-01-31,Unknown,Canada,Electronics,2024-09-14,5,401.22,2006.1,Debit Card,Delivery was late,Negative,62,60+
+TXN10254,CUST1254,Ananya Silva,1983-04-06,Female,Germany,Books,2024-06-16,4,139.62,558.48,UPI,Item damaged on arrival :(,Negative,41,35-44
+TXN10134,CUST1134,Carlos Sharma,1972-11-23,Male,India,Sports,2024-07-22,4,130.39,521.56,UPI,average product,Neutral,52,45-59
+TXN10740,CUST1740,Yusuf Singh,1960-10-20,Female,Canada,Books,2025-01-11,5,483.29,2416.45,UPI,Bad experience,Negative,64,60+
+TXN10942,CUST1942,Liam Chen,1997-02-25,Female,Germany,Electronics,2025-03-02,1,346.57,346.57,Debit Card,No feedback provided,No Feedback,27,25-34
+TXN10578,CUST1578,Fatima Silva,1967-03-29,Male,Germany,Toys,2024-05-22,2,323.93,647.86,PayPal,"Great product, fast delivery!!",Positive,57,45-59
+TXN11000,CUST2000,Fatima Smith,1994-05-21,Female,United Kingdom,Sports,2024-12-21,4,239.42,957.68,Cash on Delivery,No feedback provided,No Feedback,30,25-34
+TXN10220,CUST1220,Wei Johnson,1965-07-29,Male,United States,Clothing,2024-07-10,5,197.29,986.45,Cash on Delivery,Highly recommend to everyone,Positive,59,45-59
+TXN10426,CUST1426,Sofia Nguyen,1986-04-01,Male,India,Sports,2024-12-01,3,88.78,266.34,PayPal,Item damaged on arrival :(,Negative,38,35-44
+TXN10370,CUST1370,Rahul Smith,1963-03-04,Female,United Kingdom,Beauty,2024-02-15,3,114.78,344.34,Credit Card,worst purchase ever,Negative,61,60+
+TXN10716,CUST1716,Grace Ali,2001-10-13,Female,United Kingdom,Books,2024-01-04,4,39.64,158.56,Debit Card,Good,Positive,23,18-24
+TXN10070,CUST1070,Rahul Wilson,1955-02-07,Female,India,Electronics,2024-04-06,3,313.2,939.6,PayPal,not happy with quality,Negative,69,60+
+TXN10969,CUST1969,Emma Das,1988-03-06,Male,United States,Books,2024-06-08,2,405.79,811.58,Credit Card,ok,Neutral,36,35-44
+TXN10581,CUST1581,Noah Reddy,1989-12-25,Female,United States,Clothing,2024-02-24,2,485.11,970.22,UPI,not happy with quality,Negative,35,35-44
+TXN10022,CUST1022,David Khan,1971-09-03,Male,United States,Books,2025-03-17,4,64.34,257.36,UPI,not happy with quality,Negative,53,45-59
+TXN10078,CUST1078,Wei Khan,1997-02-13,Male,United Kingdom,Books,2024-07-22,3,236.70499999999998,710.12,Cash on Delivery,No feedback provided,No Feedback,27,25-34
+TXN10548,CUST1548,Carlos Garcia,2000-02-28,Unknown,United States,Toys,2025-04-04,5,346.38,1731.9,PayPal,ok,Neutral,24,18-24
+TXN10648,CUST1648,Olivia Patel,1980-08-07,Female,India,Toys,2024-02-15,3,476.32,1428.96,Credit Card,No feedback provided,No Feedback,44,35-44
+TXN10979,CUST1979,Ananya Fernandes,1982-06-06,Male,Germany,Beauty,2025-04-23,5,272.8,1364.0,Credit Card,Item damaged on arrival :(,Negative,42,35-44
+TXN10126,CUST1126,David Garcia,1994-04-01,Female,Germany,Beauty,2025-03-28,1,210.37,210.37,Cash on Delivery,Bad experience,Negative,30,25-34
+TXN10229,CUST1229,Ken Khan,1963-05-09,Male,Canada,Home & Kitchen,2024-12-21,4,475.38,1901.52,Credit Card,"Excellent service, will buy again",Positive,61,60+
+TXN10043,CUST1043,Olivia Khan,1967-06-01,Female,India,Books,2024-03-19,1,210.36,210.36,PayPal,Highly recommend to everyone,Positive,57,45-59
+TXN10517,CUST1517,Noah Garcia,1957-11-17,Male,India,Clothing,2024-02-26,4,212.02,848.08,UPI,average product,Neutral,67,60+
+TXN10573,CUST1573,Sofia Brown,1986-02-27,Female,Germany,Home & Kitchen,2024-09-15,4,333.41,1333.64,Cash on Delivery,worst purchase ever,Negative,38,35-44
+TXN10577,CUST1577,Sara Garcia,1972-03-20,Female,Germany,Toys,2024-06-07,4,282.11,1128.44,Credit Card,Good,Positive,52,45-59
+TXN10832,CUST1832,Ananya Das,1992-08-27,Female,Canada,Home & Kitchen,2024-04-04,1,448.0,448.0,UPI,value for money,Positive,32,25-34
+TXN10622,CUST1622,Olivia Sharma,1956-08-17,Unknown,India,Books,2024-03-22,5,20.83,104.15,Cash on Delivery,Delivery was late,Negative,68,60+
+TXN10375,CUST1375,David Rao,1985-07-02,Unknown,United Kingdom,Home & Kitchen,2025-03-24,5,128.82,644.1,Cash on Delivery,5 stars,Positive,39,35-44
+TXN10206,CUST1206,Liam Fernandes,1981-11-22,Unknown,United States,Home & Kitchen,2024-05-08,4,241.04500000000002,964.18,Credit Card,Item damaged on arrival :(,Negative,43,35-44
+TXN10007,CUST1007,Priya Johnson,1990-12-28,Male,United States,Sports,2025-03-24,2,329.44,658.88,PayPal,Item damaged on arrival :(,Negative,34,25-34
+TXN10494,CUST1494,Priya Smith,1963-04-01,Male,Canada,Toys,2024-04-21,1,355.5,355.5,Debit Card,worst purchase ever,Negative,61,60+
+TXN10736,CUST1736,Grace Khan,1986-04-02,Female,Canada,Toys,2024-12-24,4,150.46,601.84,Debit Card,No feedback provided,No Feedback,38,35-44
+TXN10976,CUST1976,Grace Silva,1997-05-10,Female,India,Books,2025-01-03,2,264.57,529.14,Credit Card,No feedback provided,No Feedback,27,25-34
+TXN10871,CUST1871,Carlos Ali,1971-11-11,Male,Unknown,Clothing,2024-12-17,5,248.11,1240.55,Credit Card,Delivery was late,Negative,53,45-59
+TXN10775,CUST1775,Liam Kim,1997-03-24,Male,India,Home & Kitchen,2024-08-07,5,406.71,2033.55,PayPal,packaging could be better,Neutral,27,25-34
+TXN10260,CUST1260,Amit Johnson,1965-12-28,Female,United States,Clothing,2025-04-18,4,411.73,1646.92,Credit Card,worst purchase ever,Negative,59,45-59
+TXN10283,CUST1283,Ken Patel,1969-12-30,Unknown,United States,Clothing,2024-01-22,1,494.2,494.2,Debit Card,Loved it!,Positive,55,45-59
+TXN10635,CUST1635,Yusuf Smith,1995-08-27,Female,Germany,Books,2024-10-24,5,423.03,2115.15,UPI,No feedback provided,No Feedback,29,25-34
+TXN10591,CUST1591,Ken Kumar,1965-08-19,Female,United States,Clothing,2025-04-29,3,374.49,1123.47,Cash on Delivery,Good,Positive,59,45-59
+TXN10947,CUST1947,Rahul Johnson,1971-01-03,Male,Germany,Books,2025-03-27,4,261.97,1047.88,Cash on Delivery,Delivery was late,Negative,53,45-59
+TXN10456,CUST1456,Grace Fernandes,1992-02-23,Male,India,Sports,2025-02-16,1,322.11,322.11,UPI,"Excellent service, will buy again",Positive,32,25-34
+TXN10321,CUST1321,Sara Kumar,1956-08-05,Female,India,Electronics,2024-10-12,1,413.82,413.82,UPI,No feedback provided,No Feedback,68,60+
+TXN10435,CUST1435,Ken Chen,1966-10-27,Female,United States,Sports,2024-10-04,2,157.95,315.9,PayPal,Item damaged on arrival :(,Negative,58,45-59
+TXN10664,CUST1664,Priya Silva,1992-09-07,Female,India,Electronics,2024-07-19,3,238.89,716.67,Credit Card,Bad experience,Negative,32,25-34
+TXN10300,CUST1300,Ken Lee,1997-03-19,Unknown,Canada,Sports,2024-10-24,1,238.75,238.75,Credit Card,worst purchase ever,Negative,27,25-34
+TXN10894,CUST1894,Noah Singh,1963-09-27,Male,United Kingdom,Books,2024-06-18,1,371.53,371.53,Credit Card,Good,Positive,61,60+
+TXN10437,CUST1437,Sofia Fernandes,1982-03-20,Female,Germany,Books,2025-04-22,2,390.66,781.32,Debit Card,"Great product, fast delivery!!",Positive,42,35-44
+TXN10676,CUST1676,Rahul Brown,1990-11-30,Unknown,United States,Home & Kitchen,2024-01-06,3,19.86,59.58,UPI,packaging could be better,Neutral,34,25-34
+TXN10843,CUST1843,John Garcia,1988-08-03,Unknown,Canada,Sports,2024-06-11,2,479.78,959.56,UPI,ok,Neutral,36,35-44
+TXN10439,CUST1439,David Singh,1997-01-20,Female,Germany,Beauty,2024-09-08,2,86.07,172.14,Cash on Delivery,"Great product, fast delivery!!",Positive,27,25-34
+TXN10326,CUST1326,Olivia Fernandes,1998-04-29,Unknown,United States,Books,2024-10-23,2,56.26,112.52,Cash on Delivery,No feedback provided,No Feedback,26,25-34
+TXN10404,CUST1404,Mia Sharma,1974-07-16,Female,Canada,Beauty,2024-06-15,2,398.22,796.44,Cash on Delivery,Bad experience,Negative,50,45-59
+TXN10266,CUST1266,Emma Reddy,1983-07-13,Male,United States,Books,2024-12-24,5,283.99,1419.95,UPI,5 stars,Positive,41,35-44
+TXN10565,CUST1565,Fatima Kumar,1993-08-21,Male,Canada,Beauty,2024-09-06,5,339.14,1695.7,PayPal,No feedback provided,No Feedback,31,25-34
+TXN10603,CUST1603,Priya Singh,1995-08-26,Female,Canada,Toys,2024-10-18,2,432.32,864.64,UPI,No feedback provided,No Feedback,29,25-34
+TXN10846,CUST1846,Amit Khan,1957-04-20,Male,Canada,Toys,2024-10-30,1,310.96,310.96,Credit Card,worst purchase ever,Negative,67,60+
+TXN10279,CUST1279,Zara Lee,1982-08-31,Female,United Kingdom,Books,2024-05-15,5,196.83,984.15,Cash on Delivery,No feedback provided,No Feedback,42,35-44
+TXN10656,CUST1656,Liam Das,1979-06-30,Female,India,Home & Kitchen,2024-04-17,5,167.59,837.95,Debit Card,"Great product, fast delivery!!",Positive,45,45-59
+TXN10867,CUST1867,Yusuf Fernandes,1995-01-31,Male,United Kingdom,Clothing,2024-10-22,4,488.29,1953.16,PayPal,Bad experience,Negative,29,25-34
+TXN10733,CUST1733,Mia Ali,1988-12-13,Male,India,Toys,2024-06-18,1,203.35,203.35,Debit Card,"Great product, fast delivery!!",Positive,36,35-44
+TXN10712,CUST1712,Amit Johnson,1956-08-01,Male,United Kingdom,Beauty,2024-09-18,5,295.8,1479.0,UPI,"Great product, fast delivery!!",Positive,68,60+
+TXN10554,CUST1554,Grace Kim,2000-04-18,Male,United States,Toys,2024-10-23,5,112.41,562.05,UPI,value for money,Positive,24,18-24
+TXN10821,CUST1821,Fatima Garcia,1996-07-19,Female,United States,Books,2024-04-28,2,385.57,771.14,PayPal,No feedback provided,No Feedback,28,25-34
+TXN10919,CUST1919,John Kim,1960-02-07,Male,United States,Beauty,2024-04-02,1,272.09000000000003,272.09,UPI,average product,Neutral,64,60+
+TXN10927,CUST1927,Ken Fernandes,2001-07-21,Female,India,Beauty,2025-01-16,2,454.32,908.64,UPI,"Excellent service, will buy again",Positive,23,18-24
+TXN10232,CUST1232,Ken Smith,1993-05-19,Female,United States,Books,2024-06-03,3,51.2,153.6,Credit Card,No feedback provided,No Feedback,31,25-34
+TXN10246,CUST1246,Yusuf Patel,1987-12-27,Male,Germany,Electronics,2025-04-02,1,118.06,118.06,Credit Card,"Great product, fast delivery!!",Positive,37,35-44
+TXN10168,CUST1168,Sofia Patel,1958-04-05,Unknown,United Kingdom,Clothing,2025-04-24,1,9.59,9.59,Credit Card,No feedback provided,No Feedback,66,60+
+TXN10333,CUST1333,Emma Nguyen,2004-01-15,Female,Germany,Books,2025-05-08,3,227.16,681.48,Credit Card,value for money,Positive,20,18-24
+TXN10838,CUST1838,Mia Chen,1993-03-16,Unknown,India,Electronics,2025-04-19,4,217.05,868.2,Debit Card,ok,Neutral,31,25-34
+TXN10813,CUST1813,Ananya Kumar,1991-12-02,Female,Unknown,Books,2024-12-21,3,60.08,180.24,Credit Card,value for money,Positive,33,25-34
+TXN10427,CUST1427,Ken Sharma,1975-12-12,Female,India,Clothing,2025-01-22,1,371.09,371.09,Debit Card,average product,Neutral,49,45-59
+TXN10542,CUST1542,Zara Chen,1996-07-30,Male,Germany,Electronics,2024-03-19,3,478.23,1434.69,PayPal,Delivery was late,Negative,28,25-34
+TXN10751,CUST1751,Amit Das,1989-04-12,Female,Canada,Beauty,2024-07-07,1,272.09000000000003,272.09,PayPal,Bad experience,Negative,35,35-44
+TXN10763,CUST1763,Sara Lee,1970-10-07,Female,India,Sports,2025-02-24,1,266.84,266.84,UPI,ok,Neutral,54,45-59
+TXN10163,CUST1163,Ananya Kim,,Female,United States,Books,2024-12-26,3,242.5,727.5,UPI,average product,Neutral,43,35-44
+TXN10150,CUST1150,Ken Khan,1960-05-17,Female,India,Beauty,2024-08-25,3,272.09000000000003,816.27,Cash on Delivery,No feedback provided,No Feedback,64,60+
+TXN10227,CUST1227,Noah Rao,1980-12-15,Male,Germany,Sports,2025-04-05,2,481.57,963.14,Credit Card,Loved it!,Positive,44,35-44
+TXN10686,CUST1686,Ken Fernandes,1991-09-09,Unknown,Unknown,Home & Kitchen,2024-05-19,1,93.89,93.89,Credit Card,No feedback provided,No Feedback,33,25-34
+TXN10095,CUST1095,John Nguyen,1976-05-06,Male,United States,Clothing,2024-05-15,2,248.11,496.22,Credit Card,5 stars,Positive,48,45-59
+TXN10769,CUST1769,Olivia Lee,1991-05-18,Male,United States,Toys,2025-01-16,4,352.78,1411.12,UPI,No feedback provided,No Feedback,33,25-34
+TXN10222,CUST1222,John Kumar,1967-04-01,Unknown,India,Sports,2024-09-15,4,343.92,1375.68,PayPal,5 stars,Positive,57,45-59
+TXN10598,CUST1598,Wei Chen,1994-06-22,Female,United States,Electronics,2024-04-27,1,237.77,237.77,PayPal,Highly recommend to everyone,Positive,30,25-34
+TXN10700,CUST1700,Priya Kim,1969-03-03,Female,United Kingdom,Home & Kitchen,2024-12-07,2,454.82,909.64,PayPal,Delivery was late,Negative,55,45-59
+TXN10474,CUST1474,Sara Das,1970-10-21,Female,United States,Sports,2024-02-25,4,167.07,668.28,Credit Card,"Excellent service, will buy again",Positive,54,45-59
+TXN10602,CUST1602,Mia Reddy,1964-07-07,Female,United States,Electronics,2024-08-23,4,316.04,1264.16,Credit Card,No feedback provided,No Feedback,60,60+
+TXN10904,CUST1904,Yusuf Reddy,1986-03-25,Male,Germany,Beauty,2024-02-04,1,426.76,426.76,Credit Card,Delivery was late,Negative,38,35-44
+TXN10035,CUST1035,Sofia Khan,1984-08-15,Male,Canada,Toys,2024-03-04,5,158.1,790.5,Cash on Delivery,average product,Neutral,40,35-44
+TXN10218,CUST1218,Amit Reddy,1964-02-17,Female,India,Home & Kitchen,2024-04-10,1,134.86,134.86,PayPal,No feedback provided,No Feedback,60,60+
+TXN10073,CUST1073,Ananya Wilson,1979-07-13,Unknown,United Kingdom,Beauty,2024-05-04,5,76.6,383.0,PayPal,Item damaged on arrival :(,Negative,45,45-59
+TXN10221,CUST1221,Fatima Kumar,2003-03-18,Male,United States,Beauty,2024-05-27,2,160.72,321.44,Credit Card,No feedback provided,No Feedback,21,18-24
+TXN10214,CUST1214,Mia Smith,1998-04-24,Male,Unknown,Electronics,2024-02-29,3,159.39,478.17,UPI,No feedback provided,No Feedback,26,25-34
+TXN10891,CUST1891,Sofia Lee,1967-06-08,Female,Canada,Home & Kitchen,2024-09-14,4,180.33,721.32,Cash on Delivery,packaging could be better,Neutral,57,45-59
+TXN10395,CUST1395,Ken Rao,1987-10-25,Male,United States,Home & Kitchen,2024-01-06,5,408.61,2043.05,Cash on Delivery,average product,Neutral,37,35-44
+TXN10996,CUST1996,Fatima Sharma,1989-08-07,Male,United Kingdom,Clothing,2024-12-25,3,324.77,974.31,UPI,Good,Positive,35,35-44
+TXN10368,CUST1368,Olivia Chen,1998-04-14,Male,United Kingdom,Sports,2024-09-04,3,290.94,872.82,Cash on Delivery,Item damaged on arrival :(,Negative,26,25-34
+TXN10013,CUST1013,Zara Khan,2002-10-16,Female,Canada,Beauty,2025-04-29,2,136.2,272.4,Cash on Delivery,Good,Positive,22,18-24
+TXN10879,CUST1879,Zara Reddy,1955-02-02,Unknown,United States,Beauty,2024-02-26,1,285.8,285.8,UPI,No feedback provided,No Feedback,69,60+
+TXN10344,CUST1344,Ananya Das,1989-03-21,Unknown,Canada,Electronics,2024-08-30,5,113.83,569.15,PayPal,average product,Neutral,35,35-44
+TXN10199,CUST1199,Yusuf Sharma,1971-02-03,Unknown,United States,Sports,2024-03-14,1,153.14,153.14,Cash on Delivery,ok,Neutral,53,45-59
+TXN10726,CUST1726,Carlos Fernandes,1969-11-16,Male,Canada,Home & Kitchen,2024-09-13,4,295.11,1180.44,Credit Card,Delivery was late,Negative,55,45-59
+TXN10697,CUST1697,Fatima Singh,1982-11-03,Female,United Kingdom,Books,2024-12-16,3,104.84,314.52,PayPal,"Excellent service, will buy again",Positive,42,35-44
+TXN10235,CUST1235,Sara Johnson,1987-12-23,Female,India,Toys,2025-02-20,2,38.86,77.72,Debit Card,packaging could be better,Neutral,37,35-44
+TXN10696,CUST1696,Fatima Lee,1966-08-02,Female,United Kingdom,Books,2024-02-05,2,69.32,138.64,Cash on Delivery,5 stars,Positive,58,45-59
+TXN10421,CUST1421,Priya Reddy,1989-03-25,Unknown,Unknown,Toys,2024-06-20,4,211.18,844.72,UPI,"Great product, fast delivery!!",Positive,35,35-44
+TXN10929,CUST1929,Ananya Reddy,1983-10-19,Unknown,United States,Beauty,2024-08-24,4,9.39,37.56,Cash on Delivery,5 stars,Positive,41,35-44
+TXN10906,CUST1906,Amit Sharma,1977-06-21,Male,Germany,Books,2024-02-07,3,305.23,915.69,Debit Card,No feedback provided,No Feedback,47,45-59
+TXN10609,CUST1609,David Fernandes,1981-07-05,Male,United Kingdom,Electronics,2025-04-14,5,58.28,291.4,Credit Card,packaging could be better,Neutral,43,35-44
+TXN10815,CUST1815,Emma Fernandes,1969-01-25,Male,United Kingdom,Beauty,2025-05-15,2,203.2,406.4,Cash on Delivery,value for money,Positive,55,45-59
+TXN10298,CUST1298,Emma Chen,1997-09-05,Male,India,Toys,2024-03-28,2,150.42,300.84,UPI,ok,Neutral,27,25-34
+TXN10064,CUST1064,Emma Rao,1980-05-13,Male,Canada,Clothing,2025-04-18,5,332.29,1661.45,Cash on Delivery,Delivery was late,Negative,44,35-44
+TXN10735,CUST1735,Sofia Brown,1955-04-13,Male,Canada,Home & Kitchen,2025-03-23,3,340.58,1021.74,PayPal,worst purchase ever,Negative,69,60+
+TXN10608,CUST1608,David Wilson,1962-07-14,Female,India,Electronics,2025-04-09,3,78.56,235.68,UPI,Bad experience,Negative,62,60+
+TXN10014,CUST1014,Olivia Brown,,Female,Canada,Home & Kitchen,2024-08-12,4,64.9,259.6,Cash on Delivery,"Great product, fast delivery!!",Positive,43,35-44
+TXN10436,CUST1436,Sofia Garcia,1969-03-06,Male,United Kingdom,Sports,2025-04-30,2,162.21,324.42,Credit Card,No feedback provided,No Feedback,55,45-59
+TXN10018,CUST1018,Carlos Brown,2003-02-11,Female,India,Clothing,2024-05-22,2,437.87,875.74,PayPal,Delivery was late,Negative,21,18-24
+TXN10765,CUST1765,Grace Ali,1997-10-12,Female,India,Electronics,2024-12-17,2,330.49,660.98,UPI,not happy with quality,Negative,27,25-34
+TXN10855,CUST1855,Carlos Kumar,1993-11-20,Female,United Kingdom,Books,2024-05-19,5,58.24,291.2,UPI,No feedback provided,No Feedback,31,25-34
+TXN10759,CUST1759,Grace Fernandes,1961-09-02,Male,India,Beauty,2024-11-28,4,230.75,923.0,Cash on Delivery,Item damaged on arrival :(,Negative,63,60+
+TXN10780,CUST1780,Emma Silva,1965-04-26,Female,United States,Books,2025-02-24,2,239.58,479.16,Credit Card,No feedback provided,No Feedback,59,45-59
+TXN10349,CUST1349,Yusuf Reddy,1987-09-13,Female,United States,Electronics,2024-06-09,2,357.54,715.08,UPI,No feedback provided,No Feedback,37,35-44
+TXN10208,CUST1208,Noah Singh,1973-01-07,Male,United States,Beauty,2025-05-10,3,368.76,1106.28,UPI,No feedback provided,No Feedback,51,45-59
+TXN10091,CUST1091,Olivia Fernandes,1968-11-11,Female,Unknown,Toys,2024-09-07,4,469.83,1879.32,Cash on Delivery,Good,Positive,56,45-59
+TXN10308,CUST1308,Grace Sharma,1964-09-12,Male,Canada,Electronics,2024-08-01,4,66.18,264.72,Debit Card,Good,Positive,60,60+
+TXN10342,CUST1342,Olivia Khan,1975-06-04,Female,India,Beauty,2024-11-18,4,161.62,646.48,Credit Card,ok,Neutral,49,45-59
+TXN10381,CUST1381,Rahul Kim,1966-07-04,Male,Germany,Beauty,2024-09-01,1,253.73,253.73,Debit Card,packaging could be better,Neutral,58,45-59
+TXN10345,CUST1345,Wei Rao,1988-06-22,Male,Germany,Sports,2024-03-13,1,7.49,7.49,PayPal,ok,Neutral,36,35-44
+TXN10472,CUST1472,Ken Ali,,Male,United States,Sports,2024-03-22,4,263.27,1053.08,Cash on Delivery,Highly recommend to everyone,Positive,43,35-44
+TXN10243,CUST1243,Emma Khan,1993-12-24,Female,United Kingdom,Sports,2024-01-29,2,263.27,526.54,Credit Card,value for money,Positive,31,25-34
+TXN10872,CUST1872,Emma Smith,1996-05-06,Male,United States,Beauty,2024-12-04,4,179.22,716.88,PayPal,"Excellent service, will buy again",Positive,28,25-34
+TXN10552,CUST1552,Carlos Lee,1957-12-10,Male,United States,Beauty,2024-03-01,1,37.79,37.79,Credit Card,Delivery was late,Negative,67,60+
+TXN10694,CUST1694,Amit Patel,1964-05-11,Female,United States,Toys,2024-12-18,4,18.29,73.16,Cash on Delivery,average product,Neutral,60,60+
+TXN10033,CUST1033,John Lee,1978-06-08,Male,India,Electronics,2024-02-25,4,176.12,704.48,Cash on Delivery,No feedback provided,No Feedback,46,45-59
+TXN10658,CUST1658,John Das,1966-01-27,Unknown,India,Toys,2024-11-03,4,92.71,370.84,Credit Card,Delivery was late,Negative,58,45-59
+TXN10671,CUST1671,Liam Nguyen,1992-10-08,Female,United Kingdom,Beauty,2024-04-05,2,399.53,799.06,UPI,Highly recommend to everyone,Positive,32,25-34
+TXN10173,CUST1173,Sara Rao,1987-12-22,Female,Unknown,Clothing,2024-09-01,4,375.13,1500.52,Cash on Delivery,ok,Neutral,37,35-44
+TXN10881,CUST1881,Zara Silva,1987-09-07,Male,Germany,Home & Kitchen,2024-06-03,5,388.39,1941.95,PayPal,Delivery was late,Negative,37,35-44
+TXN10882,CUST1882,Liam Wilson,1956-11-10,Female,Germany,Clothing,2024-12-03,3,251.43,754.29,Cash on Delivery,No feedback provided,No Feedback,68,60+
+TXN10409,CUST1409,Wei Das,1981-07-11,Male,India,Beauty,2024-01-01,4,368.16,1472.64,Cash on Delivery,Bad experience,Negative,43,35-44
+TXN10861,CUST1861,Fatima Singh,1984-04-29,Female,United States,Sports,2024-01-11,1,323.61,323.61,Credit Card,No feedback provided,No Feedback,40,35-44
+TXN10934,CUST1934,Amit Fernandes,1980-05-25,Male,India,Sports,2025-02-07,3,487.67,1463.01,Cash on Delivery,5 stars,Positive,44,35-44
+TXN10201,CUST1201,John Silva,1995-06-03,Female,India,Sports,2025-04-26,4,96.94,387.76,Cash on Delivery,"Excellent service, will buy again",Positive,29,25-34
+TXN10293,CUST1293,Emma Brown,1979-02-21,Male,United States,Toys,2025-02-03,4,456.2,1824.8,Credit Card,Bad experience,Negative,45,45-59
+TXN10584,CUST1584,Olivia Kim,1994-09-09,Male,India,Home & Kitchen,2024-06-03,2,152.22,304.44,Debit Card,packaging could be better,Neutral,30,25-34
+TXN10897,CUST1897,David Das,1990-01-19,Male,India,Beauty,2024-09-04,2,421.65,843.3,PayPal,Delivery was late,Negative,34,25-34
+TXN10511,CUST1511,Ananya Nguyen,1992-07-27,Male,United States,Clothing,2024-03-01,1,311.37,311.37,PayPal,No feedback provided,No Feedback,32,25-34
+TXN10875,CUST1875,Sara Kim,1965-05-02,Male,United Kingdom,Home & Kitchen,2024-05-02,5,55.01,275.05,Cash on Delivery,worst purchase ever,Negative,59,45-59
+TXN10911,CUST1911,Sara Kumar,1975-09-08,Male,United Kingdom,Home & Kitchen,2024-01-12,3,461.53,1384.59,Cash on Delivery,"Excellent service, will buy again",Positive,49,45-59
+TXN10993,CUST1993,Amit Patel,1983-06-26,Female,United States,Toys,2024-03-27,2,320.78,641.56,UPI,average product,Neutral,41,35-44
+TXN10490,CUST1490,Olivia Kim,1989-01-27,Female,India,Clothing,2024-09-28,1,147.95,147.95,Cash on Delivery,No feedback provided,No Feedback,35,35-44
+TXN10908,CUST1908,Fatima Fernandes,2002-06-01,Male,United Kingdom,Electronics,2024-11-18,2,21.45,42.9,Credit Card,No feedback provided,No Feedback,22,18-24
+TXN10903,CUST1903,Rahul Khan,1998-05-26,Unknown,United Kingdom,Books,2024-04-02,5,388.82,1944.1,Debit Card,No feedback provided,No Feedback,26,25-34
+TXN10061,CUST1061,Wei Reddy,1982-04-05,Female,United States,Sports,2025-01-26,5,300.08,1500.4,PayPal,worst purchase ever,Negative,42,35-44
+TXN10691,CUST1691,Carlos Fernandes,1992-06-21,Female,United Kingdom,Toys,2024-10-12,3,73.78,221.34,UPI,"Great product, fast delivery!!",Positive,32,25-34
+TXN10027,CUST1027,Liam Wilson,1998-10-30,Unknown,United States,Electronics,2024-11-20,3,26.82,80.46,Debit Card,No feedback provided,No Feedback,26,25-34
+TXN10101,CUST1101,Amit Khan,1963-05-13,Male,Unknown,Books,2024-07-09,5,34.69,173.45,PayPal,No feedback provided,No Feedback,61,60+
+TXN10532,CUST1532,Olivia Rao,1971-05-09,Unknown,Canada,Books,2025-04-08,2,122.76,245.52,Cash on Delivery,Item damaged on arrival :(,Negative,53,45-59
+TXN10589,CUST1589,Rahul Reddy,1975-02-20,Male,United Kingdom,Books,2024-11-09,1,487.19,487.19,Debit Card,not happy with quality,Negative,49,45-59
+TXN10665,CUST1665,Sofia Khan,1977-06-05,Female,India,Home & Kitchen,2024-02-02,1,242.58,242.58,Cash on Delivery,Loved it!,Positive,47,45-59
+TXN10777,CUST1777,Noah Sharma,1969-05-20,Female,Canada,Home & Kitchen,2024-03-01,4,277.31,1109.24,Debit Card,No feedback provided,No Feedback,55,45-59
+TXN10789,CUST1789,Amit Kumar,1992-08-03,Male,Germany,Electronics,2024-03-26,3,349.87,1049.61,Credit Card,not happy with quality,Negative,32,25-34
+TXN10521,CUST1521,Sofia Brown,1966-11-27,Male,United States,Books,2024-02-16,4,336.17,1344.68,PayPal,"Great product, fast delivery!!",Positive,58,45-59
+TXN10364,CUST1364,John Fernandes,2001-11-01,Male,Germany,Electronics,2024-12-23,4,118.6,474.4,Cash on Delivery,No feedback provided,No Feedback,23,18-24
+TXN10310,CUST1310,Ananya Lee,1964-07-14,Female,United Kingdom,Clothing,2025-02-02,5,486.69,2433.45,Cash on Delivery,average product,Neutral,60,60+
+TXN10796,CUST1796,Carlos Reddy,1990-06-24,Female,United States,Books,2025-01-06,3,78.43,235.29,PayPal,No feedback provided,No Feedback,34,25-34
+TXN10829,CUST1829,Carlos Ali,1984-06-28,Male,India,Sports,2024-09-05,4,61.59,246.36,PayPal,Item damaged on arrival :(,Negative,40,35-44
+TXN10605,CUST1605,Carlos Patel,1989-11-08,Male,Canada,Toys,2025-05-03,1,152.78,152.78,UPI,Item damaged on arrival :(,Negative,35,35-44
+TXN10253,CUST1253,Mia Das,1962-08-14,Male,United Kingdom,Clothing,2024-11-22,1,297.99,297.99,Debit Card,Bad experience,Negative,62,60+
+TXN10545,CUST1545,Noah Das,1967-02-26,Female,United States,Home & Kitchen,2024-07-03,3,29.11,87.33,Credit Card,No feedback provided,No Feedback,57,45-59
+TXN10482,CUST1482,Priya Sharma,1998-05-10,Male,United Kingdom,Beauty,2025-05-07,2,366.44,732.88,UPI,packaging could be better,Neutral,26,25-34
+TXN10442,CUST1442,Priya Wilson,,Female,Germany,Electronics,2025-03-25,5,271.25,1356.25,Credit Card,ok,Neutral,43,35-44
+TXN10477,CUST1477,Priya Nguyen,2004-03-29,Male,Canada,Sports,2025-02-24,1,431.32,431.32,UPI,Highly recommend to everyone,Positive,20,18-24
+TXN10023,CUST1023,Grace Khan,1992-08-11,Male,United Kingdom,Home & Kitchen,2025-04-23,2,336.51,673.02,UPI,worst purchase ever,Negative,32,25-34
+TXN10063,CUST1063,Liam Khan,1969-02-02,Female,United Kingdom,Electronics,2024-03-21,4,228.0,912.0,UPI,not happy with quality,Negative,55,45-59
+TXN10149,CUST1149,Yusuf Fernandes,,Female,United Kingdom,Home & Kitchen,2024-11-24,4,126.21,504.84,Cash on Delivery,average product,Neutral,43,35-44
+TXN10484,CUST1484,Olivia Smith,1997-01-23,Male,United Kingdom,Sports,2025-01-10,4,179.69,718.76,UPI,average product,Neutral,27,25-34
+TXN10728,CUST1728,Amit Fernandes,2002-02-04,Female,India,Books,2024-08-08,2,190.45,380.9,UPI,5 stars,Positive,22,18-24
+TXN10932,CUST1932,Ken Reddy,1983-06-21,Male,Unknown,Clothing,2024-02-01,3,12.98,38.94,Cash on Delivery,ok,Neutral,41,35-44
+TXN10787,CUST1787,Yusuf Brown,1972-04-22,Male,United States,Sports,2024-11-12,3,364.05,1092.15,UPI,ok,Neutral,52,45-59
+TXN10258,CUST1258,Olivia Kim,1963-07-01,Male,Germany,Toys,2024-03-12,1,35.53,35.53,UPI,Item damaged on arrival :(,Negative,61,60+
+TXN10053,CUST1053,Zara Das,,Male,India,Toys,2024-05-05,3,441.41,1324.23,PayPal,worst purchase ever,Negative,43,35-44
+TXN10174,CUST1174,Zara Chen,1974-08-05,Female,Germany,Sports,2025-03-23,5,226.14,1130.7,Credit Card,Delivery was late,Negative,50,45-59
+TXN10036,CUST1036,Olivia Garcia,1972-03-18,Female,India,Books,2025-01-18,5,286.71,1433.55,Credit Card,average product,Neutral,52,45-59
+TXN10179,CUST1179,Amit Chen,1966-12-06,Male,United States,Sports,2024-07-20,2,365.29,730.58,Credit Card,No feedback provided,No Feedback,58,45-59
+TXN10680,CUST1680,Sara Garcia,1966-09-25,Female,United Kingdom,Beauty,2024-12-21,3,301.78,905.34,UPI,not happy with quality,Negative,58,45-59
+TXN10739,CUST1739,Rahul Silva,1974-10-09,Female,Unknown,Books,2024-03-04,5,318.61,1593.05,Cash on Delivery,Bad experience,Negative,50,45-59
+TXN10121,CUST1121,John Nguyen,1982-09-16,Female,India,Toys,2024-09-05,2,499.99,999.98,UPI,Delivery was late,Negative,42,35-44
+TXN10276,CUST1276,Grace Singh,,Female,Canada,Clothing,2024-11-06,2,31.51,63.02,UPI,Highly recommend to everyone,Positive,43,35-44
+TXN10045,CUST1045,Sofia Chen,2003-12-30,Female,United Kingdom,Clothing,2024-05-19,4,19.37,77.48,Cash on Delivery,value for money,Positive,21,18-24
+TXN10301,CUST1301,David Rao,1992-01-23,Unknown,Germany,Clothing,2024-03-11,3,207.55,622.65,PayPal,Item damaged on arrival :(,Negative,32,25-34
+TXN10837,CUST1837,Yusuf Smith,1988-03-20,Male,India,Home & Kitchen,2024-09-14,4,326.21,1304.84,Cash on Delivery,No feedback provided,No Feedback,36,35-44
+TXN10077,CUST1077,Priya Garcia,2000-01-24,Unknown,Germany,Electronics,2025-03-23,1,265.35,265.35,Debit Card,Highly recommend to everyone,Positive,24,18-24
+TXN10721,CUST1721,Olivia Singh,1998-02-20,Male,United States,Books,2024-08-28,2,693.3787500000001,1386.76,Cash on Delivery,5 stars,Positive,26,25-34
+TXN10213,CUST1213,Liam Kim,2000-10-24,Male,United Kingdom,Books,2024-10-21,4,190.19,760.76,PayPal,Item damaged on arrival :(,Negative,24,18-24
+TXN10268,CUST1268,Wei Johnson,1970-12-03,Male,United States,Clothing,2024-10-27,1,424.01,424.01,Credit Card,No feedback provided,No Feedback,54,45-59
+TXN10312,CUST1312,Wei Khan,2000-11-27,Female,Canada,Electronics,2025-04-08,2,231.09,462.18,UPI,packaging could be better,Neutral,24,18-24
+TXN10729,CUST1729,Fatima Wilson,1964-11-21,Male,Germany,Clothing,2024-04-05,1,376.21,376.21,UPI,Loved it!,Positive,60,60+
+TXN10445,CUST1445,Fatima Das,1973-02-11,Male,Unknown,Home & Kitchen,2024-12-20,1,50.14,50.14,Cash on Delivery,"Excellent service, will buy again",Positive,51,45-59
+TXN10504,CUST1504,Sara Brown,2001-12-06,Female,Germany,Toys,2024-10-01,5,120.33,601.65,Debit Card,5 stars,Positive,23,18-24
+TXN10496,CUST1496,Liam Patel,1961-08-21,Unknown,United States,Beauty,2024-07-17,1,132.83,132.83,Debit Card,No feedback provided,No Feedback,63,60+
+TXN10034,CUST1034,Sara Ali,1972-01-20,Male,Canada,Beauty,2024-01-01,5,344.99,1724.95,UPI,No feedback provided,No Feedback,52,45-59
+TXN10010,CUST1010,Liam Chen,1956-01-12,Female,Unknown,Toys,2024-05-16,1,150.28,150.28,Credit Card,Loved it!,Positive,68,60+
+TXN10689,CUST1689,John Rao,1980-04-14,Unknown,India,Beauty,2025-02-24,1,272.09000000000003,272.09,Debit Card,worst purchase ever,Negative,44,35-44
+TXN10161,CUST1161,Sofia Brown,1991-10-26,Unknown,United Kingdom,Beauty,2025-03-22,2,261.75,523.5,PayPal,No feedback provided,No Feedback,33,25-34
+TXN10286,CUST1286,Mia Fernandes,1978-09-12,Female,United Kingdom,Sports,2024-11-07,1,90.24,90.24,Cash on Delivery,not happy with quality,Negative,46,45-59
+TXN10296,CUST1296,Amit Johnson,1979-10-21,Unknown,India,Home & Kitchen,2024-12-01,2,79.22,158.44,Credit Card,worst purchase ever,Negative,45,45-59
+TXN10617,CUST1617,Zara Reddy,2004-09-23,Male,United Kingdom,Beauty,2024-09-05,5,363.68,1818.4,PayPal,Bad experience,Negative,20,18-24
+TXN10825,CUST1825,Zara Silva,1994-08-28,Male,United Kingdom,Beauty,2024-01-21,3,203.46,610.38,Debit Card,packaging could be better,Neutral,30,25-34
+TXN10626,CUST1626,Sara Garcia,1987-08-19,Unknown,United States,Electronics,2025-03-10,4,484.97,1939.88,Credit Card,Bad experience,Negative,37,35-44
+TXN10278,CUST1278,John Fernandes,1962-11-11,Unknown,Canada,Books,2024-11-03,2,53.01,106.02,UPI,"Excellent service, will buy again",Positive,62,60+
+TXN10935,CUST1935,Ananya Singh,1957-10-17,Male,United States,Home & Kitchen,2025-04-21,5,17.64,88.2,Cash on Delivery,No feedback provided,No Feedback,67,60+
+TXN10604,CUST1604,Priya Khan,2004-02-02,Female,United States,Beauty,2024-05-10,2,482.7,965.4,Credit Card,No feedback provided,No Feedback,20,18-24
+TXN10485,CUST1485,Fatima Sharma,1982-04-12,Male,United States,Books,2024-08-30,2,288.57,577.14,UPI,"Great product, fast delivery!!",Positive,42,35-44
+TXN10183,CUST1183,Emma Rao,1967-11-08,Female,India,Home & Kitchen,2024-05-20,5,474.52,2372.6,Debit Card,Highly recommend to everyone,Positive,57,45-59
+TXN10828,CUST1828,Amit Nguyen,1996-10-17,Female,United Kingdom,Toys,2024-08-26,1,94.24,94.24,Cash on Delivery,Highly recommend to everyone,Positive,28,25-34
+TXN10984,CUST1984,Sofia Chen,1994-08-15,Female,Unknown,Home & Kitchen,2024-12-16,5,450.38,2251.9,Debit Card,No feedback provided,No Feedback,30,25-34
+TXN10685,CUST1685,Amit Garcia,1962-07-16,Female,United Kingdom,Home & Kitchen,2024-04-27,1,235.3,235.3,Cash on Delivery,packaging could be better,Neutral,62,60+
+TXN10745,CUST1745,Yusuf Kumar,1974-05-09,Male,Canada,Beauty,2024-01-31,2,414.8,829.6,UPI,not happy with quality,Negative,50,45-59
+TXN10999,CUST1999,John Patel,1992-10-21,Male,India,Books,2025-04-07,2,457.01,914.02,PayPal,ok,Neutral,32,25-34
+TXN10037,CUST1037,Ananya Brown,1993-07-26,Male,Canada,Home & Kitchen,2024-08-26,4,339.44,1357.76,Debit Card,"Excellent service, will buy again",Positive,31,25-34
+TXN10157,CUST1157,Wei Johnson,1997-07-02,Female,United States,Sports,2025-04-02,2,167.34,334.68,Debit Card,worst purchase ever,Negative,27,25-34
+TXN10003,CUST1003,Sofia Johnson,1979-12-06,Female,Germany,Home & Kitchen,2024-02-22,4,52.87,211.48,UPI,not happy with quality,Negative,45,45-59
+TXN10755,CUST1755,John Chen,1995-02-14,Male,United States,Clothing,2024-10-21,2,48.47,96.94,Credit Card,"Excellent service, will buy again",Positive,29,25-34
+TXN10509,CUST1509,John Kumar,1962-03-30,Male,United States,Electronics,2024-12-27,3,211.03,633.09,PayPal,Item damaged on arrival :(,Negative,62,60+
+TXN10498,CUST1498,Liam Lee,1958-02-16,Male,United Kingdom,Books,2024-05-08,1,448.77,448.77,Credit Card,not happy with quality,Negative,66,60+
+TXN10309,CUST1309,John Rao,1992-10-04,Female,United Kingdom,Home & Kitchen,2024-11-14,2,212.32,424.64,PayPal,Delivery was late,Negative,32,25-34
+TXN10290,CUST1290,Wei Wilson,1957-08-06,Female,Germany,Clothing,2025-03-04,2,21.37,42.74,Cash on Delivery,Good,Positive,67,60+
+TXN10561,CUST1561,Mia Kumar,1991-04-14,Male,India,Clothing,2025-01-28,1,65.48,65.48,UPI,Item damaged on arrival :(,Negative,33,25-34
+TXN10415,CUST1415,Olivia Fernandes,1964-06-19,Male,Canada,Beauty,2024-12-25,1,87.57,87.57,Cash on Delivery,No feedback provided,No Feedback,60,60+
+TXN10422,CUST1422,Rahul Sharma,1982-05-06,Male,India,Sports,2024-10-16,3,253.69,761.07,Credit Card,worst purchase ever,Negative,42,35-44
+TXN10142,CUST1142,Sara Garcia,1961-08-23,Female,Canada,Beauty,2024-02-14,3,356.22,1068.66,UPI,average product,Neutral,63,60+
+TXN10224,CUST1224,David Lee,1965-03-31,Unknown,United Kingdom,Toys,2024-07-06,1,203.35,203.35,UPI,Highly recommend to everyone,Positive,59,45-59
+TXN10865,CUST1865,Fatima Khan,1972-02-24,Unknown,United Kingdom,Electronics,2025-04-23,3,442.24,1326.72,Credit Card,No feedback provided,No Feedback,52,45-59
+TXN10184,CUST1184,Olivia Kumar,1959-03-17,Female,Canada,Beauty,2025-02-06,3,349.67,1049.01,UPI,worst purchase ever,Negative,65,60+
+TXN10844,CUST1844,Rahul Brown,1990-04-15,Unknown,United Kingdom,Beauty,2024-03-06,2,204.54,409.08,Debit Card,Highly recommend to everyone,Positive,34,25-34
+TXN10970,CUST1970,Fatima Brown,1998-12-11,Female,United States,Clothing,2024-07-25,4,264.09,1056.36,UPI,not happy with quality,Negative,26,25-34
+TXN10951,CUST1951,Sara Lee,1994-11-14,Female,India,Electronics,2025-03-18,3,367.16,1101.48,Cash on Delivery,"Excellent service, will buy again",Positive,30,25-34
+TXN10673,CUST1673,Yusuf Garcia,1960-02-22,Male,Germany,Toys,2024-10-13,4,175.19,700.76,UPI,"Excellent service, will buy again",Positive,64,60+
+TXN10849,CUST1849,Ananya Silva,1971-03-16,Male,United Kingdom,Toys,2024-07-04,4,54.83,219.32,Cash on Delivery,"Excellent service, will buy again",Positive,53,45-59
+TXN10512,CUST1512,Emma Das,1973-09-02,Male,United States,Electronics,2025-02-11,4,251.27,1005.08,Credit Card,not happy with quality,Negative,51,45-59
+TXN10913,CUST1913,Yusuf Kumar,1978-08-07,Male,India,Beauty,2024-05-13,3,444.57,1333.71,UPI,ok,Neutral,46,45-59
+TXN10732,CUST1732,Grace Wilson,1978-11-06,Female,Germany,Home & Kitchen,2024-11-05,3,188.54,565.62,Cash on Delivery,Bad experience,Negative,46,45-59
+TXN10612,CUST1612,Fatima Khan,1978-04-07,Female,United Kingdom,Electronics,2024-01-03,1,11.59,11.59,PayPal,worst purchase ever,Negative,46,45-59
+TXN10893,CUST1893,Priya Ali,1966-04-19,Female,United States,Beauty,2025-02-17,4,420.4,1681.6,UPI,Delivery was late,Negative,58,45-59
+TXN10748,CUST1748,Ken Patel,1967-05-05,Female,United Kingdom,Home & Kitchen,2025-04-04,2,112.98,225.96,Credit Card,No feedback provided,No Feedback,57,45-59
+TXN10974,CUST1974,Sofia Kumar,1970-04-26,Unknown,United States,Books,2025-03-23,4,202.71,810.84,Cash on Delivery,average product,Neutral,54,45-59
+TXN10118,CUST1118,Ananya Ali,1991-09-03,Female,United Kingdom,Electronics,2025-02-08,1,168.2,168.2,Cash on Delivery,average product,Neutral,33,25-34
+TXN10854,CUST1854,Rahul Brown,1977-06-09,Female,Canada,Toys,2025-03-30,4,55.93,223.72,UPI,value for money,Positive,47,45-59
+TXN10002,CUST1002,Emma Wilson,1957-05-19,Female,Canada,Books,2024-12-25,4,114.12,456.48,Credit Card,value for money,Positive,67,60+
+TXN10114,CUST1114,Yusuf Singh,1983-12-30,Female,United Kingdom,Electronics,2024-08-28,3,399.18,1197.54,Cash on Delivery,No feedback provided,No Feedback,41,35-44
+TXN10987,CUST1987,Priya Silva,1997-12-13,Unknown,Canada,Books,2024-05-09,1,485.71,485.71,PayPal,packaging could be better,Neutral,27,25-34
+TXN10687,CUST1687,Amit Rao,2000-01-06,Male,Canada,Electronics,2025-02-06,2,53.71,107.42,Credit Card,ok,Neutral,24,18-24
+TXN10766,CUST1766,Mia Kim,1992-07-10,Female,United Kingdom,Home & Kitchen,2025-02-12,5,146.98,734.9,PayPal,Bad experience,Negative,32,25-34
+TXN10166,CUST1166,Priya Wilson,1975-03-31,Male,United States,Beauty,2024-06-18,1,342.19,342.19,PayPal,value for money,Positive,49,45-59
+TXN10185,CUST1185,Fatima Chen,1997-06-25,Unknown,United States,Home & Kitchen,2025-03-15,4,457.8,1831.2,Cash on Delivery,ok,Neutral,27,25-34
+TXN10678,CUST1678,Emma Patel,1972-08-01,Female,Germany,Home & Kitchen,2025-04-11,1,416.57,416.57,Credit Card,No feedback provided,No Feedback,52,45-59
+TXN10373,CUST1373,Mia Ali,1991-05-17,Female,United Kingdom,Electronics,2025-01-12,1,277.05,277.05,PayPal,No feedback provided,No Feedback,33,25-34
+TXN10275,CUST1275,John Johnson,1978-06-05,Male,India,Clothing,2025-03-30,2,367.33,734.66,Credit Card,No feedback provided,No Feedback,46,45-59
+TXN10705,CUST1705,Ken Nguyen,1970-12-18,Female,United States,Books,2024-09-29,4,349.89,1399.56,PayPal,Delivery was late,Negative,54,45-59
+TXN10001,CUST1001,Sara Smith,1979-09-04,Female,United States,Books,2024-02-22,1,297.29,297.29,Credit Card,Good,Positive,45,45-59
+TXN10567,CUST1567,Priya Smith,1959-01-18,Unknown,India,Home & Kitchen,2025-02-18,1,383.77,383.77,Cash on Delivery,Delivery was late,Negative,65,60+
+TXN10888,CUST1888,Wei Khan,1979-04-14,Female,United States,Beauty,2024-10-26,3,113.33,339.99,Cash on Delivery,Bad experience,Negative,45,45-59
+TXN10541,CUST1541,Fatima Chen,1996-06-16,Unknown,United States,Clothing,2024-04-05,3,279.16,837.48,UPI,average product,Neutral,28,25-34
+TXN10501,CUST1501,Olivia Johnson,1962-03-21,Unknown,Germany,Home & Kitchen,2024-11-27,2,279.47,558.94,UPI,average product,Neutral,62,60+
+TXN10719,CUST1719,Amit Nguyen,1990-09-23,Female,United Kingdom,Beauty,2024-08-04,5,368.79,1843.95,PayPal,"Great product, fast delivery!!",Positive,34,25-34
+TXN10384,CUST1384,Rahul Silva,1995-06-09,Male,United States,Sports,2024-12-17,1,361.8,361.8,PayPal,Highly recommend to everyone,Positive,29,25-34
+TXN10406,CUST1406,Priya Nguyen,1968-10-22,Unknown,United States,Clothing,2024-09-06,3,490.93,1472.79,Cash on Delivery,packaging could be better,Neutral,56,45-59
+TXN10562,CUST1562,John Lee,,Female,Canada,Electronics,2025-05-12,4,304.27,1217.08,UPI,Delivery was late,Negative,43,35-44
+TXN10863,CUST1863,Liam Johnson,1986-01-09,Male,United Kingdom,Toys,2024-06-09,5,28.3,141.5,PayPal,5 stars,Positive,38,35-44
+TXN10021,CUST1021,Carlos Sharma,2003-08-23,Female,India,Electronics,2024-01-26,4,253.91,1015.64,Debit Card,not happy with quality,Negative,21,18-24
+TXN10806,CUST1806,Wei Ali,1995-01-28,Unknown,United States,Electronics,2024-10-22,3,76.61,229.83,Debit Card,value for money,Positive,29,25-34
+TXN10177,CUST1177,Rahul Silva,1955-04-09,Male,United States,Electronics,2024-08-04,1,272.88,272.88,Credit Card,No feedback provided,No Feedback,69,60+
+TXN10336,CUST1336,Noah Wilson,1974-09-25,Male,United States,Toys,2024-09-15,4,203.35,813.4,Cash on Delivery,Bad experience,Negative,50,45-59
+TXN10380,CUST1380,Olivia Sharma,1998-04-08,Male,India,Beauty,2025-04-04,3,247.95,743.85,PayPal,Loved it!,Positive,26,25-34
+TXN10546,CUST1546,Carlos Patel,1963-06-24,Unknown,United States,Sports,2024-06-14,3,139.37,418.11,Cash on Delivery,Delivery was late,Negative,61,60+
+TXN10172,CUST1172,Noah Rao,1956-01-10,Female,India,Books,2024-04-30,1,235.37,235.37,PayPal,average product,Neutral,68,60+
+TXN10520,CUST1520,Priya Sharma,1997-03-23,Male,India,Sports,2024-07-20,1,228.96,228.96,PayPal,"Great product, fast delivery!!",Positive,27,25-34
+TXN10831,CUST1831,Carlos Sharma,1973-12-22,Unknown,Canada,Beauty,2024-05-18,2,46.38,92.76,Cash on Delivery,"Excellent service, will buy again",Positive,51,45-59
+TXN10153,CUST1153,Zara Rao,1999-08-15,Male,India,Sports,2024-08-22,2,293.76,587.52,UPI,5 stars,Positive,25,25-34
+TXN10619,CUST1619,Sofia Smith,1969-06-22,Female,United States,Beauty,2024-06-25,2,256.28,512.56,Cash on Delivery,packaging could be better,Neutral,55,45-59
+TXN10414,CUST1414,Amit Brown,2001-08-09,Male,Canada,Clothing,2024-09-29,2,100.59,201.18,Debit Card,ok,Neutral,23,18-24
+TXN10610,CUST1610,Yusuf Silva,1986-11-21,Male,United States,Toys,2024-09-14,1,371.56,371.56,Debit Card,worst purchase ever,Negative,38,35-44
+TXN10623,CUST1623,Grace Kim,1965-10-29,Female,United Kingdom,Home & Kitchen,2024-06-23,1,386.2,386.2,Debit Card,No feedback provided,No Feedback,59,45-59
+TXN10873,CUST1873,Mia Fernandes,1974-01-09,Female,United Kingdom,Beauty,2024-09-17,1,223.46,223.46,Credit Card,worst purchase ever,Negative,50,45-59
+TXN10582,CUST1582,Zara Chen,1988-08-13,Male,United Kingdom,Beauty,2024-08-31,3,440.32,1320.96,Cash on Delivery,5 stars,Positive,36,35-44
+TXN10859,CUST1859,Amit Ali,1980-06-11,Female,United Kingdom,Clothing,2024-02-22,3,359.55,1078.65,Credit Card,Highly recommend to everyone,Positive,44,35-44
+TXN10948,CUST1948,Mia Rao,1969-11-09,Unknown,India,Beauty,2024-08-12,2,147.8,295.6,Credit Card,No feedback provided,No Feedback,55,45-59
+TXN10642,CUST1642,Carlos Patel,1998-11-07,Male,United Kingdom,Home & Kitchen,2024-02-04,4,243.18,972.72,PayPal,No feedback provided,No Feedback,26,25-34
+TXN10317,CUST1317,Zara Lee,1991-11-24,Male,United States,Home & Kitchen,2024-12-01,1,353.76,353.76,UPI,No feedback provided,No Feedback,33,25-34
+TXN10960,CUST1960,Liam Sharma,1979-01-27,Female,United States,Home & Kitchen,2024-11-21,3,226.58,679.74,Debit Card,ok,Neutral,45,45-59
+TXN10259,CUST1259,Carlos Ali,1988-05-24,Male,United Kingdom,Home & Kitchen,2025-04-14,1,498.59,498.59,PayPal,Item damaged on arrival :(,Negative,36,35-44
+TXN10835,CUST1835,Wei Das,1968-03-25,Unknown,India,Electronics,2025-02-09,3,693.3787500000001,2080.14,Debit Card,No feedback provided,No Feedback,56,45-59
+TXN10663,CUST1663,Sofia Sharma,1983-12-24,Unknown,India,Home & Kitchen,2024-03-03,4,250.31,1001.24,Credit Card,Bad experience,Negative,41,35-44
+TXN10475,CUST1475,Carlos Garcia,1955-01-07,Female,United States,Beauty,2024-09-29,4,309.71,1238.84,UPI,No feedback provided,No Feedback,69,60+
+TXN10338,CUST1338,Mia Das,1976-07-24,Male,United States,Electronics,2024-12-15,4,458.39,1833.56,Cash on Delivery,Loved it!,Positive,48,45-59
+TXN10539,CUST1539,Carlos Das,1992-04-14,Male,United States,Toys,2025-01-07,4,74.09,296.36,Credit Card,Item damaged on arrival :(,Negative,32,25-34
+TXN10505,CUST1505,John Kumar,1959-02-09,Female,Canada,Clothing,2024-01-08,1,452.81,452.81,Credit Card,packaging could be better,Neutral,65,60+
+TXN10399,CUST1399,Liam Singh,1999-02-20,Male,United States,Clothing,2024-01-26,1,97.04,97.04,UPI,Item damaged on arrival :(,Negative,25,25-34
+TXN10424,CUST1424,Rahul Silva,,Male,India,Toys,2024-12-23,2,243.06,486.12,Cash on Delivery,Good,Positive,43,35-44
+TXN10606,CUST1606,Mia Lee,1987-12-19,Female,United Kingdom,Beauty,2025-03-29,4,137.9,551.6,Credit Card,Highly recommend to everyone,Positive,37,35-44
+TXN10941,CUST1941,Amit Fernandes,1992-10-09,Female,United Kingdom,Beauty,2024-11-19,2,438.82,877.64,Credit Card,Highly recommend to everyone,Positive,32,25-34
+TXN10661,CUST1661,Liam Reddy,1999-11-20,Unknown,United Kingdom,Clothing,2024-12-03,5,284.74,1423.7,Debit Card,"Excellent service, will buy again",Positive,25,25-34
+TXN10481,CUST1481,Rahul Nguyen,1975-04-03,Female,United Kingdom,Electronics,2024-10-22,2,238.89,477.78,PayPal,No feedback provided,No Feedback,49,45-59
+TXN10423,CUST1423,Ken Singh,2000-04-12,Female,India,Home & Kitchen,2025-02-06,2,70.43,140.86,Credit Card,ok,Neutral,24,18-24
+TXN10918,CUST1918,Carlos Johnson,1994-03-01,Female,United States,Electronics,2024-10-28,2,209.47,418.94,PayPal,not happy with quality,Negative,30,25-34
+TXN10651,CUST1651,Zara Smith,1991-07-23,Male,India,Sports,2025-05-08,1,126.93,126.93,Debit Card,average product,Neutral,33,25-34
+TXN10682,CUST1682,Yusuf Kumar,1973-10-09,Unknown,United Kingdom,Toys,2024-12-05,1,203.35,203.35,PayPal,No feedback provided,No Feedback,51,45-59
+TXN10876,CUST1876,Rahul Lee,1974-09-23,Female,United States,Clothing,2025-02-06,3,320.27,960.81,UPI,"Great product, fast delivery!!",Positive,50,45-59
+TXN10715,CUST1715,Sofia Rao,1957-02-15,Unknown,Canada,Home & Kitchen,2024-06-24,2,271.96,543.92,UPI,Bad experience,Negative,67,60+
+TXN10660,CUST1660,Emma Kumar,1987-07-26,Male,United Kingdom,Books,2024-12-27,2,8.53,17.06,Cash on Delivery,Delivery was late,Negative,37,35-44
+TXN10790,CUST1790,Carlos Ali,1999-05-31,Unknown,United Kingdom,Electronics,2024-03-25,5,195.15,975.75,Cash on Delivery,Loved it!,Positive,25,25-34
+TXN10257,CUST1257,Amit Kim,1986-11-30,Male,United States,Books,2024-06-02,2,20.39,40.78,PayPal,ok,Neutral,38,35-44
+TXN10953,CUST1953,Sara Wilson,1983-06-27,Unknown,United Kingdom,Books,2025-03-04,1,126.73,126.73,UPI,Good,Positive,41,35-44

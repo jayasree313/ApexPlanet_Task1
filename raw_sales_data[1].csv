@@ -1,0 +1,516 @@
+OrderID,CustomerID,CustomerName,Email,DateOfBirth,OrderDate,ProductCategory,Price,Quantity,PaymentMethod
+ORD10048,CUST1048,Anna Chen,anna.chen@example.com,,05-25-2024,clothing ,81.71,2,
+ORD10347,CUST1347,Wei Johnson,wei.johnson@example.com,17/10/1978,2024-08-16,Electronic,6.56,3,PayPal
+ORD10285,CUST1285,Li Brown,li.brown@example.com,03-04-1975,01-17-2024,Beauty,113.99,5,Cash
+ORD10222,CUST1222,Tom Ahmed,tom.ahmed@example.com,10-05-1969,13/04/2024,Sports,5.0,2,UPI
+ORD10474,CUST1124,Yusuf Patel,yusuf.patel@example.com,1955-06-23,23-Mar-2024,Sports & Outdoors,91.01,5,Cash
+ORD10169,CUST1169,Olga Davis,olga.davis@example.com,14/04/1958,08-30-2024,clothing ,42.64,1,PayPal
+ORD10224,CUST1224,Priya Davis,priya.davis@example.com,14-Dec-1956,08-24-2024,ELECTRONICS,5.0,2,UPI
+ORD10190,CUST1190,Fatima Johnson,fatima.johnson@example.com,12-28-1965,03-May-2024,Book,5.0,1,Credit Card
+ORD10380,CUST1030,Olga Patel,olga.patel@example.com,14/10/1985,25/10/2024,beauty products,25.75,4,PayPal
+ORD10193,CUST1193,Maria Wang,maria.wang@example.com,1959-05-14,04-20-2024,clothing ,56.42,4,PayPal
+ORD10118,CUST1118,Wei Ali,wei.ali@example.com,07-16-1959,2024-11-24,Electronic,14.94,5,Debit Card
+ORD10233,CUST1233,Kenji Brown,kenji.brown@example.com,11/12/2004,2024-05-20,books,51.37,1,PayPal
+ORD10111,CUST1111,Maria Chen,maria.chen@example.com,08-27-1990,13/03/2024,Home & Kitchen,5.0,1,PayPal
+ORD10148,CUST1148,Aisha Müller,aisha.müller@example.com,10-Apr-1994,21/01/2024,Sports,10.39,2,PayPal
+ORD10321,CUST1321,Tom Kumar,tom.kumar@example.com,1985-01-20,2024-11-21,Home and Kitchen,52.91,3,Credit Card
+ORD10068,CUST1068,Sara Rossi,sara.rossi@example.com,12-31-1988,04-May-2024,Electronics,,3,Debit Card
+ORD10091,CUST1091,Maria Wilson,maria.wilson@example.com,20/06/1976,2024-03-03,clothing ,,5,Cash
+ORD10441,CUST1091,Carlos Ivanov,carlos.ivanov@example.com,12-05-1967,10-06-2024,home kitchen,61.52,1,UPI
+ORD10329,CUST1329,Sara Müller,sara.müller@example.com,27/07/1995,16-Jan-2024,Books,68.72,2,Credit Card
+ORD10299,CUST1299,John Smith,john.smith@example.com,26-Oct-1965,12-22-2024,Sports & Outdoors,74.39,2,Cash
+ORD10067,CUST1067,Yusuf Davis,yusuf.davis@example.com,14-Sep-1996,31-Jan-2025,Beauty ,,2,Credit Card
+ORD10194,CUST1194,Tom Smith,tom.smith@example.com,01-06-1967,25-Feb-2024,home kitchen,12.63,3,
+ORD10261,CUST1261,Li Kim,li.kim@example.com,26/02/1989,23/09/2024,Sports & Outdoors,22.19,3,Cash
+ORD10312,CUST1312,Anna Wilson,anna.wilson@example.com,12-24-1969,06-26-2024,Sports & Outdoors,82.96,3,Credit Card
+ORD10147,CUST1147,Nina Ali,nina.ali@example.com,24/12/1999,13-Jun-2024,Clothing,12.89,3,Credit Card
+ORD10470,CUST1120,Kenji Kumar,kenji.kumar@example.com,03-23-1993,24/02/2024,ELECTRONICS,32.73,4,UPI
+ORD10103,CUST1103,Anna Chen,anna.chen@example.com,09-Aug-1976,08-Nov-2024,Beauty ,39.72,4,
+ORD10426,CUST1076,Tom Hassan,,23-May-1981,10/04/2024,Beauty,91.06,1,Debit Card
+ORD10411,CUST1061,Wei Hassan,,09/08/2000,11-12-2024,Book,71.35,3,Credit Card
+ORD10410,CUST1060,Fatima Wilson,fatima.wilson@example.com,17-Mar-1964,2025-01-16,books,65.43,5,Credit Card
+ORD10032,CUST1032,Carlos Kumar,carlos.kumar@example.com,02-25-1988,05/02/2024,Beauty,105.57,5,PayPal
+ORD10497,CUST1147,Emma Silva,emma.silva@example.com,04-09-2005,07-03-2024,home kitchen,18.88,1,PayPal
+ORD10035,CUST1035,Wei Sato,wei.sato@example.com,04-27-1955,2024-05-21,Sports & Outdoors,74.68,3,Debit Card
+ORD10133,CUST1133,Aisha Ali,aisha.ali@example.com,09-13-1995,11-Jul-2024,Beauty,18.13,3,UPI
+ORD10173,CUST1173,Maria Kumar,maria.kumar@example.com,18-Aug-1986,2024-08-16,ELECTRONICS,47.69,1,Credit Card
+ORD10454,CUST1104,Wei Silva,wei.silva@example.com,03/11/1958,08/07/2024,Sports,65.12,3,Cash
+ORD10143,CUST1143,Mohammed Müller,mohammed.müller@example.com,05/10/1961,04/11/2024,sports,5.0,5,UPI
+ORD10136,CUST1136,James Ahmed,james.ahmed@example.com,28/01/1959,12-07-2024,Home and Kitchen,96.5,1,Credit Card
+ORD10436,CUST1086,Fatima Ali,fatima.ali@example.com,21/06/1961,02-Oct-2024,Electronics,52.22,3,Credit Card
+ORD10005,CUST1005,Yusuf Silva,yusuf.silva@example.com,2003-02-09,23-Jan-2024,Home and Kitchen,42.98,3,UPI
+ORD10439,CUST1089,John Hassan,john.hassan@example.com,07-06-1961,2024-02-02,Sports,5.0,3,UPI
+ORD10444,CUST1094,Mohammed Khan,mohammed.khan@example.com,28-Mar-2004,2024-04-02,beauty products,47.33,1,PayPal
+ORD10332,CUST1332,Fatima Patel,fatima.patel@example.com,26-Jan-1970,2024-08-24,Home and Kitchen,23.08,4,Cash
+ORD10063,CUST1063,Sara Kumar,sara.kumar@example.com,09-10-1969,2024-03-26,Books,16.81,3,UPI
+ORD10225,CUST1225,Wei Patel,wei.patel@example.com,1960-09-20,08-04-2024,Home & Kitchen,35.84,4,Credit Card
+ORD10181,CUST1181,Raj Rossi,raj.rossi@example.com,1962-09-26,09/10/2024,clothing ,68.77,4,UPI
+ORD10366,CUST1016,Olga Johnson,olga.johnson@example.com,04-Jun-1959,19/12/2024,ELECTRONICS,37.96,1,PayPal
+ORD10495,CUST1145,Kenji Wilson,,08-28-1998,03-09-2024,ELECTRONICS,95.69,5,Credit Card
+ORD10066,CUST1066,Kenji Wilson,kenji.wilson@example.com,30-Jun-1987,24-Feb-2024,Sports & Outdoors,90.69,5,PayPal
+ORD10205,CUST1205,James Ali,james.ali@example.com,01-25-2005,05-06-2024,Electronic,8.67,3,PayPal
+ORD10086,CUST1086,Li Kim,li.kim@example.com,1979-03-07,2024-10-27,Beauty,34.95,4,PayPal
+ORD10316,CUST1316,Priya Wilson,priya.wilson@example.com,18/06/1968,05-Jul-2024,Clothing,50.63,4,Debit Card
+ORD10494,CUST1144,Li Davis,li.davis@example.com,03/08/1972,09-Aug-2024,Sports & Outdoors,24.16,1,Debit Card
+ORD10129,CUST1129,Fatima Sato,fatima.sato@example.com,08-13-1959,30-Jun-2024,clothing ,52.99,5,UPI
+ORD10006,CUST1006,Raj Kim,raj.kim@example.com,10/02/1959,2024-04-08,clothing ,42.98,2,Credit Card
+ORD10351,CUST1001,Tom Chen,tom.chen@example.com,12-Oct-1957,22-Jun-2024,Beauty,59.33,4,Debit Card
+ORD10335,CUST1335,Olga Garcia,olga.garcia@example.com,04/03/2002,02/08/2024,beauty products,79.25,4,PayPal
+ORD10305,CUST1305,James Ivanov,james.ivanov@example.com,1999-10-27,27/02/2024,Sports,49.37,1,PayPal
+ORD10340,CUST1340,Nina Ali,nina.ali@example.com,01-Oct-1970,09-09-2024,Clothing,33.09,2,UPI
+ORD10306,CUST1306,Emma Garcia,emma.garcia@example.com,13/10/1987,17-Jul-2024,sports,53.52,1,Credit Card
+ORD10262,CUST1262,Carlos Chen,carlos.chen@example.com,04-Oct-1979,26-Mar-2024,clothing ,48.21,1,PayPal
+ORD10018,CUST1018,Mohammed Davis,mohammed.davis@example.com,19-Dec-1982,21/01/2025,home kitchen,59.43,5,Cash
+ORD10214,CUST1214,David Rossi,david.rossi@example.com,15-Jan-1967,24-Nov-2024,ELECTRONICS,69.54,1,PayPal
+ORD10243,CUST1243,Li Wilson,li.wilson@example.com,01-Feb-1978,10-08-2024,sports,65.15,3,Debit Card
+ORD10476,CUST1126,Aisha Brown,aisha.brown@example.com,22-Sep-1970,2024-12-30,Book,42.53,5,PayPal
+ORD10365,CUST1015,Yusuf Wilson,yusuf.wilson@example.com,16-Sep-1979,20/01/2024,Sports & Outdoors,70.7,4,Credit Card
+ORD10428,CUST1078,Nina Silva,nina.silva@example.com,01/11/1996,01-03-2024,Clothing,70.58,3,UPI
+ORD10234,CUST1234,Olga Ahmed,olga.ahmed@example.com,17/08/1991,12-Jun-2024,clothing ,30.45,5,Cash
+ORD10120,CUST1120,Sara Garcia,sara.garcia@example.com,1970-08-27,03-07-2024,Electronics,72.56,3,Debit Card
+ORD10290,CUST1290,Nina Silva,nina.silva@example.com,01-Mar-1967,2024-09-20,Clothing,31.32,2,Debit Card
+ORD10166,CUST1166,John Kumar,john.kumar@example.com,1976-08-19,02-04-2024,Beauty ,62.38,3,Debit Card
+ORD10410,CUST1060,Fatima Wilson,fatima.wilson@example.com,17-Mar-1964,2025-01-16,books,65.43,5,Credit Card
+ORD10188,CUST1188,Maria Chen,maria.chen@example.com,07-Mar-1969,2024-12-18,books,47.82,2,PayPal
+ORD10459,CUST1109,Anna Müller,anna.müller@example.com,31-Aug-1975,2024-07-04,Clothes,33.39,4,Cash
+ORD10030,CUST1030,Emma Silva,emma.silva@example.com,05-31-1976,04-14-2024,Home and Kitchen,41.25,3,Cash
+ORD10404,CUST1054,Kenji Kim,kenji.kim@example.com,06-Apr-1971,04-Sep-2024,home kitchen,51.41,2,Cash
+ORD10477,CUST1127,Mohammed Patel,mohammed.patel@example.com,1970-03-16,02/11/2024,home kitchen,67.3,1,Debit Card
+ORD10209,CUST1209,Carlos Khan,carlos.khan@example.com,1976-10-01,11/11/2024,Sports,65.45,2,Credit Card
+ORD10447,CUST1097,Carlos Kim,carlos.kim@example.com,19-May-1983,10-17-2024,Beauty,1220.0,2,Cash
+ORD10161,CUST1161,Carlos Patel,carlos.patel@example.com,14-Jun-1967,26-May-2024,Book,20.76,1,Credit Card
+ORD10108,CUST1108,Mohammed Hassan,mohammed.hassan@example.com,1963-09-19,08/05/2024,clothing ,55.24,1,UPI
+ORD10464,CUST1114,Yusuf Kim,yusuf.kim@example.com,06-Dec-1988,05/02/2024,Sports & Outdoors,56.42,2,UPI
+ORD10346,CUST1346,Nina Khan,nina.khan@example.com,1984-09-16,11/09/2024,Electronic,56.96,3,Debit Card
+ORD10485,CUST1135,Tom Müller,tom.müller@example.com,19/09/1986,08-31-2024,Beauty ,27.31,2,
+ORD10301,CUST1301,Wei Ahmed,wei.ahmed@example.com,21-Sep-1969,2024-10-15,home kitchen,25.13,2,Cash
+ORD10478,CUST1128,Wei Silva,wei.silva@example.com,06-Sep-1986,03-Feb-2025,Home and Kitchen,59.34,5,Credit Card
+ORD10345,CUST1345,Anna Smith,anna.smith@example.com,2005-11-29,25-Dec-2024,Beauty,35.87,5,Debit Card
+ORD10456,CUST1106,Nina Davis,nina.davis@example.com,16-Oct-1988,18/10/2024,home kitchen,26.21,1,UPI
+ORD10291,CUST1291,Li Garcia,li.garcia@example.com,,12-30-2024,sports,43.76,3,Cash
+ORD10219,CUST1219,David Müller,david.müller@example.com,07-14-1965,07-26-2024,home kitchen,35.44,2,Debit Card
+ORD10294,CUST1294,Kenji Ali,kenji.ali@example.com,12-19-1983,09-10-2024,Clothes,75.49,2,UPI
+ORD10331,CUST1331,Nina Silva,nina.silva@example.com,13/10/1960,2024-02-08,Book,49.63,1,PayPal
+ORD10259,CUST1259,Carlos Chen,carlos.chen@example.com,08-Apr-1995,05-Apr-2024,Books,63.31,3,UPI
+ORD10393,CUST1043,Priya Ivanov,priya.ivanov@example.com,,11-23-2024,Clothing,10.39,1,Credit Card
+ORD10007,CUST1007,Olga Silva,olga.silva@example.com,08-04-1969,08-20-2024,home kitchen,97.38,3,Credit Card
+ORD10433,CUST1083,Li Patel,li.patel@example.com,1989-03-19,12-15-2024,Home and Kitchen,41.92,3,Credit Card
+ORD10012,CUST1012,Fatima Garcia,fatima.garcia@example.com,1992-11-15,17/11/2024,Home and Kitchen,36.03,4,UPI
+ORD10431,CUST1081,Raj Wang,raj.wang@example.com,09-13-1984,04-19-2024,clothing ,14.5,5,UPI
+ORD10093,CUST1093,Sara Sato,sara.sato@example.com,12-Nov-1976,04-Sep-2024,beauty products,28.94,2,UPI
+ORD10226,CUST1226,David Sato,david.sato@example.com,09-17-1992,02/04/2024,Home and Kitchen,82.67,4,Cash
+ORD10413,CUST1063,Emma Kumar,emma.kumar@example.com,02-19-2004,11-20-2024,Books,5.0,2,Cash
+ORD10330,CUST1330,John Patel,john.patel@example.com,23/09/1966,03/02/2025,Home and Kitchen,68.85,1,UPI
+ORD10311,CUST1311,Maria Hassan,maria.hassan@example.com,30/09/1982,2024-11-07,Books,43.47,2,Credit Card
+ORD10043,CUST1043,Fatima Hassan,,,08-10-2024,Sports,46.53,5,Debit Card
+ORD10059,CUST1059,Nina Smith,nina.smith@example.com,05-Mar-1967,12-Feb-2024,Beauty,,4,PayPal
+ORD10389,CUST1039,John Smith,john.smith@example.com,04-20-1975,16/11/2024,clothing ,78.51,4,UPI
+ORD10079,CUST1079,Yusuf Wang,yusuf.wang@example.com,02-Jun-1995,01-Feb-2025,clothing ,52.75,4,PayPal
+ORD10415,CUST1065,Maria Ali,maria.ali@example.com,01-Sep-1964,01-01-2025,Clothing,59.97,5,Credit Card
+ORD10180,CUST1180,Aisha Wang,aisha.wang@example.com,17/06/1967,03/03/2024,sports,131.61,5,UPI
+ORD10430,CUST1080,Li Müller,li.müller@example.com,26/04/2000,2024-09-23,books,5.0,4,Credit Card
+ORD10102,CUST1102,Raj Kumar,raj.kumar@example.com,27-Nov-1976,08/08/2024,Beauty ,37.38,2,Debit Card
+ORD10165,CUST1165,Aisha Kumar,aisha.kumar@example.com,,2024-02-04,Clothing,78.9,3,PayPal
+ORD10248,CUST1248,Fatima Khan,,14/08/1976,25/09/2024,Sports,30.4,3,
+ORD10434,CUST1084,Aisha Kumar,aisha.kumar@example.com,1998-09-03,20-Sep-2024,clothing ,71.53,2,PayPal
+ORD10160,CUST1160,Li Ivanov,li.ivanov@example.com,1975-02-22,02-11-2024,Clothes,69.7,3,Debit Card
+ORD10401,CUST1051,Fatima Khan,,13/11/1955,2025-01-23,Beauty,,4,UPI
+ORD10373,CUST1023,John Ivanov,john.ivanov@example.com,24/03/1974,26/01/2024,Electronic,93.53,3,Cash
+ORD10343,CUST1343,Olga Kim,olga.kim@example.com,01-27-1982,02-21-2024,Sports & Outdoors,57.35,4,Cash
+ORD10019,CUST1019,Fatima Wang,fatima.wang@example.com,1985-05-01,2024-04-25,Beauty ,22.76,5,Debit Card
+ORD10041,CUST1041,John Ali,john.ali@example.com,1979-12-30,07-23-2024,ELECTRONICS,72.15,5,Cash
+ORD10269,CUST1269,Olga Chen,olga.chen@example.com,16-Dec-1990,17-Aug-2024,beauty products,36.8,3,UPI
+ORD10198,CUST1198,Aisha Rossi,aisha.rossi@example.com,06-03-1984,17/03/2024,Beauty,54.61,5,PayPal
+ORD10463,CUST1113,Anna Wang,anna.wang@example.com,04-26-1971,29/07/2024,Beauty,29.01,3,Cash
+ORD10042,CUST1042,Tom Johnson,tom.johnson@example.com,08/06/1978,2024-01-15,Beauty ,55.14,3,Credit Card
+ORD10202,CUST1202,Nina Khan,nina.khan@example.com,07-26-1994,2024-04-07,books,66.82,2,Cash
+ORD10292,CUST1292,Olga Rossi,olga.rossi@example.com,02-21-1991,2024-02-08,home kitchen,35.21,4,PayPal
+ORD10327,CUST1327,Maria Brown,maria.brown@example.com,1965-10-04,08-25-2024,Beauty,,3,UPI
+ORD10296,CUST1296,Maria Smith,maria.smith@example.com,11-01-1966,07/08/2024,Beauty,29.21,3,Credit Card
+ORD10181,CUST1181,Raj Rossi,raj.rossi@example.com,1962-09-26,09/10/2024,clothing ,68.77,4,UPI
+ORD10174,CUST1174,Olga Kumar,olga.kumar@example.com,17/10/1957,19/09/2024,Book,60.23,1,Debit Card
+ORD10081,CUST1081,Anna Davis,anna.davis@example.com,29-Mar-1955,08/02/2024,Book,43.41,4,PayPal
+ORD10047,CUST1047,David Ali,david.ali@example.com,18-Sep-1996,08-08-2024,Book,36.18,5,Cash
+ORD10247,CUST1247,John Ahmed,john.ahmed@example.com,01-24-2003,01-04-2025,Electronics,35.75,4,Debit Card
+ORD10094,CUST1094,Aisha Garcia,aisha.garcia@example.com,03-23-1992,02-05-2024,Sports,40.17,1,PayPal
+ORD10493,CUST1143,Raj Ivanov,raj.ivanov@example.com,20/02/1971,23-May-2024,Beauty ,52.32,1,PayPal
+ORD10082,CUST1082,Priya Wang,priya.wang@example.com,1995-09-25,05-27-2024,Electronic,60.71,5,Debit Card
+ORD10307,CUST1307,Nina Chen,,1974-05-10,01-08-2024,Clothing,88.33,4,UPI
+ORD10239,CUST1239,Mohammed Khan,mohammed.khan@example.com,06/10/1976,17-Jan-2025,Home and Kitchen,30.15,5,PayPal
+ORD10465,CUST1115,Aisha Sato,aisha.sato@example.com,01-Dec-1970,2024-03-17,Clothing,46.63,5,UPI
+ORD10342,CUST1342,Emma Patel,emma.patel@example.com,,12/01/2024,Sports,57.31,1,PayPal
+ORD10384,CUST1034,Yusuf Chen,yusuf.chen@example.com,1999-11-25,29/08/2024,Home and Kitchen,34.23,4,Credit Card
+ORD10464,CUST1114,Yusuf Kim,yusuf.kim@example.com,06-Dec-1988,05/02/2024,Sports & Outdoors,56.42,2,UPI
+ORD10140,CUST1140,Emma Müller,emma.müller@example.com,1987-06-19,12-Nov-2024,books,13.07,2,Cash
+ORD10107,CUST1107,John Kim,john.kim@example.com,07-25-1999,2024-12-17,Electronic,106.59,3,Debit Card
+ORD10348,CUST1348,Fatima Smith,fatima.smith@example.com,25-Apr-1994,25-Jan-2024,Beauty,7.78,4,Cash
+ORD10293,CUST1293,Nina Smith,nina.smith@example.com,02-17-1996,2025-01-31,Home & Kitchen,32.32,4,Debit Card
+ORD10208,CUST1208,Maria Silva,maria.silva@example.com,13/03/1974,17-Jan-2025,beauty products,65.41,5,PayPal
+ORD10323,CUST1323,Li Ahmed,li.ahmed@example.com,1996-02-17,07-30-2024,Beauty ,25.45,2,Cash
+ORD10390,CUST1040,Nina Brown,nina.brown@example.com,02-07-1959,2024-03-26,clothing ,32.69,5,UPI
+ORD10096,CUST1096,Tom Ivanov,tom.ivanov@example.com,04/12/1971,08-21-2024,Beauty ,6.09,4,Credit Card
+ORD10123,CUST1123,Aisha Brown,aisha.brown@example.com,16-Jun-1960,2024-08-22,Home and Kitchen,92.08,1,Cash
+ORD10163,CUST1163,Kenji Hassan,,11-Dec-1964,2024-08-22,beauty products,84.76,5,UPI
+ORD10024,CUST1024,Kenji Müller,kenji.müller@example.com,1977-05-30,22-May-2024,Book,7.26,5,Credit Card
+ORD10014,CUST1014,Maria Smith,maria.smith@example.com,29/11/1999,01-04-2025,Sports,5.0,3,UPI
+ORD10062,CUST1062,John Hassan,john.hassan@example.com,29-Apr-1966,19/03/2024,Books,44.43,2,Cash
+ORD10424,CUST1074,Tom Wang,tom.wang@example.com,04-25-1976,15-Jan-2025,Clothing,79.15,4,Cash
+ORD10040,CUST1040,Priya Wilson,priya.wilson@example.com,04-18-1996,23/04/2024,clothing ,55.91,2,Debit Card
+ORD10369,CUST1019,Aisha Kumar,aisha.kumar@example.com,11-20-1960,29/01/2024,Sports,52.93,5,UPI
+ORD10237,CUST1237,Wei Davis,wei.davis@example.com,08-16-1959,05/01/2025,Home and Kitchen,5.0,5,Credit Card
+ORD10376,CUST1026,David Ahmed,david.ahmed@example.com,1964-03-06,15-Nov-2024,Sports,26.98,3,UPI
+ORD10398,CUST1048,Emma Wang,emma.wang@example.com,1962-12-26,2024-01-02,Beauty ,90.62,2,Credit Card
+ORD10099,CUST1099,Wei Wilson,wei.wilson@example.com,16-May-1985,02-04-2025,Home & Kitchen,50.15,5,Cash
+ORD10257,CUST1257,David Wang,david.wang@example.com,05-12-1962,2024-12-31,Sports & Outdoors,88.01,2,Cash
+ORD10251,CUST1251,James Sato,james.sato@example.com,2005-10-06,11-26-2024,Sports,12.17,2,Debit Card
+ORD10383,CUST1033,Emma Kumar,emma.kumar@example.com,1996-08-09,05-13-2024,sports,5.0,5,UPI
+ORD10400,CUST1050,Maria Patel,maria.patel@example.com,07-16-1958,21/02/2024,home kitchen,87.13,3,Cash
+ORD10381,CUST1031,Aisha Brown,aisha.brown@example.com,1981-05-10,28/03/2024,sports,24.81,3,UPI
+ORD10315,CUST1315,Fatima Kim,fatima.kim@example.com,1975-06-29,2024-12-11,Clothing,89.16,1,Debit Card
+ORD10468,CUST1118,Kenji Garcia,kenji.garcia@example.com,1975-11-10,10-May-2024,clothing ,72.73,5,Cash
+ORD10128,CUST1128,Kenji Khan,kenji.khan@example.com,1966-09-03,01-16-2025,Beauty ,33.01,5,PayPal
+ORD10083,CUST1083,Kenji Khan,,,05/10/2024,Sports & Outdoors,94.34,2,PayPal
+ORD10484,CUST1134,Aisha Davis,aisha.davis@example.com,04-09-1977,01-05-2024,Home & Kitchen,56.1,3,Credit Card
+ORD10186,CUST1186,Nina Garcia,nina.garcia@example.com,2005-07-25,03-28-2024,Electronics,71.42,5,PayPal
+ORD10028,CUST1028,Aisha Ahmed,,2000-07-23,2024-03-21,Beauty,61.27,1,Debit Card
+ORD10090,CUST1090,Aisha Kumar,aisha.kumar@example.com,1994-08-28,14-Nov-2024,electronics,65.4,2,PayPal
+ORD10397,CUST1047,Mohammed Kumar,mohammed.kumar@example.com,01/07/1981,26-Dec-2024,Clothing,5.0,2,Cash
+ORD10074,CUST1074,Mohammed Wilson,mohammed.wilson@example.com,08/01/1964,05-21-2024,clothing ,96.94,2,PayPal
+ORD10250,CUST1250,Wei Ivanov,wei.ivanov@example.com,01-Aug-2004,13-Jul-2024,Clothing,,2,Credit Card
+ORD10172,CUST1172,David Johnson,david.johnson@example.com,06-02-1984,2024-02-22,clothing ,25.53,4,Debit Card
+ORD10162,CUST1162,Sara Ali,sara.ali@example.com,12-22-1964,17-Mar-2024,Electronic,73.61,1,Debit Card
+ORD10070,CUST1070,Wei Wang,wei.wang@example.com,31/10/1998,03-Jan-2025,sports,30.65,4,Cash
+ORD10295,CUST1295,James Johnson,james.johnson@example.com,1959-02-14,2024-12-15,Book,60.71,2,Cash
+ORD10092,CUST1092,Wei Wang,wei.wang@example.com,16/07/1965,28-Feb-2024,sports,79.06,3,UPI
+ORD10379,CUST1029,Olga Johnson,olga.johnson@example.com,14-Apr-1957,14/12/2024,clothing ,115.69,4,Cash
+ORD10363,CUST1013,Aisha Rossi,,04-Feb-1965,07-Jan-2024,Sports & Outdoors,46.74,5,UPI
+ORD10387,CUST1037,Nina Müller,nina.müller@example.com,11-Aug-1966,2024-09-07,books,,4,Cash
+ORD10126,CUST1126,Mohammed Sato,mohammed.sato@example.com,02-15-1992,19/08/2024,Book,115.71,1,PayPal
+ORD10246,CUST1246,Priya Hassan,priya.hassan@example.com,1998-10-08,22-Nov-2024,Electronics,39.96,4,Credit Card
+ORD10275,CUST1275,Emma Chen,emma.chen@example.com,1965-04-29,2024-06-02,Clothes,20.55,2,Debit Card
+ORD10060,CUST1060,Mohammed Rossi,mohammed.rossi@example.com,01-05-1989,06-16-2024,books,79.27,1,Cash
+ORD10121,CUST1121,Nina Johnson,nina.johnson@example.com,1978-10-22,09/01/2024,Sports & Outdoors,73.73,5,Credit Card
+ORD10013,CUST1013,Sara Davis,sara.davis@example.com,03-05-2003,2024-01-06,Clothes,57.26,4,Debit Card
+ORD10395,CUST1045,David Sato,david.sato@example.com,09-05-2001,2024-12-04,Sports & Outdoors,85.38,1,UPI
+ORD10268,CUST1268,David Chen,,06-27-1967,28-Jul-2024,Electronic,7.1,2,Cash
+ORD10483,CUST1133,James Khan,james.khan@example.com,01/05/1989,2024-05-12,Electronic,5.0,4,PayPal
+ORD10343,CUST1343,Olga Kim,olga.kim@example.com,01-27-1982,02-21-2024,Sports & Outdoors,57.35,4,Cash
+ORD10311,CUST1311,Maria Hassan,maria.hassan@example.com,30/09/1982,2024-11-07,Books,43.47,2,Credit Card
+ORD10158,CUST1158,Raj Davis,raj.davis@example.com,1980-07-28,2024-02-22,Beauty,64.21,5,Debit Card
+ORD10344,CUST1344,Emma Müller,emma.müller@example.com,11/01/1975,12-28-2024,Home and Kitchen,34.79,3,Debit Card
+ORD10187,CUST1187,Mohammed Kim,mohammed.kim@example.com,09-06-1999,2024-08-01,clothing ,64.2,4,
+ORD10271,CUST1271,Kenji Khan,kenji.khan@example.com,19/03/1978,2024-01-06,Sports,93.24,5,UPI
+ORD10274,CUST1274,David Johnson,david.johnson@example.com,01-Oct-2001,21/08/2024,home kitchen,50.31,4,Cash
+ORD10416,CUST1066,Maria Rossi,maria.rossi@example.com,1999-10-02,03/12/2024,Sports,27.55,5,Cash
+ORD10215,CUST1215,Anna Rossi,anna.rossi@example.com,1971-09-15,11-27-2024,Clothes,40.54,5,Debit Card
+ORD10460,CUST1110,James Ali,james.ali@example.com,1991-11-12,29/10/2024,Electronic,14.06,5,UPI
+ORD10350,CUST1000,John Johnson,john.johnson@example.com,08-28-1961,2024-05-13,Beauty,43.6,2,Credit Card
+ORD10496,CUST1146,Olga Khan,olga.khan@example.com,21/05/1960,19/12/2024,ELECTRONICS,66.17,1,Cash
+ORD10089,CUST1089,Sara Johnson,sara.johnson@example.com,2001-03-02,29-Feb-2024,beauty products,34.11,1,Debit Card
+ORD10325,CUST1325,Emma Johnson,emma.johnson@example.com,1975-12-16,08-19-2024,electronics,,5,Credit Card
+ORD10132,CUST1132,Emma Kumar,emma.kumar@example.com,08-Nov-1967,04/01/2024,Home & Kitchen,52.06,1,Credit Card
+ORD10125,CUST1125,Emma Ivanov,emma.ivanov@example.com,15-Sep-1995,11-01-2024,Books,67.61,1,UPI
+ORD10175,CUST1175,Raj Kumar,raj.kumar@example.com,06-Oct-1968,2024-07-15,home kitchen,58.3,1,UPI
+ORD10319,CUST1319,Wei Davis,wei.davis@example.com,05/02/1988,2024-08-21,clothing ,59.72,3,UPI
+ORD10192,CUST1192,Anna Wilson,anna.wilson@example.com,09-30-1999,20-Sep-2024,sports,75.69,4,UPI
+ORD10015,CUST1015,Yusuf Ali,yusuf.ali@example.com,1969-06-29,03-19-2024,Clothes,5.0,1,PayPal
+ORD10462,CUST1112,Olga Hassan,olga.hassan@example.com,1980-06-06,2024-10-15,electronics,51.06,4,Cash
+ORD10452,CUST1102,Olga Kumar,olga.kumar@example.com,06/06/1976,2024-09-14,Sports,78.65,2,Debit Card
+ORD10124,CUST1124,Maria Chen,maria.chen@example.com,1968-04-22,02-11-2024,Sports & Outdoors,7.94,5,UPI
+ORD10139,CUST1139,John Rossi,john.rossi@example.com,06-Jul-1993,02-09-2024,books,74.41,4,Credit Card
+ORD10112,CUST1112,Tom Khan,tom.khan@example.com,09-Jul-1978,08-20-2024,home kitchen,49.2,2,
+ORD10052,CUST1052,Yusuf Johnson,yusuf.johnson@example.com,14-Apr-2000,21-Jan-2025,beauty products,38.45,2,Cash
+ORD10361,CUST1011,Mohammed Garcia,mohammed.garcia@example.com,11-Jan-1962,22-Jan-2024,electronics,65.58,2,UPI
+ORD10113,CUST1113,John Hassan,john.hassan@example.com,1974-11-10,10-14-2024,Book,51.81,3,Cash
+ORD10010,CUST1010,Mohammed Wilson,mohammed.wilson@example.com,10-26-1967,21-Jul-2024,Sports & Outdoors,66.28,5,UPI
+ORD10020,CUST1020,John Chen,john.chen@example.com,1975-07-16,2024-12-28,Clothing,7.63,1,UPI
+ORD10017,CUST1017,Carlos Garcia,carlos.garcia@example.com,28/04/2004,03-Dec-2024,ELECTRONICS,19.62,5,Cash
+ORD10273,CUST1273,John Wilson,john.wilson@example.com,1992-04-26,02-23-2024,Books,84.89,2,PayPal
+ORD10001,CUST1001,Fatima Smith,fatima.smith@example.com,20/12/1976,01-14-2025,Sports & Outdoors,64.9,5,Credit Card
+ORD10427,CUST1077,Anna Ahmed,anna.ahmed@example.com,24-Aug-1958,02-Mar-2024,ELECTRONICS,21.05,2,Debit Card
+ORD10106,CUST1106,Fatima Wang,fatima.wang@example.com,07-18-1981,07-14-2024,Electronics,62.12,4,PayPal
+ORD10374,CUST1024,Aisha Smith,aisha.smith@example.com,14/07/1997,2025-02-03,Beauty,78.78,1,Debit Card
+ORD10409,CUST1059,Olga Wang,olga.wang@example.com,07-Nov-1994,10-Feb-2024,Home & Kitchen,53.61,4,PayPal
+ORD10499,CUST1149,Wei Ivanov,wei.ivanov@example.com,09/08/1996,11-10-2024,Beauty,23.73,3,
+ORD10448,CUST1098,Sara Kumar,sara.kumar@example.com,22-Jan-1998,03-09-2024,Book,21.8,3,Cash
+ORD10231,CUST1231,Priya Ivanov,priya.ivanov@example.com,04/06/2003,12/08/2024,Clothing,28.09,3,Debit Card
+ORD10435,CUST1085,Aisha Chen,aisha.chen@example.com,2003-04-07,19/02/2024,Home & Kitchen,95.07,2,Cash
+ORD10071,CUST1071,John Chen,john.chen@example.com,13/04/1991,30/05/2024,clothing ,60.84,3,Cash
+ORD10326,CUST1326,Carlos Khan,carlos.khan@example.com,10-23-1996,25-Mar-2024,books,,3,Debit Card
+ORD10258,CUST1258,Emma Kumar,emma.kumar@example.com,06-20-1955,2024-02-24,Book,28.77,3,Credit Card
+ORD10286,CUST1286,Tom Ahmed,tom.ahmed@example.com,01-13-1979,2024-02-27,beauty products,5.0,1,Cash
+ORD10039,CUST1039,Anna Sato,anna.sato@example.com,20-Oct-1984,13/01/2024,Electronic,10.15,1,Cash
+ORD10151,CUST1151,Olga Garcia,olga.garcia@example.com,10-Oct-1982,2024-10-31,Clothes,57.51,5,Credit Card
+ORD10352,CUST1002,Priya Khan,priya.khan@example.com,17-Jan-1972,18/06/2024,beauty products,94.26,5,PayPal
+ORD10494,CUST1144,Li Davis,li.davis@example.com,03/08/1972,09-Aug-2024,Sports & Outdoors,24.16,1,Debit Card
+ORD10164,CUST1164,Li Garcia,li.garcia@example.com,02-21-1955,29-May-2024,Electronic,25.38,2,Credit Card
+ORD10168,CUST1168,Maria Patel,maria.patel@example.com,06/12/1958,30/05/2024,Clothing,106.9,3,UPI
+ORD10492,CUST1142,Sara Wilson,sara.wilson@example.com,30/10/1987,11-09-2024,sports,94.4,4,PayPal
+ORD10207,CUST1207,Olga Kumar,olga.kumar@example.com,1981-01-21,30/01/2025,clothing ,65.45,1,PayPal
+ORD10245,CUST1245,John Sato,john.sato@example.com,05/02/1961,11/03/2024,Electronics,13.99,4,PayPal
+ORD10189,CUST1189,Yusuf Garcia,yusuf.garcia@example.com,26-Dec-1985,06-09-2024,Sports & Outdoors,24.6,5,UPI
+ORD10442,CUST1092,Tom Garcia,tom.garcia@example.com,14-Jun-1955,2024-03-04,beauty products,49.02,1,PayPal
+ORD10486,CUST1136,Mohammed Wang,mohammed.wang@example.com,23/10/1978,11/01/2025,Electronic,7.33,2,UPI
+ORD10146,CUST1146,Raj Brown,raj.brown@example.com,28-Jun-2000,2024-02-09,Book,73.45,1,Cash
+ORD10278,CUST1278,Mohammed Silva,mohammed.silva@example.com,17/02/1964,2025-01-20,home kitchen,31.99,4,Credit Card
+ORD10438,CUST1088,Olga Rossi,olga.rossi@example.com,11-06-1993,18-Nov-2024,Electronics,8.6,1,UPI
+ORD10407,CUST1057,Raj Ivanov,raj.ivanov@example.com,17/01/1956,2024-03-17,Sports,,4,Debit Card
+ORD10356,CUST1006,Tom Ivanov,tom.ivanov@example.com,03-22-1989,04-04-2024,Beauty,19.92,3,Cash
+ORD10371,CUST1021,Sara Kumar,sara.kumar@example.com,1966-02-11,25-Aug-2024,Electronic,50.74,5,Cash
+ORD10489,CUST1139,Olga Wang,olga.wang@example.com,10-Nov-1959,19/01/2025,sports,100.61,1,UPI
+ORD10308,CUST1308,David Ahmed,david.ahmed@example.com,,27-Jan-2025,Home & Kitchen,32.25,5,UPI
+ORD10287,CUST1287,Tom Ali,tom.ali@example.com,03-17-1977,2024-08-05,Clothing,45.45,3,Credit Card
+ORD10402,CUST1052,Sara Chen,sara.chen@example.com,1971-05-29,07-09-2024,Home and Kitchen,32.02,4,PayPal
+ORD10176,CUST1176,Carlos Ahmed,carlos.ahmed@example.com,03-16-1983,06-Jul-2024,Electronic,74.82,1,Debit Card
+ORD10425,CUST1075,Emma Davis,emma.davis@example.com,,2024-01-28,Book,69.36,3,UPI
+ORD10367,CUST1017,David Brown,david.brown@example.com,24/10/1963,23-May-2024,Sports & Outdoors,56.72,4,PayPal
+ORD10230,CUST1230,John Wang,john.wang@example.com,1964-01-20,2024-04-15,Book,70.39,1,Debit Card
+ORD10284,CUST1284,Aisha Wilson,,15-Apr-1992,28-Jul-2024,sports,12.87,5,Credit Card
+ORD10229,CUST1229,Maria Kumar,maria.kumar@example.com,1971-11-29,03-20-2024,Clothing,28.54,4,UPI
+ORD10101,CUST1101,Fatima Khan,fatima.khan@example.com,1981-11-12,15/08/2024,Clothing,7.54,1,PayPal
+ORD10412,CUST1062,Li Rossi,li.rossi@example.com,05-Aug-1987,18-Jun-2024,Books,16.26,2,Credit Card
+ORD10054,CUST1054,Li Silva,li.silva@example.com,2003-06-17,06-20-2024,Sports & Outdoors,68.35,4,Debit Card
+ORD10228,CUST1228,John Smith,john.smith@example.com,05-Nov-2003,01-Jun-2024,beauty products,17.67,2,Debit Card
+ORD10480,CUST1130,Yusuf Ali,yusuf.ali@example.com,06-02-1955,20-Aug-2024,Beauty,83.59,1,UPI
+ORD10496,CUST1146,Olga Khan,olga.khan@example.com,21/05/1960,19/12/2024,ELECTRONICS,66.17,1,Cash
+ORD10155,CUST1155,Maria Patel,maria.patel@example.com,23-Apr-1976,07-29-2024,clothing ,58.79,4,Debit Card
+ORD10252,CUST1252,Nina Wilson,nina.wilson@example.com,09-02-1961,2024-05-18,beauty products,77.54,1,Debit Card
+ORD10276,CUST1276,Aisha Müller,aisha.müller@example.com,10-Sep-1984,09/10/2024,Book,63.86,4,Debit Card
+ORD10159,CUST1159,Kenji Chen,kenji.chen@example.com,1986-05-13,23-Apr-2024,books,14.26,5,PayPal
+ORD10272,CUST1272,Nina Wang,nina.wang@example.com,02-Feb-1990,08-16-2024,Beauty ,6.92,2,PayPal
+ORD10045,CUST1045,Emma Khan,emma.khan@example.com,06-30-2000,01-03-2025,books,5.64,3,UPI
+ORD10498,CUST1148,Yusuf Ali,yusuf.ali@example.com,07-14-1980,22/10/2024,Clothes,44.29,4,Cash
+ORD10114,CUST1114,Fatima Garcia,fatima.garcia@example.com,22-Apr-1982,2024-01-24,Books,123.9,5,Debit Card
+ORD10324,CUST1324,Wei Kim,wei.kim@example.com,09/01/1994,2024-10-17,Electronic,112.77,3,Cash
+ORD10212,CUST1212,Li Davis,li.davis@example.com,15-Sep-1970,2025-01-13,Beauty,84.07,1,Cash
+ORD10109,CUST1109,Raj Garcia,raj.garcia@example.com,23-Apr-1984,02-16-2024,Beauty,57.73,5,PayPal
+ORD10170,CUST1170,Sara Khan,sara.khan@example.com,20-Nov-1990,07-Jul-2024,Home and Kitchen,,2,Cash
+ORD10080,CUST1080,Nina Hassan,nina.hassan@example.com,22/08/1973,2024-01-31,ELECTRONICS,5.0,2,Debit Card
+ORD10487,CUST1137,Raj Garcia,raj.garcia@example.com,1965-10-03,2025-02-02,sports,30.6,5,Credit Card
+ORD10085,CUST1085,Tom Wilson,tom.wilson@example.com,30-Jul-1958,2024-08-12,Clothes,25.75,1,Credit Card
+ORD10009,CUST1009,Emma Patel,emma.patel@example.com,20-Apr-1983,2024-04-27,ELECTRONICS,35.92,5,PayPal
+ORD10033,CUST1033,Yusuf Ahmed,yusuf.ahmed@example.com,17/04/1964,01-05-2024,ELECTRONICS,49.6,1,UPI
+ORD10100,CUST1100,Emma Wilson,emma.wilson@example.com,20/02/1961,2024-10-04,clothing ,42.96,1,Cash
+ORD10446,CUST1096,David Hassan,david.hassan@example.com,06-Jul-1983,05/02/2024,Book,70.09,3,UPI
+ORD10421,CUST1071,Raj Davis,raj.davis@example.com,11-24-2002,02-Sep-2024,books,111.82,5,Credit Card
+ORD10223,CUST1223,James Chen,james.chen@example.com,29-Dec-1959,18-Sep-2024,Sports & Outdoors,70.59,4,UPI
+ORD10029,CUST1029,Olga Khan,olga.khan@example.com,1958-07-26,18/10/2024,books,31.98,5,
+ORD10288,CUST1288,Maria Khan,maria.khan@example.com,10-30-1973,01/02/2025,books,67.65,2,Debit Card
+ORD10378,CUST1028,Sara Silva,sara.silva@example.com,25/11/1971,12-01-2024,Sports,55.5,1,UPI
+ORD10056,CUST1056,Nina Smith,nina.smith@example.com,1997-10-16,26-Jan-2025,home kitchen,77.94,4,Cash
+ORD10490,CUST1140,Raj Ivanov,raj.ivanov@example.com,1996-01-07,17/12/2024,Sports,76.45,1,Credit Card
+ORD10488,CUST1138,James Kumar,james.kumar@example.com,03-04-1999,11-13-2024,sports,17.55,5,PayPal
+ORD10420,CUST1070,Yusuf Brown,yusuf.brown@example.com,26/11/1966,12-17-2024,Sports,52.03,3,Credit Card
+ORD10049,CUST1049,John Patel,john.patel@example.com,14-Jul-1961,05-May-2024,books,60.31,5,Debit Card
+ORD10423,CUST1073,Sara Garcia,sara.garcia@example.com,1973-04-20,02-01-2024,home kitchen,42.53,1,UPI
+ORD10362,CUST1012,Sara Johnson,sara.johnson@example.com,22-Oct-1962,2025-01-07,beauty products,95.98,3,PayPal
+ORD10034,CUST1034,Carlos Silva,carlos.silva@example.com,05/10/1985,24/05/2024,ELECTRONICS,18.27,3,
+ORD10036,CUST1036,Maria Davis,maria.davis@example.com,2005-04-27,27-Dec-2024,Books,13.37,2,UPI
+ORD10064,CUST1064,Olga Ivanov,olga.ivanov@example.com,26/10/1961,01/01/2025,Books,14.11,3,UPI
+ORD10408,CUST1058,Wei Wilson,wei.wilson@example.com,09-07-1984,13/06/2024,Clothing,45.73,5,Cash
+ORD10313,CUST1313,John Johnson,john.johnson@example.com,2001-12-30,08-07-2024,ELECTRONICS,74.76,5,Credit Card
+ORD10235,CUST1235,Li Wang,li.wang@example.com,1996-07-16,02/06/2024,beauty products,114.32,4,UPI
+ORD10264,CUST1264,Emma Hassan,emma.hassan@example.com,06-30-1994,07-13-2024,books,19.27,5,Debit Card
+ORD10046,CUST1046,Carlos Ali,carlos.ali@example.com,08-12-1970,03-Aug-2024,Home and Kitchen,28.4,1,PayPal
+ORD10304,CUST1304,David Smith,david.smith@example.com,07/06/1973,12-03-2024,Home and Kitchen,68.31,1,Debit Card
+ORD10178,CUST1178,James Ali,james.ali@example.com,23-Aug-1961,03/03/2024,Beauty,93.61,4,Credit Card
+ORD10220,CUST1220,James Garcia,james.garcia@example.com,22-Apr-1992,08-20-2024,beauty products,52.46,2,Debit Card
+ORD10385,CUST1035,Carlos Garcia,carlos.garcia@example.com,17-Sep-1991,04-12-2024,Sports & Outdoors,27.23,2,Credit Card
+ORD10297,CUST1297,Raj Silva,raj.silva@example.com,,02-12-2024,Home and Kitchen,76.99,2,Cash
+ORD10022,CUST1022,Kenji Ali,kenji.ali@example.com,09-02-1993,2024-02-18,books,43.23,1,Credit Card
+ORD10249,CUST1249,Olga Chen,olga.chen@example.com,06/03/1996,10-Jul-2024,Electronic,102.96,1,Credit Card
+ORD10310,CUST1310,Wei Brown,wei.brown@example.com,1976-05-29,23-Dec-2024,Electronic,43.93,4,Credit Card
+ORD10200,CUST1200,Fatima Sato,fatima.sato@example.com,23-May-1957,10-25-2024,ELECTRONICS,15.71,5,UPI
+ORD10138,CUST1138,Anna Garcia,anna.garcia@example.com,11-18-1999,13/07/2024,Home & Kitchen,40.34,1,Cash
+ORD10025,CUST1025,Priya Davis,priya.davis@example.com,16/03/1976,2024-01-08,books,33.67,2,Cash
+ORD10185,CUST1185,Wei Silva,wei.silva@example.com,03-25-1966,04-10-2024,beauty products,43.3,2,UPI
+ORD10206,CUST1206,Mohammed Wilson,mohammed.wilson@example.com,04-17-1986,11-Jun-2024,clothing ,21.87,5,Cash
+ORD10135,CUST1135,Yusuf Rossi,yusuf.rossi@example.com,,07-31-2024,home kitchen,22.42,3,UPI
+ORD10300,CUST1300,Wei Khan,wei.khan@example.com,12-23-1987,02-22-2024,Sports & Outdoors,68.89,2,Debit Card
+ORD10117,CUST1117,Raj Davis,raj.davis@example.com,07-Jun-1960,11-26-2024,ELECTRONICS,48.96,1,Cash
+ORD10213,CUST1213,James Müller,james.müller@example.com,1958-05-12,01-18-2025,clothing ,78.62,1,PayPal
+ORD10466,CUST1116,Fatima Chen,fatima.chen@example.com,2003-05-20,03/09/2024,books,43.37,3,Credit Card
+ORD10440,CUST1090,Wei Brown,wei.brown@example.com,21-Mar-1989,26-Jan-2025,Electronics,48.33,5,Debit Card
+ORD10359,CUST1009,James Kim,james.kim@example.com,1981-10-23,30-Apr-2024,Home and Kitchen,59.68,1,UPI
+ORD10232,CUST1232,Nina Johnson,nina.johnson@example.com,04-02-1976,10-22-2024,Sports & Outdoors,56.49,5,Debit Card
+ORD10218,CUST1218,David Kim,david.kim@example.com,06-19-1978,2025-01-05,Electronic,42.9,1,Cash
+ORD10057,CUST1057,Tom Davis,tom.davis@example.com,,04/11/2024,ELECTRONICS,24.82,1,
+ORD10475,CUST1125,Wei Chen,wei.chen@example.com,1988-04-08,14/05/2024,Clothing,99.35,4,UPI
+ORD10405,CUST1055,James Khan,james.khan@example.com,1959-02-15,29-Jul-2024,ELECTRONICS,36.5,1,UPI
+ORD10377,CUST1027,Yusuf Hassan,yusuf.hassan@example.com,12-Sep-1964,05-24-2024,Home & Kitchen,76.17,3,PayPal
+ORD10375,CUST1025,Sara Hassan,sara.hassan@example.com,08-Jan-1993,06-05-2024,home kitchen,114.6,2,Cash
+ORD10341,CUST1341,Li Smith,li.smith@example.com,01-23-1955,26-Sep-2024,electronics,25.33,3,Debit Card
+ORD10182,CUST1182,Kenji Sato,kenji.sato@example.com,03-30-1966,2024-10-21,Home & Kitchen,24.29,5,PayPal
+ORD10098,CUST1098,Nina Johnson,nina.johnson@example.com,12-Dec-1963,21-Feb-2024,Electronics,57.83,4,Debit Card
+ORD10115,CUST1115,Olga Rossi,olga.rossi@example.com,11-Nov-1968,08-Jul-2024,Books,44.23,5,Cash
+ORD10279,CUST1279,Sara Wilson,,12-Nov-1989,09-27-2024,Beauty ,52.09,3,Cash
+ORD10119,CUST1119,Wei Davis,wei.davis@example.com,11-26-1975,16/04/2024,Sports & Outdoors,84.28,5,Credit Card
+ORD10386,CUST1036,James Johnson,james.johnson@example.com,1983-02-12,19/11/2024,Electronics,54.51,2,Debit Card
+ORD10171,CUST1171,James Kumar,james.kumar@example.com,31-May-1962,09-22-2024,Home & Kitchen,23.31,2,UPI
+ORD10443,CUST1093,Mohammed Kumar,mohammed.kumar@example.com,25/12/2000,18-Apr-2024,Beauty,5.0,5,
+ORD10055,CUST1055,Mohammed Chen,mohammed.chen@example.com,,31-Jul-2024,books,80.93,4,Cash
+ORD10177,CUST1177,James Ahmed,james.ahmed@example.com,06-26-1978,2024-07-17,Book,50.39,5,PayPal
+ORD10328,CUST1328,Priya Ali,priya.ali@example.com,08/03/1963,16/06/2024,home kitchen,73.75,1,PayPal
+ORD10195,CUST1195,Olga Patel,olga.patel@example.com,07-11-1987,18/10/2024,Home & Kitchen,55.2,4,UPI
+ORD10199,CUST1199,Nina Johnson,nina.johnson@example.com,07-02-2005,16-Sep-2024,sports,51.75,3,PayPal
+ORD10364,CUST1014,Fatima Khan,fatima.khan@example.com,08-31-1980,2024-10-15,books,62.05,4,
+ORD10481,CUST1131,Wei Ahmed,wei.ahmed@example.com,07-01-1965,05-30-2024,beauty products,,5,PayPal
+ORD10183,CUST1183,Carlos Davis,carlos.davis@example.com,30-Jul-1966,23/11/2024,Sports,17.87,1,Credit Card
+ORD10418,CUST1068,Emma Ahmed,emma.ahmed@example.com,04-09-1977,15-Jul-2024,Home and Kitchen,53.47,3,Cash
+ORD10355,CUST1005,Anna Brown,anna.brown@example.com,05-12-1965,11-Feb-2024,Home and Kitchen,49.43,3,Credit Card
+ORD10104,CUST1104,Maria Silva,maria.silva@example.com,09-27-1996,2024-12-07,beauty products,25.93,4,PayPal
+ORD10221,CUST1221,Yusuf Chen,yusuf.chen@example.com,05-21-2002,26-Sep-2024,Home & Kitchen,119.44,1,Credit Card
+ORD10131,CUST1131,Sara Kim,sara.kim@example.com,2005-04-29,25-Apr-2024,ELECTRONICS,5.0,3,PayPal
+ORD10354,CUST1004,Priya Kumar,priya.kumar@example.com,11-11-1962,02-Jan-2024,sports,45.2,1,Debit Card
+ORD10339,CUST1339,Anna Müller,anna.müller@example.com,1987-03-10,05-01-2024,home kitchen,62.39,5,Debit Card
+ORD10445,CUST1095,Fatima Ali,fatima.ali@example.com,09-06-1984,06-Jan-2025,Sports & Outdoors,10.87,2,Credit Card
+ORD10061,CUST1061,John Davis,,1975-02-12,01-27-2024,Clothing,35.62,2,
+ORD10095,CUST1095,David Kim,david.kim@example.com,01-May-1968,23-Oct-2024,beauty products,38.24,3,UPI
+ORD10194,CUST1194,Tom Smith,tom.smith@example.com,01-06-1967,25-Feb-2024,home kitchen,12.63,3,
+ORD10141,CUST1141,Nina Ivanov,nina.ivanov@example.com,07-04-1990,2024-09-25,Clothes,56.82,2,Credit Card
+ORD10149,CUST1149,Raj Brown,raj.brown@example.com,1985-05-10,17-Jul-2024,Clothes,65.66,1,UPI
+ORD10203,CUST1203,Aisha Hassan,aisha.hassan@example.com,22/05/1967,2024-08-29,beauty products,82.49,4,UPI
+ORD10153,CUST1153,Mohammed Wang,mohammed.wang@example.com,12-03-1961,11/03/2024,Books,29.6,5,UPI
+ORD10338,CUST1338,Anna Khan,anna.khan@example.com,1978-11-29,06/05/2024,Electronic,40.36,4,PayPal
+ORD10417,CUST1067,Nina Wilson,nina.wilson@example.com,31/07/1970,17/09/2024,Books,96.53,5,UPI
+ORD10011,CUST1011,Sara Kim,sara.kim@example.com,23/06/1987,07-Aug-2024,Sports & Outdoors,36.1,1,Credit Card
+ORD10270,CUST1270,Yusuf Chen,yusuf.chen@example.com,06/11/1986,25/02/2024,Clothing,53.92,4,PayPal
+ORD10097,CUST1097,Emma Wilson,emma.wilson@example.com,21/08/1989,27-Dec-2024,sports,58.88,2,UPI
+ORD10211,CUST1211,James Wilson,james.wilson@example.com,10-08-1980,29/11/2024,clothing ,67.13,1,UPI
+ORD10241,CUST1241,Fatima Wilson,fatima.wilson@example.com,03-23-1973,01-24-2025,Clothes,26.22,5,Debit Card
+ORD10058,CUST1058,Emma Ivanov,emma.ivanov@example.com,06/12/1996,05/01/2025,beauty products,40.72,4,UPI
+ORD10302,CUST1302,Yusuf Rossi,yusuf.rossi@example.com,06/01/1964,2024-04-21,Books,33.19,4,PayPal
+ORD10437,CUST1087,Wei Chen,wei.chen@example.com,1977-08-07,28/01/2024,Beauty ,98.86,3,Cash
+ORD10360,CUST1010,Nina Ahmed,nina.ahmed@example.com,16-Oct-1965,19/10/2024,Beauty,25.18,2,Debit Card
+ORD10037,CUST1037,Priya Kumar,priya.kumar@example.com,23/07/1993,25/10/2024,Clothing,56.27,1,PayPal
+ORD10071,CUST1071,John Chen,john.chen@example.com,13/04/1991,30/05/2024,clothing ,60.84,3,Cash
+ORD10021,CUST1021,Li Silva,li.silva@example.com,22/03/1974,08-Dec-2024,Beauty ,93.97,2,Cash
+ORD10451,CUST1101,James Garcia,james.garcia@example.com,01-13-1975,06-Jul-2024,Sports & Outdoors,48.12,5,Credit Card
+ORD10333,CUST1333,Anna Kumar,anna.kumar@example.com,09-02-1979,19/04/2024,Book,52.27,1,UPI
+ORD10076,CUST1076,Fatima Smith,fatima.smith@example.com,10-Feb-1997,10-20-2024,Book,74.66,1,PayPal
+ORD10201,CUST1201,Li Patel,li.patel@example.com,19-Apr-1970,25-Oct-2024,Sports & Outdoors,60.73,2,Credit Card
+ORD10078,CUST1078,Carlos Kim,carlos.kim@example.com,,2024-06-04,beauty products,41.03,5,UPI
+ORD10264,CUST1264,Emma Hassan,emma.hassan@example.com,06-30-1994,07-13-2024,books,19.27,5,Debit Card
+ORD10492,CUST1142,Sara Wilson,sara.wilson@example.com,30/10/1987,11-09-2024,sports,94.4,4,PayPal
+ORD10150,CUST1150,Olga Brown,olga.brown@example.com,1984-11-27,09/05/2024,Beauty ,58.91,3,PayPal
+ORD10450,CUST1100,John Ahmed,john.ahmed@example.com,07/05/1991,2024-11-19,Clothing,18.22,5,UPI
+ORD10003,CUST1003,Mohammed Davis,mohammed.davis@example.com,04-20-1995,02/08/2024,Electronics,69.43,2,Cash
+ORD10053,CUST1053,Maria Silva,maria.silva@example.com,17-Nov-1979,19/01/2025,Electronic,,1,PayPal
+ORD10263,CUST1263,Sara Wang,sara.wang@example.com,17-Jul-1972,04-Jan-2025,Books,5.0,1,Cash
+ORD10254,CUST1254,Olga Davis,olga.davis@example.com,1967-07-22,18-Jun-2024,Sports,80.97,3,Credit Card
+ORD10471,CUST1121,Raj Hassan,raj.hassan@example.com,10-Apr-1973,21-May-2024,beauty products,,4,Debit Card
+ORD10260,CUST1260,Wei Hassan,wei.hassan@example.com,1989-07-24,11-02-2024,clothing ,73.24,1,UPI
+ORD10334,CUST1334,Yusuf Hassan,yusuf.hassan@example.com,04-Oct-1999,05-05-2024,beauty products,29.69,1,PayPal
+ORD10370,CUST1020,John Müller,john.müller@example.com,03/03/1960,08/04/2024,Clothing,26.81,3,Debit Card
+ORD10322,CUST1322,Mohammed Ahmed,mohammed.ahmed@example.com,1999-02-21,01-May-2024,Sports & Outdoors,67.85,1,Credit Card
+ORD10184,CUST1184,Aisha Garcia,aisha.garcia@example.com,07-13-1969,04/06/2024,Electronic,64.47,5,PayPal
+ORD10152,CUST1152,Kenji Ahmed,kenji.ahmed@example.com,07-13-1987,2024-07-04,Beauty,60.39,3,Cash
+ORD10467,CUST1117,Aisha Sato,aisha.sato@example.com,03-15-1989,27-Apr-2024,Beauty ,68.43,5,Credit Card
+ORD10303,CUST1303,Kenji Johnson,kenji.johnson@example.com,1979-11-06,12/03/2024,Electronic,72.42,5,UPI
+ORD10191,CUST1191,David Ivanov,david.ivanov@example.com,10/04/1977,11-Nov-2024,Clothes,36.6,3,Debit Card
+ORD10075,CUST1075,John Davis,john.davis@example.com,1959-01-31,03-05-2024,beauty products,5.0,2,Cash
+ORD10349,CUST1349,Raj Davis,raj.davis@example.com,06/01/1998,2024-07-11,Beauty,28.45,1,PayPal
+ORD10244,CUST1244,Carlos Davis,carlos.davis@example.com,2003-08-21,07/09/2024,Sports,75.97,1,Credit Card
+ORD10500,CUST1150,Yusuf Kim,yusuf.kim@example.com,05/02/1962,2024-07-26,Clothes,8.52,3,PayPal
+ORD10088,CUST1088,Anna Johnson,anna.johnson@example.com,09-Nov-1980,29-Jul-2024,beauty products,59.86,1,PayPal
+ORD10240,CUST1240,David Ivanov,david.ivanov@example.com,09-02-1982,08-26-2024,home kitchen,75.57,4,Cash
+ORD10144,CUST1144,Maria Kim,maria.kim@example.com,13/05/1983,11-25-2024,Book,55.54,4,PayPal
+ORD10429,CUST1079,Priya Hassan,priya.hassan@example.com,01-04-1999,12-04-2024,Home & Kitchen,81.75,3,UPI
+ORD10267,CUST1267,Fatima Kim,fatima.kim@example.com,2004-05-08,12/04/2024,Book,98.97,2,Cash
+ORD10419,CUST1069,Carlos Garcia,carlos.garcia@example.com,02-23-2004,07-30-2024,beauty products,85.38,2,Debit Card
+ORD10289,CUST1289,Mohammed Patel,mohammed.patel@example.com,10-02-2002,10-18-2024,beauty products,58.43,3,PayPal
+ORD10137,CUST1137,Mohammed Brown,mohammed.brown@example.com,12-03-1977,18/04/2024,Clothes,26.5,4,Cash
+ORD10167,CUST1167,Priya Kumar,priya.kumar@example.com,16-Sep-1970,10-06-2024,sports,74.66,2,Credit Card
+ORD10084,CUST1084,Yusuf Kim,yusuf.kim@example.com,26-Feb-1966,27-May-2024,clothing ,34.45,3,UPI
+ORD10458,CUST1108,Aisha Garcia,aisha.garcia@example.com,1975-08-20,13/08/2024,Sports,18.94,2,Debit Card
+ORD10422,CUST1072,John Ivanov,john.ivanov@example.com,29/01/1960,2024-03-15,ELECTRONICS,102.66,2,PayPal
+ORD10156,CUST1156,Tom Wang,tom.wang@example.com,05-28-1972,07-Jun-2024,Beauty ,28.57,4,PayPal
+ORD10357,CUST1007,Maria Silva,maria.silva@example.com,2005-08-15,04-25-2024,Sports & Outdoors,49.44,1,Credit Card
+ORD10382,CUST1032,Anna Johnson,anna.johnson@example.com,12-09-1974,2024-12-01,Electronic,32.02,3,Cash
+ORD10280,CUST1280,Yusuf Müller,yusuf.müller@example.com,09/08/1962,12-10-2024,Clothes,38.44,3,Credit Card
+ORD10127,CUST1127,Kenji Johnson,kenji.johnson@example.com,31/07/1988,12-06-2024,sports,20.28,1,Credit Card
+ORD10196,CUST1196,Sara Hassan,sara.hassan@example.com,1966-07-18,2024-12-14,Home and Kitchen,61.56,3,UPI
+ORD10266,CUST1266,James Kim,james.kim@example.com,27-Mar-1984,04/02/2025,ELECTRONICS,12.57,4,PayPal
+ORD10474,CUST1124,Yusuf Patel,yusuf.patel@example.com,1955-06-23,23-Mar-2024,Sports & Outdoors,91.01,5,Cash
+ORD10105,CUST1105,Nina Brown,nina.brown@example.com,09-Jun-1977,23-Nov-2024,clothing ,45.16,4,Cash
+ORD10154,CUST1154,Priya Johnson,priya.johnson@example.com,18/10/1988,27/01/2025,Beauty,56.97,5,Debit Card
+ORD10283,CUST1283,Maria Hassan,maria.hassan@example.com,11-Nov-1955,01-28-2024,Sports & Outdoors,97.58,4,UPI
+ORD10392,CUST1042,John Wang,john.wang@example.com,1973-12-12,24/04/2024,Beauty ,64.76,1,PayPal
+ORD10227,CUST1227,Wei Davis,,23/08/1965,03-09-2024,beauty products,51.93,2,Debit Card
+ORD10368,CUST1018,Sara Sato,sara.sato@example.com,11-Nov-1971,2024-11-05,electronics,50.38,4,Cash
+ORD10026,CUST1026,Priya Müller,priya.müller@example.com,01-10-1990,2024-07-13,Book,53.33,5,Cash
+ORD10197,CUST1197,Raj Garcia,raj.garcia@example.com,1999-11-12,11-Apr-2024,Clothing,23.48,3,Cash
+ORD10065,CUST1065,Fatima Kim,fatima.kim@example.com,24-Feb-1986,2025-02-04,home kitchen,74.38,3,Credit Card
+ORD10016,CUST1016,David Wang,,2005-11-25,30/01/2024,Home & Kitchen,33.13,1,UPI
+ORD10298,CUST1298,Wei Khan,wei.khan@example.com,1997-10-11,01/01/2024,Sports & Outdoors,59.22,5,Cash
+ORD10372,CUST1022,Anna Wilson,anna.wilson@example.com,19/11/1985,10-27-2024,ELECTRONICS,64.94,1,PayPal
+ORD10110,CUST1110,Aisha Ahmed,aisha.ahmed@example.com,20-Jan-1978,19/05/2024,clothing ,47.77,3,Credit Card
+ORD10337,CUST1337,Yusuf Wang,yusuf.wang@example.com,03-Apr-1960,01-16-2024,Sports,25.24,5,Debit Card
+ORD10309,CUST1309,Carlos Silva,carlos.silva@example.com,02/02/1962,02-12-2024,Sports & Outdoors,66.41,4,UPI
+ORD10027,CUST1027,Carlos Ali,carlos.ali@example.com,1960-03-31,31/05/2024,Clothes,15.47,5,Cash
+ORD10077,CUST1077,James Khan,james.khan@example.com,1999-02-12,03-Feb-2024,Beauty ,52.61,1,Debit Card
+ORD10044,CUST1044,Sara Patel,,25/02/1955,28-Dec-2024,home kitchen,40.97,3,UPI
+ORD10281,CUST1281,Anna Kumar,anna.kumar@example.com,,21/12/2024,books,53.41,5,Cash
+ORD10453,CUST1103,Nina Kim,nina.kim@example.com,05-18-1998,03/12/2024,Clothing,20.43,4,Debit Card
+ORD10004,CUST1004,Emma Silva,emma.silva@example.com,1985-03-13,20/03/2024,Home & Kitchen,95.69,3,PayPal
+ORD10473,CUST1123,Fatima Wang,fatima.wang@example.com,30/12/1963,16/08/2024,Sports,5.0,3,UPI
+ORD10050,CUST1050,Olga Wilson,,1968-03-28,23/07/2024,Books,5.0,2,Debit Card
+ORD10406,CUST1056,Nina Kim,nina.kim@example.com,2001-07-27,04-24-2024,books,68.69,2,Cash
+ORD10455,CUST1105,James Rossi,james.rossi@example.com,1984-01-28,2024-01-24,Sports,34.09,3,PayPal
+ORD10388,CUST1038,John Patel,john.patel@example.com,,30/09/2024,Clothes,,5,Debit Card
+ORD10285,CUST1285,Li Brown,li.brown@example.com,03-04-1975,01-17-2024,Beauty,113.99,5,Cash
+ORD10031,CUST1031,Emma Chen,emma.chen@example.com,2005-07-05,05-Jan-2024,Home & Kitchen,31.95,5,PayPal
+ORD10457,CUST1107,Sara Ivanov,sara.ivanov@example.com,,24-Apr-2024,sports,46.79,5,
+ORD10122,CUST1122,Wei Wilson,wei.wilson@example.com,2001-01-16,08-17-2024,Book,22.72,5,Credit Card
+ORD10432,CUST1082,James Davis,james.davis@example.com,04-17-1965,2025-01-20,Book,5.0,5,
+ORD10116,CUST1116,Sara Patel,sara.patel@example.com,29-Jun-1974,12-19-2024,Book,59.05,3,Credit Card
+ORD10482,CUST1132,Maria Ivanov,maria.ivanov@example.com,10-28-1976,15-Oct-2024,Book,21.33,5,Credit Card
+ORD10217,CUST1217,Carlos Wilson,,08-12-1955,14/06/2024,Home and Kitchen,26.82,3,PayPal
+ORD10265,CUST1265,David Johnson,david.johnson@example.com,12-22-1997,04/11/2024,Beauty,42.42,3,PayPal
+ORD10210,CUST1210,Fatima Sato,fatima.sato@example.com,08/01/1964,18-Jun-2024,Electronics,,2,Cash
+ORD10317,CUST1317,Emma Wang,emma.wang@example.com,1979-05-03,08-01-2024,Beauty ,70.46,5,Credit Card
+ORD10385,CUST1035,Carlos Garcia,carlos.garcia@example.com,17-Sep-1991,04-12-2024,Sports & Outdoors,27.23,2,Credit Card
+ORD10002,CUST1002,Nina Sato,nina.sato@example.com,29/05/1963,2024-01-17,Electronic,,1,UPI
+ORD10314,CUST1314,James Rossi,james.rossi@example.com,22-Dec-1959,09-18-2024,Beauty ,74.41,2,
+ORD10023,CUST1023,Priya Ivanov,priya.ivanov@example.com,20/10/1964,01-07-2025,electronics,52.03,4,Debit Card
+ORD10318,CUST1318,Anna Wang,anna.wang@example.com,1990-12-20,2024-09-21,Book,40.69,3,PayPal
+ORD10320,CUST1320,Li Rossi,li.rossi@example.com,13/07/1972,07-Jul-2024,Sports & Outdoors,1383.0,1,Debit Card
+ORD10008,CUST1008,Yusuf Müller,yusuf.müller@example.com,29-Aug-1969,30/09/2024,Home and Kitchen,73.02,5,Debit Card
+ORD10070,CUST1070,Wei Wang,wei.wang@example.com,31/10/1998,03-Jan-2025,sports,30.65,4,Cash
+ORD10142,CUST1142,Aisha Khan,aisha.khan@example.com,05-06-1986,28/09/2024,Sports & Outdoors,89.21,2,PayPal
+ORD10087,CUST1087,Anna Kim,anna.kim@example.com,,11-Aug-2024,home kitchen,77.46,3,Credit Card
+ORD10353,CUST1003,David Brown,david.brown@example.com,15-Jun-1959,2024-05-01,Beauty ,,4,Debit Card
+ORD10479,CUST1129,Wei Chen,wei.chen@example.com,02-28-2005,10-08-2024,home kitchen,142.37,3,Debit Card
+ORD10242,CUST1242,Carlos Smith,carlos.smith@example.com,25/06/1981,13-May-2024,electronics,46.56,4,UPI
+ORD10472,CUST1122,Raj Davis,raj.davis@example.com,10-07-1977,11-Oct-2024,Beauty ,5.0,4,Debit Card
+ORD10216,CUST1216,Anna Hassan,anna.hassan@example.com,05-15-1993,23-Nov-2024,Home & Kitchen,72.77,1,Debit Card
+ORD10069,CUST1069,James Ali,james.ali@example.com,07-14-1985,06-30-2024,ELECTRONICS,60.85,5,Debit Card
+ORD10051,CUST1051,Aisha Rossi,aisha.rossi@example.com,20-Nov-1965,26/01/2024,Sports & Outdoors,59.72,5,UPI
+ORD10399,CUST1049,Aisha Chen,aisha.chen@example.com,,2025-01-05,Book,46.56,3,PayPal
+ORD10414,CUST1064,Carlos Sato,carlos.sato@example.com,29/07/1972,02-24-2024,Books,88.33,4,Debit Card
+ORD10157,CUST1157,Olga Ahmed,olga.ahmed@example.com,16/07/1969,27-Sep-2024,Sports & Outdoors,105.97,1,Cash
+ORD10491,CUST1141,Mohammed Ivanov,mohammed.ivanov@example.com,03-12-1984,2024-10-24,ELECTRONICS,49.76,3,
+ORD10253,CUST1253,Emma Smith,emma.smith@example.com,1990-09-25,16/04/2024,clothing ,113.66,2,UPI
+ORD10396,CUST1046,Yusuf Khan,yusuf.khan@example.com,,2024-05-24,electronics,35.92,3,UPI
+ORD10469,CUST1119,Sara Ali,sara.ali@example.com,2001-11-17,2024-01-03,Sports,1704.0,2,PayPal
+ORD10403,CUST1053,Olga Wilson,olga.wilson@example.com,21/02/1965,03/08/2024,Clothing,50.16,2,Credit Card
+ORD10358,CUST1008,Raj Davis,raj.davis@example.com,2004-08-31,30/07/2024,Home and Kitchen,41.34,4,UPI
+ORD10255,CUST1255,Fatima Sato,fatima.sato@example.com,22-Jul-1985,2024-04-28,Clothes,5.0,3,Cash
+ORD10277,CUST1277,Anna Sato,anna.sato@example.com,13-Sep-1972,2024-07-21,Beauty ,55.97,1,Debit Card
+ORD10179,CUST1179,Emma Kumar,emma.kumar@example.com,05-05-2004,2024-12-29,clothing ,42.06,2,PayPal
+ORD10282,CUST1282,Kenji Müller,kenji.müller@example.com,13/10/2004,06/09/2024,sports,69.86,2,PayPal
+ORD10391,CUST1041,Aisha Johnson,aisha.johnson@example.com,30-Sep-1985,10/08/2024,home kitchen,23.05,2,Cash
+ORD10238,CUST1238,Wei Ali,wei.ali@example.com,03/01/1998,24/01/2025,Clothes,55.59,1,Debit Card
+ORD10072,CUST1072,Tom Ahmed,tom.ahmed@example.com,05-18-2004,25-Jun-2024,home kitchen,96.14,3,PayPal
+ORD10461,CUST1111,Anna Garcia,anna.garcia@example.com,1968-03-05,2024-11-18,Beauty,,2,UPI
+ORD10130,CUST1130,Mohammed Garcia,mohammed.garcia@example.com,1975-02-13,02-Dec-2024,home kitchen,34.9,3,Credit Card
+ORD10145,CUST1145,Sara Kim,sara.kim@example.com,2000-07-07,01-29-2024,clothing ,57.8,1,Credit Card
+ORD10449,CUST1099,Tom Khan,tom.khan@example.com,05/03/1980,2024-03-30,beauty products,34.58,1,Credit Card
+ORD10336,CUST1336,James Davis,james.davis@example.com,11-12-1985,04-Feb-2025,Home and Kitchen,45.59,1,PayPal
+ORD10134,CUST1134,Yusuf Chen,yusuf.chen@example.com,1969-02-14,27/01/2024,Home & Kitchen,64.21,4,
+ORD10204,CUST1204,Olga Johnson,olga.johnson@example.com,10-30-2002,29-Mar-2024,beauty products,81.61,3,UPI
+ORD10394,CUST1044,Fatima Sato,fatima.sato@example.com,02-01-1966,15-Aug-2024,sports,104.94,2,Credit Card
+ORD10256,CUST1256,James Wang,james.wang@example.com,28/09/1993,01-Jul-2024,Beauty ,35.47,1,
+ORD10073,CUST1073,Sara Wang,sara.wang@example.com,1983-04-23,02/03/2024,beauty products,48.93,2,Debit Card
+ORD10236,CUST1236,Aisha Garcia,aisha.garcia@example.com,16/11/1977,17/07/2024,Clothes,69.02,4,PayPal
+ORD10038,CUST1038,Mohammed Wang,mohammed.wang@example.com,24-Sep-1986,2024-12-07,Sports & Outdoors,5.0,2,Debit Card
